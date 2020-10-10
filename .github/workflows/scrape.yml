@@ -14,7 +14,8 @@ jobs:
       uses: actions/checkout@v2
     - name: Fetch latest data
       run: |-
-        curl -L "https://www.stlouis-mo.gov/customcf/endpoints/occupancy-permits/occupancy-permits-30-days-export.cfm?permitType=all&dataType=json" | jq 'sort_by(.ISSUEDATE, .ADDRESS) | reverse[]' > permits.json
+        curl -L "https://www.stlouis-mo.gov/customcf/endpoints/occupancy-permits/occupancy-permits-30-days-export.cfm?permitType=all&dataType=json" | jq 'sort_by(.ISSUEDATE, .ADDRESS) | reverse[]' > occupancy.json
+        curl -L "https://www.stlouis-mo.gov/customcf/endpoints/building-permits/building-permits-30-days-export.cfm?permitType=all&dataType=json" | jq 'sort_by(.ISSUEDATE, .ADDRESS) | reverse[]' > building.json
     - name: Commit and push if it changed
       run: |-
         git config user.name "Automated"
