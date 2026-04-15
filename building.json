@@ -1301,22 +1301,22 @@
 {
   "ADDRESS": "500 N 13TH ST",
   "PROJECTTYPE": "Alteration",
-  "STRUCTURETYPE": 20,
-  "APPLICATIONDATE": "November, 12 2025 00:00:00",
-  "ISSUEDATE": "March, 18 2026 00:00:00",
-  "DAYSTOISSUE": 126,
-  "ESTPROJECTCOST": 1640000.0000,
-  "APPLICATIONDESCRIPTION": "INT/EXT ALT PER PLANS"
-}
-{
-  "ADDRESS": "500 N 13TH ST",
-  "PROJECTTYPE": "Alteration",
   "STRUCTURETYPE": 2,
   "APPLICATIONDATE": "January, 22 2026 00:00:00",
   "ISSUEDATE": "March, 18 2026 00:00:00",
   "DAYSTOISSUE": 55,
   "ESTPROJECTCOST": 285000.0000,
   "APPLICATIONDESCRIPTION": "INTERIOR EXTERIOR ALT PER PLNS"
+}
+{
+  "ADDRESS": "500 N 13TH ST",
+  "PROJECTTYPE": "Alteration",
+  "STRUCTURETYPE": 20,
+  "APPLICATIONDATE": "November, 12 2025 00:00:00",
+  "ISSUEDATE": "March, 18 2026 00:00:00",
+  "DAYSTOISSUE": 126,
+  "ESTPROJECTCOST": 1640000.0000,
+  "APPLICATIONDESCRIPTION": "INT/EXT ALT PER PLANS"
 }
 {
   "ADDRESS": "4133 WEBER RD",
@@ -2070,16 +2070,6 @@
 }
 {
   "ADDRESS": "1001-3 S GRAND BLVD",
-  "PROJECTTYPE": "Addition",
-  "STRUCTURETYPE": 26,
-  "APPLICATIONDATE": "March, 16 2026 00:00:00",
-  "ISSUEDATE": "April, 08 2026 00:00:00",
-  "DAYSTOISSUE": 23,
-  "ESTPROJECTCOST": 28000.0000,
-  "APPLICATIONDESCRIPTION": "Install piping and components for foam system to feed helipad (design, foam skid and nozzles provided by others).  Reference design drawings are provided under this submittal for the foam system design.  Pipe configuration and routing design by EFP.  New design is an addendum to existing permit 582682-24 and replaces Sheet FP1.131."
-}
-{
-  "ADDRESS": "1001-3 S GRAND BLVD",
   "PROJECTTYPE": "New Const.",
   "STRUCTURETYPE": 9,
   "APPLICATIONDATE": "December, 24 2025 00:00:00",
@@ -2087,6 +2077,16 @@
   "DAYSTOISSUE": 105,
   "ESTPROJECTCOST": 0.0000,
   "APPLICATIONDESCRIPTION": "ADDENDUM TO PERMIT AB583828 ISSUED 6-9-25 PR PLNS"
+}
+{
+  "ADDRESS": "1001-3 S GRAND BLVD",
+  "PROJECTTYPE": "Addition",
+  "STRUCTURETYPE": 26,
+  "APPLICATIONDATE": "March, 16 2026 00:00:00",
+  "ISSUEDATE": "April, 08 2026 00:00:00",
+  "DAYSTOISSUE": 23,
+  "ESTPROJECTCOST": 28000.0000,
+  "APPLICATIONDESCRIPTION": "Install piping and components for foam system to feed helipad (design, foam skid and nozzles provided by others).  Reference design drawings are provided under this submittal for the foam system design.  Pipe configuration and routing design by EFP.  New design is an addendum to existing permit 582682-24 and replaces Sheet FP1.131."
 }
 {
   "ADDRESS": "1-199 N KINGSHIGHWAY BLVD",
