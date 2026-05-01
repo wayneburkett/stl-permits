@@ -1,132 +1,192 @@
 {
-  "ADDRESS": "9856 PARKWAY DR",
+  "ADDRESS": "7032 OLEATHA AV",
+  "PROJECTTYPE": "Alteration",
+  "STRUCTURETYPE": 34,
+  "APPLICATIONDATE": "April, 29 2026 00:00:00",
+  "ISSUEDATE": "April, 29 2026 00:00:00",
+  "DAYSTOISSUE": 0,
+  "ESTPROJECTCOST": 30000.0000,
+  "APPLICATIONDESCRIPTION": "INTERIOR ALTERATIONS"
+}
+{
+  "ADDRESS": "6747 ITASKA ST",
   "PROJECTTYPE": "Addition",
-  "STRUCTURETYPE": 22,
-  "APPLICATIONDATE": "March, 31 2026 00:00:00",
-  "ISSUEDATE": "March, 31 2026 00:00:00",
-  "DAYSTOISSUE": 0,
-  "ESTPROJECTCOST": 15000.0000,
-  "APPLICATIONDESCRIPTION": "INSTALL 6' HT VINYL FENCE (REAR)"
-}
-{
-  "ADDRESS": "8612 HALLS FERRY RD",
-  "PROJECTTYPE": "Addition",
-  "STRUCTURETYPE": 28,
-  "APPLICATIONDATE": "February, 27 2026 00:00:00",
-  "ISSUEDATE": "March, 31 2026 00:00:00",
-  "DAYSTOISSUE": 32,
-  "ESTPROJECTCOST": 1236.0000,
-  "APPLICATIONDESCRIPTION": "6'W x 4'H 10mm Coroplast Sign, held by two 4\" x 4\" wooden posts, to stand no higher than 8' above ground level."
-}
-{
-  "ADDRESS": "6640 WINONA AV",
-  "PROJECTTYPE": "Addition",
-  "STRUCTURETYPE": 22,
-  "APPLICATIONDATE": "March, 31 2026 00:00:00",
-  "ISSUEDATE": "March, 31 2026 00:00:00",
-  "DAYSTOISSUE": 0,
-  "ESTPROJECTCOST": 11000.0000,
-  "APPLICATIONDESCRIPTION": "INSTALL 4' & 6' VINYL FENCE"
-}
-{
-  "ADDRESS": "6561 ODELL ST",
-  "PROJECTTYPE": "Addition",
-  "STRUCTURETYPE": 22,
-  "APPLICATIONDATE": "March, 31 2026 00:00:00",
-  "ISSUEDATE": "March, 31 2026 00:00:00",
-  "DAYSTOISSUE": 0,
-  "ESTPROJECTCOST": 15000.0000,
-  "APPLICATIONDESCRIPTION": "INSTALL 6' VINYL FENCE (REAR)"
-}
-{
-  "ADDRESS": "4949 LANSDOWNE AV",
-  "PROJECTTYPE": "Alteration",
-  "STRUCTURETYPE": 34,
-  "APPLICATIONDATE": "March, 31 2026 00:00:00",
-  "ISSUEDATE": "March, 31 2026 00:00:00",
-  "DAYSTOISSUE": 0,
-  "ESTPROJECTCOST": 70000.0000,
-  "APPLICATIONDESCRIPTION": "INT ALT"
-}
-{
-  "ADDRESS": "4580-4 LACLEDE AV",
-  "PROJECTTYPE": "Alteration",
-  "STRUCTURETYPE": 34,
-  "APPLICATIONDATE": "February, 24 2026 00:00:00",
-  "ISSUEDATE": "March, 31 2026 00:00:00",
-  "DAYSTOISSUE": 35,
-  "ESTPROJECTCOST": 150000.0000,
-  "APPLICATIONDESCRIPTION": "INTERIOR ALT CONVERTING  2 FLOOR INTO AN OFFICE"
-}
-{
-  "ADDRESS": "4569 OAKLAND AV",
-  "PROJECTTYPE": "Alteration",
-  "STRUCTURETYPE": 34,
-  "APPLICATIONDATE": "March, 23 2026 00:00:00",
-  "ISSUEDATE": "March, 31 2026 00:00:00",
-  "DAYSTOISSUE": 8,
-  "ESTPROJECTCOST": 70000.0000,
-  "APPLICATIONDESCRIPTION": "INT ALT ONLY"
-}
-{
-  "ADDRESS": "4127 LACLEDE AV",
-  "PROJECTTYPE": "Alteration",
-  "STRUCTURETYPE": 34,
-  "APPLICATIONDATE": "February, 23 2026 00:00:00",
-  "ISSUEDATE": "March, 31 2026 00:00:00",
-  "DAYSTOISSUE": 36,
-  "ESTPROJECTCOST": 133000.0000,
-  "APPLICATIONDESCRIPTION": "Renovate (1) full bathroom on the second level of the home.  Replace all fixtures and finishes.  No structural modifications."
-}
-{
-  "ADDRESS": "3622 N TAYLOR AV",
-  "PROJECTTYPE": "Alteration",
-  "STRUCTURETYPE": 34,
-  "APPLICATIONDATE": "March, 31 2026 00:00:00",
-  "ISSUEDATE": "March, 31 2026 00:00:00",
-  "DAYSTOISSUE": 0,
+  "STRUCTURETYPE": 23,
+  "APPLICATIONDATE": "April, 25 2026 00:00:00",
+  "ISSUEDATE": "April, 29 2026 00:00:00",
+  "DAYSTOISSUE": 4,
   "ESTPROJECTCOST": 5000.0000,
-  "APPLICATIONDESCRIPTION": "ROOF REPAIR FIRE DAMAGE"
+  "APPLICATIONDESCRIPTION": "Building a prefabricated gazebo on my patio.  This is not going to be used as a carport, there is no vehicular access to my back patio, but there was not a gazebo option"
 }
 {
-  "ADDRESS": "3537 CHOUTEAU AV",
+  "ADDRESS": "6565 DELOR ST",
+  "PROJECTTYPE": "Alteration",
+  "STRUCTURETYPE": 34,
+  "APPLICATIONDATE": "April, 29 2026 00:00:00",
+  "ISSUEDATE": "April, 29 2026 00:00:00",
+  "DAYSTOISSUE": 0,
+  "ESTPROJECTCOST": 15000.0000,
+  "APPLICATIONDESCRIPTION": "INTERIOR ALTERATION - REMOVE EXISTING WALL TO ADD A BEAM"
+}
+{
+  "ADDRESS": "6535 DEVONSHIRE AV",
+  "PROJECTTYPE": "Alteration",
+  "STRUCTURETYPE": 34,
+  "APPLICATIONDATE": "April, 29 2026 00:00:00",
+  "ISSUEDATE": "April, 29 2026 00:00:00",
+  "DAYSTOISSUE": 0,
+  "ESTPROJECTCOST": 43000.0000,
+  "APPLICATIONDESCRIPTION": "Interior Alterations of Bathroom & Repair Per Plans"
+}
+{
+  "ADDRESS": "5642 BOTANICAL AV",
+  "PROJECTTYPE": "Addition",
+  "STRUCTURETYPE": 23,
+  "APPLICATIONDATE": "April, 28 2026 00:00:00",
+  "ISSUEDATE": "April, 29 2026 00:00:00",
+  "DAYSTOISSUE": 1,
+  "ESTPROJECTCOST": 13000.0000,
+  "APPLICATIONDESCRIPTION": "2 car carport with door"
+}
+{
+  "ADDRESS": "4953 DELOR ST",
+  "PROJECTTYPE": "Alteration",
+  "STRUCTURETYPE": 34,
+  "APPLICATIONDATE": "April, 10 2026 00:00:00",
+  "ISSUEDATE": "April, 29 2026 00:00:00",
+  "DAYSTOISSUE": 19,
+  "ESTPROJECTCOST": 20000.0000,
+  "APPLICATIONDESCRIPTION": "Bathroom Remodel"
+}
+{
+  "ADDRESS": "4905-39 CHILDRENS PL",
+  "PROJECTTYPE": "Alteration",
+  "STRUCTURETYPE": 20,
+  "APPLICATIONDATE": "January, 23 2026 00:00:00",
+  "ISSUEDATE": "April, 29 2026 00:00:00",
+  "DAYSTOISSUE": 96,
+  "ESTPROJECTCOST": 336974.0000,
+  "APPLICATIONDESCRIPTION": "INT ALTS (3RD FLOOR) PER PLANS"
+}
+{
+  "ADDRESS": "4637 DAHLIA AV",
+  "PROJECTTYPE": "Alteration",
+  "STRUCTURETYPE": 34,
+  "APPLICATIONDATE": "April, 15 2026 00:00:00",
+  "ISSUEDATE": "April, 29 2026 00:00:00",
+  "DAYSTOISSUE": 14,
+  "ESTPROJECTCOST": 10000.0000,
+  "APPLICATIONDESCRIPTION": "Gut and remodel home. All walls made out of 2x4 studs spaced 16 inches on center and meet all of St. Louis Cities building codes. The plan is to reframe the building to the proposed plans making the property a 3 bed 2 bath home. We will also be bricking up 5 windows and adding one window in the primary bedroom. All windows will meet the building requirement of a minimum of 5.7 feet."
+}
+{
+  "ADDRESS": "4062 LOUGHBOROUGH AV",
   "PROJECTTYPE": "Addition",
   "STRUCTURETYPE": 22,
-  "APPLICATIONDATE": "March, 31 2026 00:00:00",
-  "ISSUEDATE": "March, 31 2026 00:00:00",
-  "DAYSTOISSUE": 0,
-  "ESTPROJECTCOST": 12000.0000,
-  "APPLICATIONDESCRIPTION": "INSTALL 6' ALUMINUM FENCE (SIDE)"
+  "APPLICATIONDATE": "March, 20 2026 00:00:00",
+  "ISSUEDATE": "April, 29 2026 00:00:00",
+  "DAYSTOISSUE": 40,
+  "ESTPROJECTCOST": 8000.0000,
+  "APPLICATIONDESCRIPTION": "72\" wood fence around back yard W/ gates opening into alley"
 }
 {
-  "ADDRESS": "3141 POTOMAC ST",
+  "ADDRESS": "4012 CONNECTICUT ST",
+  "PROJECTTYPE": "Addition",
+  "STRUCTURETYPE": 36,
+  "APPLICATIONDATE": "April, 29 2026 00:00:00",
+  "ISSUEDATE": "April, 29 2026 00:00:00",
+  "DAYSTOISSUE": 0,
+  "ESTPROJECTCOST": 15000.0000,
+  "APPLICATIONDESCRIPTION": "REPLACE EXISTING WOOD DECK IN REAR YARD"
+}
+{
+  "ADDRESS": "3943-5 MERAMEC ST",
+  "PROJECTTYPE": "Addition",
+  "STRUCTURETYPE": 22,
+  "APPLICATIONDATE": "April, 29 2026 00:00:00",
+  "ISSUEDATE": "April, 29 2026 00:00:00",
+  "DAYSTOISSUE": 0,
+  "ESTPROJECTCOST": 1819.0000,
+  "APPLICATIONDESCRIPTION": "CONSTRUCT 6' WOOD FENCE IN REAR YARD"
+}
+{
+  "ADDRESS": "3931-3 MINNESOTA AV",
+  "PROJECTTYPE": "Alteration",
+  "STRUCTURETYPE": 2,
+  "APPLICATIONDATE": "January, 16 2026 00:00:00",
+  "ISSUEDATE": "April, 29 2026 00:00:00",
+  "DAYSTOISSUE": 103,
+  "ESTPROJECTCOST": 0.0000,
+  "APPLICATIONDESCRIPTION": "ADDENDUM TO AB579571 ISSUED 5/28/25"
+}
+{
+  "ADDRESS": "3864 HARTFORD ST",
   "PROJECTTYPE": "Alteration",
   "STRUCTURETYPE": 34,
-  "APPLICATIONDATE": "March, 31 2026 00:00:00",
-  "ISSUEDATE": "March, 31 2026 00:00:00",
+  "APPLICATIONDATE": "April, 29 2026 00:00:00",
+  "ISSUEDATE": "April, 29 2026 00:00:00",
   "DAYSTOISSUE": 0,
+  "ESTPROJECTCOST": 31000.0000,
+  "APPLICATIONDESCRIPTION": "CONSTRUCT PERGOLA IN REAR PORCH"
+}
+{
+  "ADDRESS": "3644 COTE BRILLIANTE AV",
+  "PROJECTTYPE": "Alteration",
+  "STRUCTURETYPE": 34,
+  "APPLICATIONDATE": "April, 29 2026 00:00:00",
+  "ISSUEDATE": "April, 29 2026 00:00:00",
+  "DAYSTOISSUE": 0,
+  "ESTPROJECTCOST": 1000.0000,
+  "APPLICATIONDESCRIPTION": "HEALTHY HOME REPAIR"
+}
+{
+  "ADDRESS": "3612-4 HARTFORD ST",
+  "PROJECTTYPE": "Alteration",
+  "STRUCTURETYPE": 34,
+  "APPLICATIONDATE": "April, 22 2026 00:00:00",
+  "ISSUEDATE": "April, 29 2026 00:00:00",
+  "DAYSTOISSUE": 7,
+  "ESTPROJECTCOST": 7000.0000,
+  "APPLICATIONDESCRIPTION": "RELAY, REPAIR & TUCKPOINT DAMAGED EXTERIOR FACE BRICK AT EXISTING COMMERCIAL MASONRY STRUCTURE."
+}
+{
+  "ADDRESS": "3548 MINNESOTA AV",
+  "PROJECTTYPE": "Alteration",
+  "STRUCTURETYPE": 2,
+  "APPLICATIONDATE": "January, 16 2026 00:00:00",
+  "ISSUEDATE": "April, 29 2026 00:00:00",
+  "DAYSTOISSUE": 103,
+  "ESTPROJECTCOST": 0.0000,
+  "APPLICATIONDESCRIPTION": "ADDENDUM TO AB579565 ISSUED 5/28/25"
+}
+{
+  "ADDRESS": "3155 HARLEQUIN LA",
+  "PROJECTTYPE": "Alteration",
+  "STRUCTURETYPE": 34,
+  "APPLICATIONDATE": "April, 20 2026 00:00:00",
+  "ISSUEDATE": "April, 29 2026 00:00:00",
+  "DAYSTOISSUE": 9,
+  "ESTPROJECTCOST": 66000.0000,
+  "APPLICATIONDESCRIPTION": "Erie to remove existing roofing and properly dispose. Erie to furnish and install<:ice and water shield where applicable.<:Erie to furnish and install stone-coated metal roofing.<:Erie to furnish and install all accessories that may include drip edge, pipe boots,<:and flashing.<:Erie to furnish and install Premium Synthetic Underlayment.<:Erie to vent roof properly.<:Erie to furnish and install decking with OSB where applicable.<:Erie to clean inside of all gutters and downspouts on home, to ground level.<:Erie to reinforce all gutters with hidden brackets and realign all gutters, as<:needed.<:Erie to seal all gutter joints/endcaps with premium LeafFilter silicone"
+}
+{
+  "ADDRESS": "2415 SALENA ST",
+  "PROJECTTYPE": "Alteration",
+  "STRUCTURETYPE": 34,
+  "APPLICATIONDATE": "March, 24 2026 00:00:00",
+  "ISSUEDATE": "April, 29 2026 00:00:00",
+  "DAYSTOISSUE": 36,
   "ESTPROJECTCOST": 70000.0000,
-  "APPLICATIONDESCRIPTION": "Interior/Exterior Alterations Per Plans"
+  "APPLICATIONDESCRIPTION": "Kitchen update (main floor) - Existing cabinetry and appliances stay. New countertops, sink, faucet, disposal with air switch, backsplash tile, and hardware<:Primary Bathroom (second floor) - Complete demolition and remodel. New tiled shower with bench, glass shower door, new toilet, new vanity cabinetry, mirror, lighting, tiled floor and wainscotting."
 }
 {
-  "ADDRESS": "2741 ACCOMAC ST",
+  "ADDRESS": "1038-40 ART HILL PL",
   "PROJECTTYPE": "Alteration",
   "STRUCTURETYPE": 34,
-  "APPLICATIONDATE": "March, 31 2026 00:00:00",
-  "ISSUEDATE": "March, 31 2026 00:00:00",
+  "APPLICATIONDATE": "April, 29 2026 00:00:00",
+  "ISSUEDATE": "April, 29 2026 00:00:00",
   "DAYSTOISSUE": 0,
-  "ESTPROJECTCOST": 12000.0000,
-  "APPLICATIONDESCRIPTION": "BATHROOM RENO"
-}
-{
-  "ADDRESS": "1 BARNES JEWISH HOSPITAL PLZ",
-  "PROJECTTYPE": "Alteration",
-  "STRUCTURETYPE": 35,
-  "APPLICATIONDATE": "February, 03 2026 00:00:00",
-  "ISSUEDATE": "March, 31 2026 00:00:00",
-  "DAYSTOISSUE": 56,
-  "ESTPROJECTCOST": 24532.0000,
-  "APPLICATIONDESCRIPTION": "MODIFY FIRE ALARM SYSTEM PER PLANS -CAM LOWER LEVEL PER PL"
+  "ESTPROJECTCOST": 10000.0000,
+  "APPLICATIONDESCRIPTION": "Rebuild Balcony at Existing Front Porch Per Plans"
 }
 {
   "ADDRESS": "6825 WISE AV",
@@ -227,6 +287,16 @@
   "DAYSTOISSUE": 0,
   "ESTPROJECTCOST": 0.0000,
   "APPLICATIONDESCRIPTION": "Replace Roof, gutters, rear porch and siding per plans. Healthy Homes Repair"
+}
+{
+  "ADDRESS": "2353 S 11TH ST",
+  "PROJECTTYPE": "Alteration",
+  "STRUCTURETYPE": 34,
+  "APPLICATIONDATE": "April, 21 2026 00:00:00",
+  "ISSUEDATE": "April, 28 2026 00:00:00",
+  "DAYSTOISSUE": 7,
+  "ESTPROJECTCOST": 100000.0000,
+  "APPLICATIONDESCRIPTION": "Residence renovation"
 }
 {
   "ADDRESS": "1817 RUTGER ST",
@@ -2866,7 +2936,7 @@
   "ISSUEDATE": "April, 06 2026 00:00:00",
   "DAYSTOISSUE": 0,
   "ESTPROJECTCOST": 0.0000,
-  "APPLICATIONDESCRIPTION": "Rebuild existing wood frame (2-car) detached garage per plans - Storm Damage - waive all fees due to storm damage"
+  "APPLICATIONDESCRIPTION": "Rebuild existing wood frame-(2 car) detached garage - Storm Damage"
 }
 {
   "ADDRESS": "5856 PERSHING AV",
@@ -2876,7 +2946,7 @@
   "ISSUEDATE": "April, 06 2026 00:00:00",
   "DAYSTOISSUE": 0,
   "ESTPROJECTCOST": 0.0000,
-  "APPLICATIONDESCRIPTION": "Rebuild existing wood frame-(2 car) detached garage - Storm Damage"
+  "APPLICATIONDESCRIPTION": "Rebuild existing wood frame (2-car) detached garage per plans - Storm Damage - waive all fees due to storm damage"
 }
 {
   "ADDRESS": "5523 DAGGETT AV",
