@@ -1,4 +1,204 @@
 {
+  "ADDRESS": "8212 PENNSYLVANIA AV",
+  "PROJECTTYPE": "Alteration",
+  "STRUCTURETYPE": 34,
+  "APPLICATIONDATE": "May, 21 2026 00:00:00",
+  "ISSUEDATE": "May, 21 2026 00:00:00",
+  "DAYSTOISSUE": 0,
+  "ESTPROJECTCOST": 30000.0000,
+  "APPLICATIONDESCRIPTION": "INTERIOR ALTERATIONS"
+}
+{
+  "ADDRESS": "6224 FORSYTH BLVD",
+  "PROJECTTYPE": "New Const.",
+  "STRUCTURETYPE": 34,
+  "APPLICATIONDATE": "March, 25 2026 00:00:00",
+  "ISSUEDATE": "May, 21 2026 00:00:00",
+  "DAYSTOISSUE": 57,
+  "ESTPROJECTCOST": 1428000.0000,
+  "APPLICATIONDESCRIPTION": "Civil site and demo package for the future Forsyth School additions."
+}
+{
+  "ADDRESS": "5306 BLOW ST",
+  "PROJECTTYPE": "Addition",
+  "STRUCTURETYPE": 36,
+  "APPLICATIONDATE": "May, 21 2026 00:00:00",
+  "ISSUEDATE": "May, 21 2026 00:00:00",
+  "DAYSTOISSUE": 0,
+  "ESTPROJECTCOST": 5000.0000,
+  "APPLICATIONDESCRIPTION": "REPLACE DECK (REAR)"
+}
+{
+  "ADDRESS": "4521 NATURAL BRIDGE AV",
+  "PROJECTTYPE": "Addition",
+  "STRUCTURETYPE": 22,
+  "APPLICATIONDATE": "May, 21 2026 00:00:00",
+  "ISSUEDATE": "May, 21 2026 00:00:00",
+  "DAYSTOISSUE": 0,
+  "ESTPROJECTCOST": 2500.0000,
+  "APPLICATIONDESCRIPTION": "INSTALL 6' WOOD PRIVACY FENCE"
+}
+{
+  "ADDRESS": "4517 NATURAL BRIDGE AV",
+  "PROJECTTYPE": "Addition",
+  "STRUCTURETYPE": 22,
+  "APPLICATIONDATE": "May, 21 2026 00:00:00",
+  "ISSUEDATE": "May, 21 2026 00:00:00",
+  "DAYSTOISSUE": 0,
+  "ESTPROJECTCOST": 2500.0000,
+  "APPLICATIONDESCRIPTION": "INSTALL 6' WOOD PRIVACY FENCE"
+}
+{
+  "ADDRESS": "4323 MIAMI ST",
+  "PROJECTTYPE": "Addition",
+  "STRUCTURETYPE": 23,
+  "APPLICATIONDATE": "May, 21 2026 00:00:00",
+  "ISSUEDATE": "May, 21 2026 00:00:00",
+  "DAYSTOISSUE": 0,
+  "ESTPROJECTCOST": 12000.0000,
+  "APPLICATIONDESCRIPTION": "CONSTRUCT NEW CARPORT"
+}
+{
+  "ADDRESS": "4280 WASHINGTON AV",
+  "PROJECTTYPE": "Addition",
+  "STRUCTURETYPE": 22,
+  "APPLICATIONDATE": "May, 21 2026 00:00:00",
+  "ISSUEDATE": "May, 21 2026 00:00:00",
+  "DAYSTOISSUE": 0,
+  "ESTPROJECTCOST": 8000.0000,
+  "APPLICATIONDESCRIPTION": "NEW 7' WOOD PRIVACY FENCE"
+}
+{
+  "ADDRESS": "4125 FILLMORE ST",
+  "PROJECTTYPE": "Alteration",
+  "STRUCTURETYPE": 34,
+  "APPLICATIONDATE": "April, 25 2026 00:00:00",
+  "ISSUEDATE": "May, 21 2026 00:00:00",
+  "DAYSTOISSUE": 26,
+  "ESTPROJECTCOST": 2000.0000,
+  "APPLICATIONDESCRIPTION": "Remove siding, exterior sheathing from east wall. From south side of chimney going 12' forward. From under roof over overhang To foundation. Replace sheathing with 1/2\" OSB plywood. Entire house to be resided after work is complete."
+}
+{
+  "ADDRESS": "3666 BELLERIVE BLVD",
+  "PROJECTTYPE": "New Const.",
+  "STRUCTURETYPE": 34,
+  "APPLICATIONDATE": "May, 17 2026 00:00:00",
+  "ISSUEDATE": "May, 21 2026 00:00:00",
+  "DAYSTOISSUE": 4,
+  "ESTPROJECTCOST": 145000.0000,
+  "APPLICATIONDESCRIPTION": "Construction of new detached 26'x26' (676sf) single-story ADU on existing garage foundation that was permitted and poured under separate permit in 2021."
+}
+{
+  "ADDRESS": "3616 IOWA AV",
+  "PROJECTTYPE": "Addition",
+  "STRUCTURETYPE": 22,
+  "APPLICATIONDATE": "May, 21 2026 00:00:00",
+  "ISSUEDATE": "May, 21 2026 00:00:00",
+  "DAYSTOISSUE": 0,
+  "ESTPROJECTCOST": 10000.0000,
+  "APPLICATIONDESCRIPTION": "INSTALL NEW VINYL FENCE (FRONT/SIDE)"
+}
+{
+  "ADDRESS": "3501 WATSON RD",
+  "PROJECTTYPE": "Alteration",
+  "STRUCTURETYPE": 34,
+  "APPLICATIONDATE": "February, 17 2026 00:00:00",
+  "ISSUEDATE": "May, 21 2026 00:00:00",
+  "DAYSTOISSUE": 93,
+  "ESTPROJECTCOST": 93000.0000,
+  "APPLICATIONDESCRIPTION": "Interior alterations of the first floor of an existing two story apartment building. Tenant to have small cocktail lounge in the space with office and accommodating utility functions."
+}
+{
+  "ADDRESS": "3443 GASCONADE ST",
+  "PROJECTTYPE": "Alteration",
+  "STRUCTURETYPE": 34,
+  "APPLICATIONDATE": "May, 06 2026 00:00:00",
+  "ISSUEDATE": "May, 21 2026 00:00:00",
+  "DAYSTOISSUE": 15,
+  "ESTPROJECTCOST": 30000.0000,
+  "APPLICATIONDESCRIPTION": "Gut remodel the kitchen and bathroom only- everything else stays as it is currently. Replace some boards on the existing deck and fence. All work with plumbing, HVAC, and electrical will have separate permits pulled when hired, before commencing work."
+}
+{
+  "ADDRESS": "3300-38 S 2ND ST",
+  "PROJECTTYPE": "Addition",
+  "STRUCTURETYPE": 35,
+  "APPLICATIONDATE": "April, 28 2026 00:00:00",
+  "ISSUEDATE": "May, 21 2026 00:00:00",
+  "DAYSTOISSUE": 23,
+  "ESTPROJECTCOST": 891000.0000,
+  "APPLICATIONDESCRIPTION": "ALT EXSISTING FIRE ALARM SYSTEM"
+}
+{
+  "ADDRESS": "2622-8 N TAYLOR AV",
+  "PROJECTTYPE": "Addition",
+  "STRUCTURETYPE": 22,
+  "APPLICATIONDATE": "May, 21 2026 00:00:00",
+  "ISSUEDATE": "May, 21 2026 00:00:00",
+  "DAYSTOISSUE": 0,
+  "ESTPROJECTCOST": 500.0000,
+  "APPLICATIONDESCRIPTION": "INSTALL 6' CHAIN LINK FENCE"
+}
+{
+  "ADDRESS": "2618 N TAYLOR AV",
+  "PROJECTTYPE": "Addition",
+  "STRUCTURETYPE": 22,
+  "APPLICATIONDATE": "May, 21 2026 00:00:00",
+  "ISSUEDATE": "May, 21 2026 00:00:00",
+  "DAYSTOISSUE": 0,
+  "ESTPROJECTCOST": 500.0000,
+  "APPLICATIONDESCRIPTION": "INSTALL 6' CHAIN LINK FENCE"
+}
+{
+  "ADDRESS": "2614 N TAYLOR AV",
+  "PROJECTTYPE": "Addition",
+  "STRUCTURETYPE": 22,
+  "APPLICATIONDATE": "May, 21 2026 00:00:00",
+  "ISSUEDATE": "May, 21 2026 00:00:00",
+  "DAYSTOISSUE": 0,
+  "ESTPROJECTCOST": 500.0000,
+  "APPLICATIONDESCRIPTION": "INSTALL 6' CHAIN LINK FENCE"
+}
+{
+  "ADDRESS": "2612 N TAYLOR AV",
+  "PROJECTTYPE": "Addition",
+  "STRUCTURETYPE": 22,
+  "APPLICATIONDATE": "May, 21 2026 00:00:00",
+  "ISSUEDATE": "May, 21 2026 00:00:00",
+  "DAYSTOISSUE": 0,
+  "ESTPROJECTCOST": 500.0000,
+  "APPLICATIONDESCRIPTION": "INSTALL 6' CHAIN LINK FENCE"
+}
+{
+  "ADDRESS": "2608 N TAYLOR AV",
+  "PROJECTTYPE": "Addition",
+  "STRUCTURETYPE": 22,
+  "APPLICATIONDATE": "May, 21 2026 00:00:00",
+  "ISSUEDATE": "May, 21 2026 00:00:00",
+  "DAYSTOISSUE": 0,
+  "ESTPROJECTCOST": 500.0000,
+  "APPLICATIONDESCRIPTION": "INSTALL 6' CHAIN LINK FENCE"
+}
+{
+  "ADDRESS": "2602-4 N TAYLOR AV",
+  "PROJECTTYPE": "Addition",
+  "STRUCTURETYPE": 22,
+  "APPLICATIONDATE": "May, 21 2026 00:00:00",
+  "ISSUEDATE": "May, 21 2026 00:00:00",
+  "DAYSTOISSUE": 0,
+  "ESTPROJECTCOST": 500.0000,
+  "APPLICATIONDESCRIPTION": "INSTALL 6' CHAIN LINK FENCE"
+}
+{
+  "ADDRESS": "2526 CLIFTON AV",
+  "PROJECTTYPE": "Addition",
+  "STRUCTURETYPE": 36,
+  "APPLICATIONDATE": "May, 21 2026 00:00:00",
+  "ISSUEDATE": "May, 21 2026 00:00:00",
+  "DAYSTOISSUE": 0,
+  "ESTPROJECTCOST": 11000.0000,
+  "APPLICATIONDESCRIPTION": "REPLACE EXISTING DECK (REAR)"
+}
+{
   "ADDRESS": "6053 THOLOZAN AV",
   "PROJECTTYPE": "Alteration",
   "STRUCTURETYPE": 34,
@@ -3597,134 +3797,4 @@
   "DAYSTOISSUE": 0,
   "ESTPROJECTCOST": 2000.0000,
   "APPLICATIONDESCRIPTION": "Replace 4' ft H Chain Link Fence Per Plan  (front)"
-}
-{
-  "ADDRESS": "6162 WEST PARK AV",
-  "PROJECTTYPE": "Addition",
-  "STRUCTURETYPE": 22,
-  "APPLICATIONDATE": "April, 16 2026 00:00:00",
-  "ISSUEDATE": "April, 22 2026 00:00:00",
-  "DAYSTOISSUE": 6,
-  "ESTPROJECTCOST": 5000.0000,
-  "APPLICATIONDESCRIPTION": "Replacing 80Lf of fencing with 80LF of 4'H black chain link fencing with two 4ft gates."
-}
-{
-  "ADDRESS": "5830R CHIPPEWA ST",
-  "PROJECTTYPE": "Alteration",
-  "STRUCTURETYPE": 34,
-  "APPLICATIONDATE": "March, 31 2026 00:00:00",
-  "ISSUEDATE": "April, 22 2026 00:00:00",
-  "DAYSTOISSUE": 22,
-  "ESTPROJECTCOST": 65000.0000,
-  "APPLICATIONDESCRIPTION": "Commercial interior remodel for a new UPS Store moving into an existing. Scope of work includes non-structural demolition, electrical and installation of new fixtures and finishes."
-}
-{
-  "ADDRESS": "5755 WATERMAN BLVD",
-  "PROJECTTYPE": "Alteration",
-  "STRUCTURETYPE": 34,
-  "APPLICATIONDATE": "March, 26 2026 00:00:00",
-  "ISSUEDATE": "April, 22 2026 00:00:00",
-  "DAYSTOISSUE": 27,
-  "ESTPROJECTCOST": 12500.0000,
-  "APPLICATIONDESCRIPTION": "We are repairing an area of the rear porch that was damaged by the storm. We are repairing floors and walls that were damaged by the water from the roof damage."
-}
-{
-  "ADDRESS": "5303 MURDOCH AV",
-  "PROJECTTYPE": "Alteration",
-  "STRUCTURETYPE": 34,
-  "APPLICATIONDATE": "April, 22 2026 00:00:00",
-  "ISSUEDATE": "April, 22 2026 00:00:00",
-  "DAYSTOISSUE": 0,
-  "ESTPROJECTCOST": 35000.0000,
-  "APPLICATIONDESCRIPTION": "CONSTRUCT SUNROOM"
-}
-{
-  "ADDRESS": "5215 N 2ND ST",
-  "PROJECTTYPE": "Alteration",
-  "STRUCTURETYPE": 34,
-  "APPLICATIONDATE": "April, 09 2026 00:00:00",
-  "ISSUEDATE": "April, 22 2026 00:00:00",
-  "DAYSTOISSUE": 13,
-  "ESTPROJECTCOST": 37000.0000,
-  "APPLICATIONDESCRIPTION": "Interior commercial buildout of an existing office space to create a new conference room. Work includes construction of new non-load-bearing metal stud and gypsum board partitions, associated insulation, ceiling grid and tile modifications, electrical and lighting revisions, HVAC diffuser/return air adjustments, and fire sprinkler modifications to suit the new layout. No structural work is included. Permit review is based solely on attached Drawing Sheet A-1, as no additional drawings or specifications have been provided."
-}
-{
-  "ADDRESS": "5025 SAN FRANCISCO AV",
-  "PROJECTTYPE": "Addition",
-  "STRUCTURETYPE": 28,
-  "APPLICATIONDATE": "February, 24 2026 00:00:00",
-  "ISSUEDATE": "April, 22 2026 00:00:00",
-  "DAYSTOISSUE": 57,
-  "ESTPROJECTCOST": 52000.0000,
-  "APPLICATIONDESCRIPTION": "Installation of two internally illuminated wall signs. One on South elevation and one on East elevation."
-}
-{
-  "ADDRESS": "4400-36 DUNCAN AV",
-  "PROJECTTYPE": "Alteration",
-  "STRUCTURETYPE": 34,
-  "APPLICATIONDATE": "April, 07 2026 00:00:00",
-  "ISSUEDATE": "April, 22 2026 00:00:00",
-  "DAYSTOISSUE": 15,
-  "ESTPROJECTCOST": 1948000.0000,
-  "APPLICATIONDESCRIPTION": "Upgrades to (4) Elevators in the Employee parking garage.  Total cost of construction is $1,947,337 and McGrath portion of the work is $68,154.  MEP's and Elevator subs will apply for their own permits."
-}
-{
-  "ADDRESS": "4345 NEOSHO ST",
-  "PROJECTTYPE": "Alteration",
-  "STRUCTURETYPE": 34,
-  "APPLICATIONDATE": "April, 03 2026 00:00:00",
-  "ISSUEDATE": "April, 22 2026 00:00:00",
-  "DAYSTOISSUE": 19,
-  "ESTPROJECTCOST": 500.0000,
-  "APPLICATIONDESCRIPTION": "I have removed loose/damaged plaster/lath at the basement stair ceiling and am planning to replace it with 5/8\" Type X drywall on new wood backings/ledgers."
-}
-{
-  "ADDRESS": "4141 MCREE AV",
-  "PROJECTTYPE": "Addition",
-  "STRUCTURETYPE": 22,
-  "APPLICATIONDATE": "April, 16 2026 00:00:00",
-  "ISSUEDATE": "April, 22 2026 00:00:00",
-  "DAYSTOISSUE": 6,
-  "ESTPROJECTCOST": 6000.0000,
-  "APPLICATIONDESCRIPTION": "Replacing 43LF of fencing with 43LF of 6'H Stockade fencing with a 12'W double drive gate."
-}
-{
-  "ADDRESS": "3101-5 UNION BLVD",
-  "PROJECTTYPE": "Addition",
-  "STRUCTURETYPE": 22,
-  "APPLICATIONDATE": "April, 22 2026 00:00:00",
-  "ISSUEDATE": "April, 22 2026 00:00:00",
-  "DAYSTOISSUE": 0,
-  "ESTPROJECTCOST": 2000.0000,
-  "APPLICATIONDESCRIPTION": "CONSTRUCT 6' WOOD FENCE"
-}
-{
-  "ADDRESS": "2759 GEYER AV",
-  "PROJECTTYPE": "Alteration",
-  "STRUCTURETYPE": 34,
-  "APPLICATIONDATE": "April, 01 2026 00:00:00",
-  "ISSUEDATE": "April, 22 2026 00:00:00",
-  "DAYSTOISSUE": 21,
-  "ESTPROJECTCOST": 19000.0000,
-  "APPLICATIONDESCRIPTION": "4 window Replacement"
-}
-{
-  "ADDRESS": "2201-3 MENARD ST",
-  "PROJECTTYPE": "Alteration",
-  "STRUCTURETYPE": 34,
-  "APPLICATIONDATE": "April, 22 2026 00:00:00",
-  "ISSUEDATE": "April, 22 2026 00:00:00",
-  "DAYSTOISSUE": 0,
-  "ESTPROJECTCOST": 130000.0000,
-  "APPLICATIONDESCRIPTION": "INTERIOR ALTERATIONS"
-}
-{
-  "ADDRESS": "1813 LYNCH ST",
-  "PROJECTTYPE": "Alteration",
-  "STRUCTURETYPE": 34,
-  "APPLICATIONDATE": "March, 29 2026 00:00:00",
-  "ISSUEDATE": "April, 22 2026 00:00:00",
-  "DAYSTOISSUE": 24,
-  "ESTPROJECTCOST": 14000.0000,
-  "APPLICATIONDESCRIPTION": "Removal of thin wood paneled walls to be replaced by dry walls. All windows and exterior walls will remain the same. Redesigning floor plan to include a bedroom, an office, and a family room. The current HVAC room will remain the same. No HVAC work to be done. The electrician for this project will pull the permit for electrical work himself."
 }
