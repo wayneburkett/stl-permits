@@ -105,8 +105,8 @@
   "APPLICATIONDATE": "May, 29 2026 00:00:00",
   "ISSUEDATE": "May, 29 2026 00:00:00",
   "DAYSTOISSUE": 0,
-  "ESTPROJECTCOST": 50000.0000,
-  "APPLICATIONDESCRIPTION": "EXTERIOR ALTERATIONS"
+  "ESTPROJECTCOST": 4000.0000,
+  "APPLICATIONDESCRIPTION": "EXTERIOR ALTS"
 }
 {
   "ADDRESS": "4569 OAKLAND AV",
@@ -115,8 +115,8 @@
   "APPLICATIONDATE": "May, 29 2026 00:00:00",
   "ISSUEDATE": "May, 29 2026 00:00:00",
   "DAYSTOISSUE": 0,
-  "ESTPROJECTCOST": 4000.0000,
-  "APPLICATIONDESCRIPTION": "EXTERIOR ALTS"
+  "ESTPROJECTCOST": 50000.0000,
+  "APPLICATIONDESCRIPTION": "EXTERIOR ALTERATIONS"
 }
 {
   "ADDRESS": "4536-8 VIRGINIA AV",
@@ -2989,164 +2989,244 @@
   "APPLICATIONDESCRIPTION": "1 – All Plumbing & Electrical work to be performed by <:licensed contractors ( lighting in wet areas water rated )<:<:2 – Gut bath walls to studs, remove linen closet per plan<:<:3 – Remove mudd set floor, sister floor joist to<:<:level floor & cover with ¾” plywood<:<:4 – Fire block & insulate as needed<:<:5 – Install 60”x30” Onyx shower base <:<:6 - Install ceramic wall tile in shower up to where arch begins<:<:7 - Install ceramic tile floor over ½” cement board<:<:8 – Drywall with ½” green board , mudd & taped paint ready<:<:9 – Install floating wall vanity per plan<:<:10 – Bring smoke detectors & carbon monoxide detectors up <:to code ( All interconnected )"
 }
 {
-  "ADDRESS": "6500-648 MANCHESTER AV",
+  "ADDRESS": "6686 WEST PARK AV",
   "PROJECTTYPE": "Alteration",
   "STRUCTURETYPE": 34,
-  "APPLICATIONDATE": "April, 14 2026 00:00:00",
-  "ISSUEDATE": "May, 05 2026 00:00:00",
-  "DAYSTOISSUE": 21,
-  "ESTPROJECTCOST": 80000.0000,
-  "APPLICATIONDESCRIPTION": "EXPANDING EXISTING DASHMART INTO ADJACENT SPACES. THE<:CURRENT DASHMART STORES PACKAGED FOODS AND HOUSEHOLD<:ESSENTIAL COMMONLY FOUND IN CONVENIENCE STORES.<:TO PROVIDE PICK UP LOCKER IN EXISTING VESTIBULE . EXISTING<:DASHMART FUNCTION TO REMAIN AS IS WITH THE NEW ADDITION.<:TO CREATE AN OPENING IN THE DEMISING WALL BETWEEN SPACE<:“6570” AND “6574”. EXPANSION SPACE 6570 WILL CONTINUE THE<:DASHMART PROCESS. TO INCLUDE REFRIGERATORS AND SH"
-}
-{
-  "ADDRESS": "6303-21 NOTTINGHAM AV",
-  "PROJECTTYPE": "Alteration",
-  "STRUCTURETYPE": 34,
-  "APPLICATIONDATE": "April, 03 2026 00:00:00",
-  "ISSUEDATE": "May, 05 2026 00:00:00",
-  "DAYSTOISSUE": 32,
-  "ESTPROJECTCOST": 3000000.0000,
-  "APPLICATIONDESCRIPTION": "INT / EXT ADDITION"
-}
-{
-  "ADDRESS": "5705 PAMPLIN AV",
-  "PROJECTTYPE": "Alteration",
-  "STRUCTURETYPE": 34,
-  "APPLICATIONDATE": "May, 05 2026 00:00:00",
-  "ISSUEDATE": "May, 05 2026 00:00:00",
-  "DAYSTOISSUE": 0,
-  "ESTPROJECTCOST": 1000.0000,
-  "APPLICATIONDESCRIPTION": "HEALTHY HOMES"
-}
-{
-  "ADDRESS": "5532 GRESHAM ST",
-  "PROJECTTYPE": "Alteration",
-  "STRUCTURETYPE": 34,
-  "APPLICATIONDATE": "April, 29 2026 00:00:00",
-  "ISSUEDATE": "May, 05 2026 00:00:00",
-  "DAYSTOISSUE": 6,
-  "ESTPROJECTCOST": 45000.0000,
-  "APPLICATIONDESCRIPTION": "New roof - replacing sheathing"
-}
-{
-  "ADDRESS": "5142 WESTMINSTER PL",
-  "PROJECTTYPE": "Alteration",
-  "STRUCTURETYPE": 34,
-  "APPLICATIONDATE": "April, 27 2026 00:00:00",
-  "ISSUEDATE": "May, 05 2026 00:00:00",
-  "DAYSTOISSUE": 8,
+  "APPLICATIONDATE": "June, 02 2026 00:00:00",
+  "ISSUEDATE": "June, 03 2026 00:00:00",
+  "DAYSTOISSUE": 1,
   "ESTPROJECTCOST": 9000.0000,
-  "APPLICATIONDESCRIPTION": "Replace windows and repair garage siding damaged by the May 16, 2025 tornado."
+  "APPLICATIONDESCRIPTION": "Foundation stabilization - installing 6 HeliBraces to inside of basement"
 }
 {
-  "ADDRESS": "4954 LANSDOWNE AV",
+  "ADDRESS": "6571 MURDOCH AV",
+  "PROJECTTYPE": "Addition",
+  "STRUCTURETYPE": 22,
+  "APPLICATIONDATE": "June, 01 2026 00:00:00",
+  "ISSUEDATE": "June, 03 2026 00:00:00",
+  "DAYSTOISSUE": 2,
+  "ESTPROJECTCOST": 9000.0000,
+  "APPLICATIONDESCRIPTION": "We are completing the fencing around the yard to comply with a swimming pool permit.  We replaced a privacy fence in 2019 with a vinyl fence (photo included). This enclosed about 2/3 of the rear property line.  To finish the fenced area, we are replacing a chain link fence (photo attached) with the identical vinyl fence."
+}
+{
+  "ADDRESS": "6266 FAMOUS AV",
   "PROJECTTYPE": "Alteration",
   "STRUCTURETYPE": 34,
-  "APPLICATIONDATE": "May, 05 2026 00:00:00",
-  "ISSUEDATE": "May, 05 2026 00:00:00",
+  "APPLICATIONDATE": "May, 22 2026 00:00:00",
+  "ISSUEDATE": "June, 03 2026 00:00:00",
+  "DAYSTOISSUE": 12,
+  "ESTPROJECTCOST": 100000.0000,
+  "APPLICATIONDESCRIPTION": "Interior and exterior renovation of existing single family home."
+}
+{
+  "ADDRESS": "6230 HOFFMAN AV",
+  "PROJECTTYPE": "Alteration",
+  "STRUCTURETYPE": 34,
+  "APPLICATIONDATE": "June, 03 2026 00:00:00",
+  "ISSUEDATE": "June, 03 2026 00:00:00",
   "DAYSTOISSUE": 0,
-  "ESTPROJECTCOST": 58000.0000,
+  "ESTPROJECTCOST": 20000.0000,
   "APPLICATIONDESCRIPTION": "INTERIOR ALTERATIONS"
 }
 {
-  "ADDRESS": "4436 MIAMI ST",
-  "PROJECTTYPE": "Alteration",
-  "STRUCTURETYPE": 34,
-  "APPLICATIONDATE": "February, 26 2026 00:00:00",
-  "ISSUEDATE": "May, 05 2026 00:00:00",
-  "DAYSTOISSUE": 68,
-  "ESTPROJECTCOST": 20000.0000,
-  "APPLICATIONDESCRIPTION": "Clean up house (remove kitchen cabinets, old appliances dry wall where needed, old closets old drop ceiling where needed), paint interior, install new flooring, carpet where needed. Install tile flooring in bathroom, install dry wall where needed. update kitchen countertops, backsplash. Install appliances. Basement clean up, paint, bathroom update, drywall where needed and paint. paint interior and exterior door. replace doors and windows if needed. replace gutters where/if needed"
+  "ADDRESS": "6211 PERNOD AV",
+  "PROJECTTYPE": "Addition",
+  "STRUCTURETYPE": 22,
+  "APPLICATIONDATE": "June, 03 2026 00:00:00",
+  "ISSUEDATE": "June, 03 2026 00:00:00",
+  "DAYSTOISSUE": 0,
+  "ESTPROJECTCOST": 9000.0000,
+  "APPLICATIONDESCRIPTION": "Install of 6' vinyl privacy. This is a project with the neighbor 6209"
 }
 {
-  "ADDRESS": "4152 HUMPHREY ST",
+  "ADDRESS": "6209 PERNOD AV",
+  "PROJECTTYPE": "Addition",
+  "STRUCTURETYPE": 22,
+  "APPLICATIONDATE": "June, 03 2026 00:00:00",
+  "ISSUEDATE": "June, 03 2026 00:00:00",
+  "DAYSTOISSUE": 0,
+  "ESTPROJECTCOST": 5000.0000,
+  "APPLICATIONDESCRIPTION": "Install of 6' vinyl privacy. This is a project with the neighbor 6211"
+}
+{
+  "ADDRESS": "6018 GUILFORD PL",
+  "PROJECTTYPE": "Alteration",
+  "STRUCTURETYPE": 34,
+  "APPLICATIONDATE": "June, 03 2026 00:00:00",
+  "ISSUEDATE": "June, 03 2026 00:00:00",
+  "DAYSTOISSUE": 0,
+  "ESTPROJECTCOST": 60000.0000,
+  "APPLICATIONDESCRIPTION": "INT ALTS"
+}
+{
+  "ADDRESS": "5903 FERRIS AV",
+  "PROJECTTYPE": "Alteration",
+  "STRUCTURETYPE": 34,
+  "APPLICATIONDATE": "June, 03 2026 00:00:00",
+  "ISSUEDATE": "June, 03 2026 00:00:00",
+  "DAYSTOISSUE": 0,
+  "ESTPROJECTCOST": 60000.0000,
+  "APPLICATIONDESCRIPTION": "INTERIOR/EXTERIOR ALTS"
+}
+{
+  "ADDRESS": "5838 SOUTHWEST AV",
+  "PROJECTTYPE": "Addition",
+  "STRUCTURETYPE": 28,
+  "APPLICATIONDATE": "May, 06 2026 00:00:00",
+  "ISSUEDATE": "June, 03 2026 00:00:00",
+  "DAYSTOISSUE": 28,
+  "ESTPROJECTCOST": 5000.0000,
+  "APPLICATIONDESCRIPTION": "Recover 2 awnings with signage"
+}
+{
+  "ADDRESS": "5733 VERNON AV",
+  "PROJECTTYPE": "Alteration",
+  "STRUCTURETYPE": 34,
+  "APPLICATIONDATE": "June, 03 2026 00:00:00",
+  "ISSUEDATE": "June, 03 2026 00:00:00",
+  "DAYSTOISSUE": 0,
+  "ESTPROJECTCOST": 5000.0000,
+  "APPLICATIONDESCRIPTION": "INT/EXT ALTERATIONS"
+}
+{
+  "ADDRESS": "5622 ROSA AV",
+  "PROJECTTYPE": "Addition",
+  "STRUCTURETYPE": 22,
+  "APPLICATIONDATE": "June, 03 2026 00:00:00",
+  "ISSUEDATE": "June, 03 2026 00:00:00",
+  "DAYSTOISSUE": 0,
+  "ESTPROJECTCOST": 6000.0000,
+  "APPLICATIONDESCRIPTION": "NSTALL NEW 4'BY6' WOOD PRIVACY FENCE (SIDE-REAR)"
+}
+{
+  "ADDRESS": "5308 NOTTINGHAM AV",
+  "PROJECTTYPE": "Addition",
+  "STRUCTURETYPE": 22,
+  "APPLICATIONDATE": "June, 03 2026 00:00:00",
+  "ISSUEDATE": "June, 03 2026 00:00:00",
+  "DAYSTOISSUE": 0,
+  "ESTPROJECTCOST": 4000.0000,
+  "APPLICATIONDESCRIPTION": "INSTALL 4' ALUMINUM FENCE"
+}
+{
+  "ADDRESS": "5052 PLOVER AV",
+  "PROJECTTYPE": "Alteration",
+  "STRUCTURETYPE": 34,
+  "APPLICATIONDATE": "June, 03 2026 00:00:00",
+  "ISSUEDATE": "June, 03 2026 00:00:00",
+  "DAYSTOISSUE": 0,
+  "ESTPROJECTCOST": 1000.0000,
+  "APPLICATIONDESCRIPTION": "Porch Post Repair Per Plans"
+}
+{
+  "ADDRESS": "4906 WEST PINE BLVD",
+  "PROJECTTYPE": "Addition",
+  "STRUCTURETYPE": 28,
+  "APPLICATIONDATE": "May, 06 2026 00:00:00",
+  "ISSUEDATE": "June, 03 2026 00:00:00",
+  "DAYSTOISSUE": 28,
+  "ESTPROJECTCOST": 4494.0000,
+  "APPLICATIONDESCRIPTION": "Recover awning with signage"
+}
+{
+  "ADDRESS": "4829 PENROSE ST",
+  "PROJECTTYPE": "Alteration",
+  "STRUCTURETYPE": 34,
+  "APPLICATIONDATE": "June, 03 2026 00:00:00",
+  "ISSUEDATE": "June, 03 2026 00:00:00",
+  "DAYSTOISSUE": 0,
+  "ESTPROJECTCOST": 1000.0000,
+  "APPLICATIONDESCRIPTION": "2nd Floor Back Door Guardrail Per Plans"
+}
+{
+  "ADDRESS": "4258 SWAN AV",
   "PROJECTTYPE": "Addition",
   "STRUCTURETYPE": 23,
-  "APPLICATIONDATE": "May, 05 2026 00:00:00",
-  "ISSUEDATE": "May, 05 2026 00:00:00",
-  "DAYSTOISSUE": 0,
-  "ESTPROJECTCOST": 3000.0000,
-  "APPLICATIONDESCRIPTION": "Install attached carport per plans"
+  "APPLICATIONDATE": "May, 11 2026 00:00:00",
+  "ISSUEDATE": "June, 03 2026 00:00:00",
+  "DAYSTOISSUE": 23,
+  "ESTPROJECTCOST": 60000.0000,
+  "APPLICATIONDESCRIPTION": "CONSTRUCT ACCESSORY DWELLING UNIT (REMOVE GARAGE)"
 }
 {
-  "ADDRESS": "3866-8 S UTAH PL",
+  "ADDRESS": "3940 S 1ST ST",
+  "PROJECTTYPE": "Addition",
+  "STRUCTURETYPE": 34,
+  "APPLICATIONDATE": "June, 03 2026 00:00:00",
+  "ISSUEDATE": "June, 03 2026 00:00:00",
+  "DAYSTOISSUE": 0,
+  "ESTPROJECTCOST": 0.0000,
+  "APPLICATIONDESCRIPTION": "ARTCO OPEN HOUSE"
+}
+{
+  "ADDRESS": "3806 BOTANICAL AV",
   "PROJECTTYPE": "Alteration",
   "STRUCTURETYPE": 34,
-  "APPLICATIONDATE": "April, 07 2026 00:00:00",
-  "ISSUEDATE": "May, 05 2026 00:00:00",
-  "DAYSTOISSUE": 28,
-  "ESTPROJECTCOST": 100000.0000,
-  "APPLICATIONDESCRIPTION": "CONVERT TWO FAMILY TO SINGLE FAMILY"
+  "APPLICATIONDATE": "June, 03 2026 00:00:00",
+  "ISSUEDATE": "June, 03 2026 00:00:00",
+  "DAYSTOISSUE": 0,
+  "ESTPROJECTCOST": 11000.0000,
+  "APPLICATIONDESCRIPTION": "REPLACE FRONT STAIR & MISCELLANEOUS FLAT WORK"
 }
 {
-  "ADDRESS": "3847 FAIRVIEW AV",
+  "ADDRESS": "3291 S KINGSHIGHWAY BLVD",
   "PROJECTTYPE": "Alteration",
   "STRUCTURETYPE": 34,
   "APPLICATIONDATE": "May, 04 2026 00:00:00",
-  "ISSUEDATE": "May, 05 2026 00:00:00",
-  "DAYSTOISSUE": 1,
-  "ESTPROJECTCOST": 7000.0000,
-  "APPLICATIONDESCRIPTION": "Tear roof off, down to space decking. Re-deck over space decking with OSB. Reflash chimney, Install ridge vent, build cricket. Install synthetic felt, IWS and shingles."
+  "ISSUEDATE": "June, 03 2026 00:00:00",
+  "DAYSTOISSUE": 30,
+  "ESTPROJECTCOST": 20000.0000,
+  "APPLICATIONDESCRIPTION": "Closing off 2 side doors with half wall and windows and relocating a storefront system from 1 side to the other."
 }
 {
-  "ADDRESS": "3222 MORGAN FORD RD",
-  "PROJECTTYPE": "New Const.",
-  "STRUCTURETYPE": 20,
-  "APPLICATIONDATE": "October, 30 2025 00:00:00",
-  "ISSUEDATE": "May, 05 2026 00:00:00",
-  "DAYSTOISSUE": 187,
-  "ESTPROJECTCOST": 700000.0000,
-  "APPLICATIONDESCRIPTION": "CONSTRUCT NEW COMMERCIAL BUILDING PR PLNS"
-}
-{
-  "ADDRESS": "2715-41 DAYTON ST",
-  "PROJECTTYPE": "New Const.",
-  "STRUCTURETYPE": 34,
-  "APPLICATIONDATE": "March, 09 2026 00:00:00",
-  "ISSUEDATE": "May, 05 2026 00:00:00",
-  "DAYSTOISSUE": 57,
-  "ESTPROJECTCOST": 700000.0000,
-  "APPLICATIONDESCRIPTION": "Proposed 195 S.F. elevator addition on the exterior of the building that includes an elevator hoistway and an entrance lobby.  Also, a 64 S.F. elevator machine room will be added in the existing basement."
-}
-{
-  "ADDRESS": "2600-2 OREGON AV",
+  "ADDRESS": "3137 LONGFELLOW BLVD",
   "PROJECTTYPE": "Alteration",
   "STRUCTURETYPE": 34,
-  "APPLICATIONDATE": "March, 13 2026 00:00:00",
-  "ISSUEDATE": "May, 05 2026 00:00:00",
-  "DAYSTOISSUE": 53,
-  "ESTPROJECTCOST": 180000.0000,
-  "APPLICATIONDESCRIPTION": "Interior renovations to a two family two story residence and construction of a wood privacy fence"
+  "APPLICATIONDATE": "May, 15 2026 00:00:00",
+  "ISSUEDATE": "June, 03 2026 00:00:00",
+  "DAYSTOISSUE": 19,
+  "ESTPROJECTCOST": 8000.0000,
+  "APPLICATIONDESCRIPTION": "EXT ALT"
 }
 {
-  "ADDRESS": "2001-5 CHIPPEWA ST",
-  "PROJECTTYPE": "Alteration",
-  "STRUCTURETYPE": 34,
-  "APPLICATIONDATE": "May, 05 2026 00:00:00",
-  "ISSUEDATE": "May, 05 2026 00:00:00",
-  "DAYSTOISSUE": 0,
-  "ESTPROJECTCOST": 2000.0000,
-  "APPLICATIONDESCRIPTION": "INTERIOR RENOVATIONS"
+  "ADDRESS": "2909 ACCOMAC ST",
+  "PROJECTTYPE": "Addition",
+  "STRUCTURETYPE": 22,
+  "APPLICATIONDATE": "June, 01 2026 00:00:00",
+  "ISSUEDATE": "June, 03 2026 00:00:00",
+  "DAYSTOISSUE": 2,
+  "ESTPROJECTCOST": 400.0000,
+  "APPLICATIONDESCRIPTION": "Replacing old/failing metal fencing with wooden fence to match surrounding neighbors and gain privacy in yard."
 }
 {
-  "ADDRESS": "120 E GRAND BLVD",
+  "ADDRESS": "2600-22 CHOUTEAU AV",
   "PROJECTTYPE": "Alteration",
   "STRUCTURETYPE": 34,
-  "APPLICATIONDATE": "March, 20 2026 00:00:00",
-  "ISSUEDATE": "May, 05 2026 00:00:00",
-  "DAYSTOISSUE": 46,
-  "ESTPROJECTCOST": 124000.0000,
-  "APPLICATIONDESCRIPTION": "Installation of Packing air handling unit platform on existing roof."
+  "APPLICATIONDATE": "May, 04 2026 00:00:00",
+  "ISSUEDATE": "June, 03 2026 00:00:00",
+  "DAYSTOISSUE": 30,
+  "ESTPROJECTCOST": 10000.0000,
+  "APPLICATIONDESCRIPTION": "Closing off 1 side entry with half wall and windows"
 }
 {
-  "ADDRESS": "100 S GARRISON AV",
+  "ADDRESS": "2207-11 S 12TH ST",
   "PROJECTTYPE": "Alteration",
   "STRUCTURETYPE": 34,
-  "APPLICATIONDATE": "March, 11 2026 00:00:00",
-  "ISSUEDATE": "May, 05 2026 00:00:00",
-  "DAYSTOISSUE": 55,
-  "ESTPROJECTCOST": 2500000.0000,
-  "APPLICATIONDESCRIPTION": "26,851 Gross Square Feet of interior renovation plus limited exterior improvements to the first floor and second floor of a current high school facility and its grounds"
+  "APPLICATIONDATE": "May, 22 2026 00:00:00",
+  "ISSUEDATE": "June, 03 2026 00:00:00",
+  "DAYSTOISSUE": 12,
+  "ESTPROJECTCOST": 5000.0000,
+  "APPLICATIONDESCRIPTION": "REPAIR GARAGE DOOR"
+}
+{
+  "ADDRESS": "1368-70 MCCAUSLAND AV",
+  "PROJECTTYPE": "Alteration",
+  "STRUCTURETYPE": 34,
+  "APPLICATIONDATE": "May, 25 2026 00:00:00",
+  "ISSUEDATE": "June, 03 2026 00:00:00",
+  "DAYSTOISSUE": 9,
+  "ESTPROJECTCOST": 146000.0000,
+  "APPLICATIONDESCRIPTION": "Project consists of renovations to the first level office layout and renovations to the second level apartment."
 }
 {
   "ADDRESS": "7525 ALASKA AV",
