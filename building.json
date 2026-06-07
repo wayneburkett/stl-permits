@@ -2549,234 +2549,224 @@
   "APPLICATIONDESCRIPTION": "INSTALL FIRE SPIRNKLER SYSTEM"
 }
 {
-  "ADDRESS": "825 BATES ST",
-  "PROJECTTYPE": "Addition",
-  "STRUCTURETYPE": 22,
-  "APPLICATIONDATE": "February, 23 2026 00:00:00",
-  "ISSUEDATE": "May, 07 2026 00:00:00",
-  "DAYSTOISSUE": 73,
-  "ESTPROJECTCOST": 5000.0000,
-  "APPLICATIONDESCRIPTION": "Replace existing metal fince with wooden fence."
+  "ADDRESS": "835 MCLARAN AV",
+  "PROJECTTYPE": "Alteration",
+  "STRUCTURETYPE": 34,
+  "APPLICATIONDATE": "May, 14 2026 00:00:00",
+  "ISSUEDATE": "June, 05 2026 00:00:00",
+  "DAYSTOISSUE": 22,
+  "ESTPROJECTCOST": 30000.0000,
+  "APPLICATIONDESCRIPTION": "Renovate Upstairs and Downstairs Restroom <:Renovate Kitchen<:New Floors<:Patch & Repair Drywall where needed<:New Outlets, Switches, and Light Fixtures"
 }
 {
-  "ADDRESS": "751-99 CLARK AV",
-  "PROJECTTYPE": "Addition",
-  "STRUCTURETYPE": 28,
-  "APPLICATIONDATE": "April, 08 2026 00:00:00",
-  "ISSUEDATE": "May, 07 2026 00:00:00",
-  "DAYSTOISSUE": 29,
-  "ESTPROJECTCOST": 3000.0000,
-  "APPLICATIONDESCRIPTION": "Replacement of (1) Wall Sign, (1) Blade Sign, & (1) Window Sign"
-}
-{
-  "ADDRESS": "7111 TRAINOR PL",
+  "ADDRESS": "6955 WINONA AV",
   "PROJECTTYPE": "Addition",
   "STRUCTURETYPE": 36,
-  "APPLICATIONDATE": "May, 07 2026 00:00:00",
-  "ISSUEDATE": "May, 07 2026 00:00:00",
-  "DAYSTOISSUE": 0,
-  "ESTPROJECTCOST": 5000.0000,
-  "APPLICATIONDESCRIPTION": "Replace Side Deck Per Plans"
-}
-{
-  "ADDRESS": "6029 MAGNOLIA AV",
-  "PROJECTTYPE": "Addition",
-  "STRUCTURETYPE": 22,
-  "APPLICATIONDATE": "May, 06 2026 00:00:00",
-  "ISSUEDATE": "May, 07 2026 00:00:00",
-  "DAYSTOISSUE": 1,
-  "ESTPROJECTCOST": 4000.0000,
-  "APPLICATIONDESCRIPTION": "Remove existing fence & install 78' of 6' tall cedar privacy fence along side of backyard"
-}
-{
-  "ADDRESS": "5636 PERNOD AV",
-  "PROJECTTYPE": "Alteration",
-  "STRUCTURETYPE": 34,
-  "APPLICATIONDATE": "May, 01 2026 00:00:00",
-  "ISSUEDATE": "May, 07 2026 00:00:00",
-  "DAYSTOISSUE": 6,
-  "ESTPROJECTCOST": 10000.0000,
-  "APPLICATIONDESCRIPTION": "Renovating the attic and adding a dormer."
-}
-{
-  "ADDRESS": "5344 WALSH ST",
-  "PROJECTTYPE": "Addition",
-  "STRUCTURETYPE": 22,
-  "APPLICATIONDATE": "May, 07 2026 00:00:00",
-  "ISSUEDATE": "May, 07 2026 00:00:00",
+  "APPLICATIONDATE": "June, 05 2026 00:00:00",
+  "ISSUEDATE": "June, 05 2026 00:00:00",
   "DAYSTOISSUE": 0,
   "ESTPROJECTCOST": 2000.0000,
-  "APPLICATIONDESCRIPTION": "REPLACE FENCE WITH 6'WOOD"
+  "APPLICATIONDESCRIPTION": "CONSTRUCT DECK & POOL"
 }
 {
-  "ADDRESS": "5117 WASHINGTON PL",
-  "PROJECTTYPE": "Alteration",
-  "STRUCTURETYPE": 34,
-  "APPLICATIONDATE": "April, 29 2026 00:00:00",
-  "ISSUEDATE": "May, 07 2026 00:00:00",
-  "DAYSTOISSUE": 8,
-  "ESTPROJECTCOST": 98000.0000,
-  "APPLICATIONDESCRIPTION": "Replacing 21 windows and 1 door"
-}
-{
-  "ADDRESS": "5111 DONOVAN AV",
+  "ADDRESS": "5433 COLUMBIA AV",
   "PROJECTTYPE": "Addition",
   "STRUCTURETYPE": 22,
-  "APPLICATIONDATE": "May, 01 2026 00:00:00",
-  "ISSUEDATE": "May, 07 2026 00:00:00",
-  "DAYSTOISSUE": 6,
+  "APPLICATIONDATE": "June, 03 2026 00:00:00",
+  "ISSUEDATE": "June, 05 2026 00:00:00",
+  "DAYSTOISSUE": 2,
   "ESTPROJECTCOST": 4000.0000,
-  "APPLICATIONDESCRIPTION": "Tear out old fence and Install 37' of 48\" tall aluminum fence in backyard."
+  "APPLICATIONDESCRIPTION": "I intend to build a new cedar privacy fence to replace the existing, old, and damaged steel wire fence. The new fence will extend around the perimeter of the property in the rear. It will adhere to guidelines set forth by city requirements as well as manufacturers requirements for the steel lifetime posts that will be in use. These include but are not limited to 73.3\" max O.C. spans. As well as specific proprietary post types for use as line posts, corner posts, or gate posts. The plans call for the construction of two new gates, one in the front and one in the rear. These will serve to better secure the property for our family as we have three small children. Fence cladding will be cedar. 2x4 horizontal rails will secure affixed cedar pickets. A lattice structure will ornament the top 1/5th of the design along most of the fence's length, with the exception of the gates and the loud areas near the neighbors' AC units. Those areas will utilize full length (6ft) solid cedar pickets, omitting the lattice portion."
 }
 {
-  "ADDRESS": "5101 ROBIN AV",
+  "ADDRESS": "5088-90 DR MARTIN LUTHER KING DR",
   "PROJECTTYPE": "Addition",
-  "STRUCTURETYPE": 28,
-  "APPLICATIONDATE": "March, 09 2026 00:00:00",
-  "ISSUEDATE": "May, 07 2026 00:00:00",
-  "DAYSTOISSUE": 59,
-  "ESTPROJECTCOST": 4000.0000,
-  "APPLICATIONDESCRIPTION": "Installation of Two Non-Illuminated Post and Panel Ground Signs"
-}
-{
-  "ADDRESS": "5039 VERNON AV",
-  "PROJECTTYPE": "Alteration",
-  "STRUCTURETYPE": 34,
-  "APPLICATIONDATE": "May, 07 2026 00:00:00",
-  "ISSUEDATE": "May, 07 2026 00:00:00",
+  "STRUCTURETYPE": 22,
+  "APPLICATIONDATE": "June, 05 2026 00:00:00",
+  "ISSUEDATE": "June, 05 2026 00:00:00",
   "DAYSTOISSUE": 0,
-  "ESTPROJECTCOST": 75000.0000,
-  "APPLICATIONDESCRIPTION": "Interior/ Exterior Alterations Per Plans"
+  "ESTPROJECTCOST": 4000.0000,
+  "APPLICATIONDESCRIPTION": "COMMERCIAL FENCE & CONCRETE"
 }
 {
-  "ADDRESS": "4301 FINNEY AV",
-  "PROJECTTYPE": "Addition",
-  "STRUCTURETYPE": 28,
-  "APPLICATIONDATE": "April, 01 2026 00:00:00",
-  "ISSUEDATE": "May, 07 2026 00:00:00",
-  "DAYSTOISSUE": 36,
-  "ESTPROJECTCOST": 50000.0000,
-  "APPLICATIONDESCRIPTION": "INSTALL TWO ILLUMINATED WALL SIGNS PER PLANS"
-}
-{
-  "ADDRESS": "4127-9 W FLORISSANT AV",
+  "ADDRESS": "5086 DR MARTIN LUTHER KING DR",
   "PROJECTTYPE": "Alteration",
   "STRUCTURETYPE": 34,
-  "APPLICATIONDATE": "April, 30 2026 00:00:00",
-  "ISSUEDATE": "May, 07 2026 00:00:00",
-  "DAYSTOISSUE": 7,
-  "ESTPROJECTCOST": 15000.0000,
+  "APPLICATIONDATE": "May, 21 2026 00:00:00",
+  "ISSUEDATE": "June, 05 2026 00:00:00",
+  "DAYSTOISSUE": 15,
+  "ESTPROJECTCOST": 4000.0000,
+  "APPLICATIONDESCRIPTION": "EXT ALT"
+}
+{
+  "ADDRESS": "4946 PERSHING PL",
+  "PROJECTTYPE": "Alteration",
+  "STRUCTURETYPE": 34,
+  "APPLICATIONDATE": "June, 05 2026 00:00:00",
+  "ISSUEDATE": "June, 05 2026 00:00:00",
+  "DAYSTOISSUE": 0,
+  "ESTPROJECTCOST": 350000.0000,
+  "APPLICATIONDESCRIPTION": "ADDENDUM TO PERMIT #588913"
+}
+{
+  "ADDRESS": "4928-30 CHRISTY BLVD",
+  "PROJECTTYPE": "Addition",
+  "STRUCTURETYPE": 35,
+  "APPLICATIONDATE": "May, 21 2026 00:00:00",
+  "ISSUEDATE": "June, 05 2026 00:00:00",
+  "DAYSTOISSUE": 15,
+  "ESTPROJECTCOST": 25000.0000,
+  "APPLICATIONDESCRIPTION": "New Fire Alarm System for Tenant Space (KR262029)"
+}
+{
+  "ADDRESS": "4746 ADKINS AV",
+  "PROJECTTYPE": "Addition",
+  "STRUCTURETYPE": 25,
+  "APPLICATIONDATE": "June, 04 2026 00:00:00",
+  "ISSUEDATE": "June, 05 2026 00:00:00",
+  "DAYSTOISSUE": 1,
+  "ESTPROJECTCOST": 3000.0000,
+  "APPLICATIONDESCRIPTION": "building a retaining wall in the alley"
+}
+{
+  "ADDRESS": "4404 ELLENWOOD AV",
+  "PROJECTTYPE": "Addition",
+  "STRUCTURETYPE": 22,
+  "APPLICATIONDATE": "May, 26 2026 00:00:00",
+  "ISSUEDATE": "June, 05 2026 00:00:00",
+  "DAYSTOISSUE": 10,
+  "ESTPROJECTCOST": 5000.0000,
+  "APPLICATIONDESCRIPTION": "Other Fence Line - Fence line on back of house and going up on the right side<:<:106 LF of 1x6x6 Treated Privacy (3/4\" Pro Picket)<:<:2 4' WG. One gate on back fence line and one gate on right corner of house"
+}
+{
+  "ADDRESS": "4050 BOTANICAL AV",
+  "PROJECTTYPE": "Addition",
+  "STRUCTURETYPE": 22,
+  "APPLICATIONDATE": "June, 04 2026 00:00:00",
+  "ISSUEDATE": "June, 05 2026 00:00:00",
+  "DAYSTOISSUE": 1,
+  "ESTPROJECTCOST": 2420.6000,
+  "APPLICATIONDESCRIPTION": "Install 35' of 6' tall cedar privacy fence in backyard"
+}
+{
+  "ADDRESS": "376 WALTON ROW",
+  "PROJECTTYPE": "Alteration",
+  "STRUCTURETYPE": 34,
+  "APPLICATIONDATE": "June, 05 2026 00:00:00",
+  "ISSUEDATE": "June, 05 2026 00:00:00",
+  "DAYSTOISSUE": 0,
+  "ESTPROJECTCOST": 189000.0000,
+  "APPLICATIONDESCRIPTION": "Int/Ext Alterations Per Plans"
+}
+{
+  "ADDRESS": "3731 JUNIATA ST",
+  "PROJECTTYPE": "Alteration",
+  "STRUCTURETYPE": 34,
+  "APPLICATIONDATE": "June, 05 2026 00:00:00",
+  "ISSUEDATE": "June, 05 2026 00:00:00",
+  "DAYSTOISSUE": 0,
+  "ESTPROJECTCOST": 20000.0000,
+  "APPLICATIONDESCRIPTION": "EXTERIOR ALTERATIONS"
+}
+{
+  "ADDRESS": "3639 HOLT AV",
+  "PROJECTTYPE": "Alteration",
+  "STRUCTURETYPE": 34,
+  "APPLICATIONDATE": "June, 05 2026 00:00:00",
+  "ISSUEDATE": "June, 05 2026 00:00:00",
+  "DAYSTOISSUE": 0,
+  "ESTPROJECTCOST": 10000.0000,
+  "APPLICATIONDESCRIPTION": "EXT ALTERATIONS"
+}
+{
+  "ADDRESS": "3161 S SPRING AV",
+  "PROJECTTYPE": "Alteration",
+  "STRUCTURETYPE": 34,
+  "APPLICATIONDATE": "June, 05 2026 00:00:00",
+  "ISSUEDATE": "June, 05 2026 00:00:00",
+  "DAYSTOISSUE": 0,
+  "ESTPROJECTCOST": 375000.0000,
   "APPLICATIONDESCRIPTION": "INTERIOR ALTERATIONS"
 }
 {
-  "ADDRESS": "4101-17 MANCHESTER AV",
-  "PROJECTTYPE": "Alteration",
-  "STRUCTURETYPE": 20,
-  "APPLICATIONDATE": "March, 13 2026 00:00:00",
-  "ISSUEDATE": "May, 07 2026 00:00:00",
-  "DAYSTOISSUE": 55,
-  "ESTPROJECTCOST": 100000.0000,
-  "APPLICATIONDESCRIPTION": "ADDENDUM TO PERMIT 584120 ISSD 09/15/25 PER PLANS"
-}
-{
-  "ADDRESS": "3943 PARKER AV",
-  "PROJECTTYPE": "Addition",
-  "STRUCTURETYPE": 36,
-  "APPLICATIONDATE": "April, 29 2026 00:00:00",
-  "ISSUEDATE": "May, 07 2026 00:00:00",
-  "DAYSTOISSUE": 8,
-  "ESTPROJECTCOST": 7000.0000,
-  "APPLICATIONDESCRIPTION": "Replace existing deck with new"
-}
-{
-  "ADDRESS": "3421 BRANNON AV",
-  "PROJECTTYPE": "Addition",
-  "STRUCTURETYPE": 22,
-  "APPLICATIONDATE": "May, 07 2026 00:00:00",
-  "ISSUEDATE": "May, 07 2026 00:00:00",
-  "DAYSTOISSUE": 0,
-  "ESTPROJECTCOST": 12000.0000,
-  "APPLICATIONDESCRIPTION": "REPLACE WOOD 6' WOOD FENCE"
-}
-{
-  "ADDRESS": "3017 MCNAIR AV",
-  "PROJECTTYPE": "Addition",
-  "STRUCTURETYPE": 23,
-  "APPLICATIONDATE": "April, 23 2026 00:00:00",
-  "ISSUEDATE": "May, 07 2026 00:00:00",
-  "DAYSTOISSUE": 14,
-  "ESTPROJECTCOST": 19000.0000,
-  "APPLICATIONDESCRIPTION": "Carport enclosure to existing structure per plans"
-}
-{
-  "ADDRESS": "2933 S KINGSHIGHWAY BLVD",
-  "PROJECTTYPE": "Addition",
-  "STRUCTURETYPE": 26,
-  "APPLICATIONDATE": "March, 17 2026 00:00:00",
-  "ISSUEDATE": "May, 07 2026 00:00:00",
-  "DAYSTOISSUE": 51,
-  "ESTPROJECTCOST": 63000.0000,
-  "APPLICATIONDESCRIPTION": "INSTALL FIRE SPRINKLER SYSTEM"
-}
-{
-  "ADDRESS": "2911-3 VICTOR ST",
+  "ADDRESS": "3001-3 SHENANDOAH AV",
   "PROJECTTYPE": "Alteration",
   "STRUCTURETYPE": 34,
-  "APPLICATIONDATE": "April, 12 2026 00:00:00",
-  "ISSUEDATE": "May, 07 2026 00:00:00",
-  "DAYSTOISSUE": 25,
-  "ESTPROJECTCOST": 7000.0000,
-  "APPLICATIONDESCRIPTION": "gut rehab of second floor .remove plaster and lath . run electrical service to panel on second floor and re ren all electrical . insolate and re run new dry wall . remove section of wall and clothes doorways between interior rooms ."
+  "APPLICATIONDATE": "May, 15 2026 00:00:00",
+  "ISSUEDATE": "June, 05 2026 00:00:00",
+  "DAYSTOISSUE": 21,
+  "ESTPROJECTCOST": 4000.0000,
+  "APPLICATIONDESCRIPTION": "INSTALL REATINING WALL & 6' WOOD FENCE"
 }
 {
-  "ADDRESS": "2743 TAMM AV",
+  "ADDRESS": "2909-11 SIDNEY ST",
   "PROJECTTYPE": "Addition",
-  "STRUCTURETYPE": 22,
-  "APPLICATIONDATE": "May, 06 2026 00:00:00",
-  "ISSUEDATE": "May, 07 2026 00:00:00",
+  "STRUCTURETYPE": 36,
+  "APPLICATIONDATE": "June, 02 2026 00:00:00",
+  "ISSUEDATE": "June, 05 2026 00:00:00",
+  "DAYSTOISSUE": 3,
+  "ESTPROJECTCOST": 13000.0000,
+  "APPLICATIONDESCRIPTION": "Construction of new rear residential wood decks and stairs at 2909–2911 Sidney St., St. Louis, MO 63104. Work includes new wood decking and joists, wood posts, guardrails, handrails, stair framing, ledger connection to existing wall, Simpson joist hangers, and new concrete pier footings as shown on the submitted deck detail plans."
+}
+{
+  "ADDRESS": "2840 CLARK AV",
+  "PROJECTTYPE": "New Const.",
+  "STRUCTURETYPE": 34,
+  "APPLICATIONDATE": "March, 18 2026 00:00:00",
+  "ISSUEDATE": "June, 05 2026 00:00:00",
+  "DAYSTOISSUE": 79,
+  "ESTPROJECTCOST": 190000.0000,
+  "APPLICATIONDESCRIPTION": "A small addition to an existing surgery center to create two separate business entrances. Will be metal stud framing and masonry construction."
+}
+{
+  "ADDRESS": "2120 GASCONADE ST",
+  "PROJECTTYPE": "New Const.",
+  "STRUCTURETYPE": 34,
+  "APPLICATIONDATE": "May, 21 2026 00:00:00",
+  "ISSUEDATE": "June, 05 2026 00:00:00",
+  "DAYSTOISSUE": 15,
+  "ESTPROJECTCOST": 12765000.0000,
+  "APPLICATIONDESCRIPTION": "Construction of a new municipal trash transfer facility and associated administration building, including all related site development and supporting infrastructure improvements. Scope of work includes, but is not limited to, grading, paving, utilities, drainage, foundations, structural systems, architectural components, mechanical/electrical/plumbing systems, operational support areas, truck circulation and loading areas, and all associated work in accordance with the approved construction documents and project specifications."
+}
+{
+  "ADDRESS": "18 LENOX PL",
+  "PROJECTTYPE": "Alteration",
+  "STRUCTURETYPE": 34,
+  "APPLICATIONDATE": "June, 04 2026 00:00:00",
+  "ISSUEDATE": "June, 05 2026 00:00:00",
   "DAYSTOISSUE": 1,
-  "ESTPROJECTCOST": 2000.0000,
-  "APPLICATIONDESCRIPTION": "Replace existing fence on west side with new 6' treated wood privacy fence"
+  "ESTPROJECTCOST": 13000.0000,
+  "APPLICATIONDESCRIPTION": "Renovate and modify existing patio retaining walls, guardrails  and stairs."
 }
 {
-  "ADDRESS": "2715-41 DAYTON ST",
-  "PROJECTTYPE": "Addition",
-  "STRUCTURETYPE": 28,
-  "APPLICATIONDATE": "April, 13 2026 00:00:00",
-  "ISSUEDATE": "May, 07 2026 00:00:00",
-  "DAYSTOISSUE": 24,
-  "ESTPROJECTCOST": 2875.0000,
-  "APPLICATIONDESCRIPTION": "Temple Church of Christ Sign"
-}
-{
-  "ADDRESS": "2709 S 11TH ST",
+  "ADDRESS": "1600 VERONICA AV",
   "PROJECTTYPE": "Alteration",
   "STRUCTURETYPE": 34,
-  "APPLICATIONDATE": "April, 10 2026 00:00:00",
-  "ISSUEDATE": "May, 07 2026 00:00:00",
-  "DAYSTOISSUE": 27,
-  "ESTPROJECTCOST": 15000.0000,
-  "APPLICATIONDESCRIPTION": "We are replacing 4 windows"
+  "APPLICATIONDATE": "June, 05 2026 00:00:00",
+  "ISSUEDATE": "June, 05 2026 00:00:00",
+  "DAYSTOISSUE": 0,
+  "ESTPROJECTCOST": 18000.0000,
+  "APPLICATIONDESCRIPTION": "INTERIOR ALTERATIONS(KITCHEN & BATH)"
 }
 {
-  "ADDRESS": "214 WOODBOURNE DR",
-  "PROJECTTYPE": "Addition",
-  "STRUCTURETYPE": 36,
-  "APPLICATIONDATE": "April, 21 2026 00:00:00",
-  "ISSUEDATE": "May, 07 2026 00:00:00",
-  "DAYSTOISSUE": 16,
-  "ESTPROJECTCOST": 45000.0000,
-  "APPLICATIONDESCRIPTION": "Replace existing deck with new"
-}
-{
-  "ADDRESS": "1405-27 S 9TH ST",
+  "ADDRESS": "919 BATES ST",
   "PROJECTTYPE": "Alteration",
   "STRUCTURETYPE": 34,
-  "APPLICATIONDATE": "April, 20 2026 00:00:00",
-  "ISSUEDATE": "May, 07 2026 00:00:00",
-  "DAYSTOISSUE": 17,
-  "ESTPROJECTCOST": 500000.0000,
-  "APPLICATIONDESCRIPTION": "Demolishing exterior stair between church and rectory.  Building new steel stair between church and rectory"
+  "APPLICATIONDATE": "May, 26 2026 00:00:00",
+  "ISSUEDATE": "June, 04 2026 00:00:00",
+  "DAYSTOISSUE": 9,
+  "ESTPROJECTCOST": 40000.0000,
+  "APPLICATIONDESCRIPTION": "Update kitchen , Bathrooms and new floors"
+}
+{
+  "ADDRESS": "8500 CHURCH RD",
+  "PROJECTTYPE": "Alteration",
+  "STRUCTURETYPE": 34,
+  "APPLICATIONDATE": "June, 02 2026 00:00:00",
+  "ISSUEDATE": "June, 04 2026 00:00:00",
+  "DAYSTOISSUE": 2,
+  "ESTPROJECTCOST": 10000.0000,
+  "APPLICATIONDESCRIPTION": "Execute structural floor framing reinforcement and foundation masonry stabilization as detailed in the project blueprint. Major tasks include removing and replacing a failing segment of the main wood beam, setting 7 adjustable heavy-duty steel jack posts, sistering 16 floor joists, and applying polyurethane crack sealant and tuckpointing along the perimeter wall."
 }
 {
   "ADDRESS": "7350 MORGAN FORD RD",
