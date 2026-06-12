@@ -105,8 +105,8 @@
   "APPLICATIONDATE": "May, 29 2026 00:00:00",
   "ISSUEDATE": "May, 29 2026 00:00:00",
   "DAYSTOISSUE": 0,
-  "ESTPROJECTCOST": 4000.0000,
-  "APPLICATIONDESCRIPTION": "EXTERIOR ALTS"
+  "ESTPROJECTCOST": 50000.0000,
+  "APPLICATIONDESCRIPTION": "EXTERIOR ALTERATIONS"
 }
 {
   "ADDRESS": "4569 OAKLAND AV",
@@ -115,8 +115,8 @@
   "APPLICATIONDATE": "May, 29 2026 00:00:00",
   "ISSUEDATE": "May, 29 2026 00:00:00",
   "DAYSTOISSUE": 0,
-  "ESTPROJECTCOST": 50000.0000,
-  "APPLICATIONDESCRIPTION": "EXTERIOR ALTERATIONS"
+  "ESTPROJECTCOST": 4000.0000,
+  "APPLICATIONDESCRIPTION": "EXTERIOR ALTS"
 }
 {
   "ADDRESS": "4536-8 VIRGINIA AV",
@@ -1899,144 +1899,124 @@
   "APPLICATIONDESCRIPTION": "Interior Alterations Per Plans"
 }
 {
-  "ADDRESS": "6608 ITASKA ST",
-  "PROJECTTYPE": "Alteration",
-  "STRUCTURETYPE": 34,
-  "APPLICATIONDATE": "April, 06 2026 00:00:00",
-  "ISSUEDATE": "May, 12 2026 00:00:00",
-  "DAYSTOISSUE": 36,
-  "ESTPROJECTCOST": 4000.0000,
-  "APPLICATIONDESCRIPTION": "We plan on putting a gazebo over our patio in the backyard."
-}
-{
-  "ADDRESS": "6419 PERNOD AV",
+  "ADDRESS": "7308 MINNESOTA AV",
   "PROJECTTYPE": "Addition",
   "STRUCTURETYPE": 22,
-  "APPLICATIONDATE": "May, 06 2026 00:00:00",
-  "ISSUEDATE": "May, 12 2026 00:00:00",
-  "DAYSTOISSUE": 6,
-  "ESTPROJECTCOST": 5000.0000,
-  "APPLICATIONDESCRIPTION": "Install approximately 39 linear feet of 8' cedar privacy fence<:<:-1x6x8 cedar picket<:<:-2x4 cedar rail (four per section)<:<:-Good side to face in<:<:-Postmaster Plus posts covered by picket <:<:All posts set in concrete"
-}
-{
-  "ADDRESS": "6171 KINGSBURY AV",
-  "PROJECTTYPE": "Addition",
-  "STRUCTURETYPE": 22,
-  "APPLICATIONDATE": "May, 12 2026 00:00:00",
-  "ISSUEDATE": "May, 12 2026 00:00:00",
+  "APPLICATIONDATE": "June, 10 2026 00:00:00",
+  "ISSUEDATE": "June, 10 2026 00:00:00",
   "DAYSTOISSUE": 0,
-  "ESTPROJECTCOST": 7000.0000,
-  "APPLICATIONDESCRIPTION": "RELACE 4' WOOD FENCE"
+  "ESTPROJECTCOST": 5000.0000,
+  "APPLICATIONDESCRIPTION": "Construct 6' H Wood Fence Per Plans"
 }
 {
-  "ADDRESS": "5569 PAGE BLVD",
+  "ADDRESS": "701 CONVENTION PLAZA",
   "PROJECTTYPE": "Alteration",
   "STRUCTURETYPE": 34,
-  "APPLICATIONDATE": "April, 15 2026 00:00:00",
-  "ISSUEDATE": "May, 12 2026 00:00:00",
-  "DAYSTOISSUE": 27,
-  "ESTPROJECTCOST": 40000.0000,
-  "APPLICATIONDESCRIPTION": "Replace ceiling tiles and add new ceiling grid."
+  "APPLICATIONDATE": "March, 19 2026 00:00:00",
+  "ISSUEDATE": "June, 10 2026 00:00:00",
+  "DAYSTOISSUE": 83,
+  "ESTPROJECTCOST": 4000000.0000,
+  "APPLICATIONDESCRIPTION": "Cervantes Convention Center Expansion and Modernization Project 3.  Renovation of canopies on the Convention Center along Washington Ave.  Including, audio and lighting upgrades."
 }
 {
-  "ADDRESS": "5517 ROSA AV",
+  "ADDRESS": "6315 BRADLEY AV",
   "PROJECTTYPE": "Alteration",
   "STRUCTURETYPE": 34,
-  "APPLICATIONDATE": "April, 16 2026 00:00:00",
-  "ISSUEDATE": "May, 12 2026 00:00:00",
-  "DAYSTOISSUE": 26,
-  "ESTPROJECTCOST": 8000.0000,
-  "APPLICATIONDESCRIPTION": "Remove existing tub, tile surround, and valve. Install new shower pan, shower valve, code approved durarock backer board, and acrylic surround."
+  "APPLICATIONDATE": "June, 10 2026 00:00:00",
+  "ISSUEDATE": "June, 10 2026 00:00:00",
+  "DAYSTOISSUE": 0,
+  "ESTPROJECTCOST": 1000.0000,
+  "APPLICATIONDESCRIPTION": "ADDENDUM TO PERMIT BP-1009-26"
 }
 {
-  "ADDRESS": "5226 WATERMAN BLVD",
-  "PROJECTTYPE": "Alteration",
-  "STRUCTURETYPE": 34,
-  "APPLICATIONDATE": "May, 04 2026 00:00:00",
-  "ISSUEDATE": "May, 12 2026 00:00:00",
-  "DAYSTOISSUE": 8,
-  "ESTPROJECTCOST": 388000.0000,
-  "APPLICATIONDESCRIPTION": "Residential re roof -both the main house and the detached garage <:Deck Over Existing Spaced Plank Decking with Plywood Per Building Code-main house <:<:<:the main house is currently slate with one section of shingle-we are replacing entire main house with north country slate in unfading red <:the detached structure is 3 tab shingle we will be replacing with  Certainteed Landmark Pro AR - Max Def Prairie Wood (Cottage Red)"
-}
-{
-  "ADDRESS": "4987 NAGEL AV",
+  "ADDRESS": "6000 WASHINGTON AV",
   "PROJECTTYPE": "Addition",
-  "STRUCTURETYPE": 22,
-  "APPLICATIONDATE": "May, 07 2026 00:00:00",
-  "ISSUEDATE": "May, 12 2026 00:00:00",
-  "DAYSTOISSUE": 5,
-  "ESTPROJECTCOST": 11000.0000,
-  "APPLICATIONDESCRIPTION": "REMOVE AND DISPOSE OF EXISTING<:100' OF 6' TALL WOOD PRIVACY FENCE<:AND GATES ALONG PERIMETER OF THE<:PROPERTY, AND WE WILL CUT OFF POSTS<:AT GRADE ALONG THE EAST SIDE THAT<:HAS THE NEIGHBORING PROPERTY<:<:THE POSTS CURRENTLY IN CONCRETE WILL<:BE BROKEN OUT AND NEW POSTS WILL BE<:SET IN PLACE USING NEW CONCRETE<:<:THE TIE WALL WILL REMAIN AND THE NEW<:FENCE WILL RUN JUST INSIDE IT ALONG<:THE EAST PROPERTY LINE<:<:INSTALL NEW PRIVACY FENCE<:CATALYST WOODGRAIN FINISH<:6' TALL PRIVACY VINYL, SMOOTH<:APROXIMATELY 95 LINEAR FEET<:(2) 3' WIDE GATES ON SIDE/BACK"
-}
-{
-  "ADDRESS": "4950-60 CHILDRENS PL",
-  "PROJECTTYPE": "New Const.",
   "STRUCTURETYPE": 34,
-  "APPLICATIONDATE": "March, 16 2026 00:00:00",
-  "ISSUEDATE": "May, 12 2026 00:00:00",
-  "DAYSTOISSUE": 57,
-  "ESTPROJECTCOST": 23000000.0000,
-  "APPLICATIONDESCRIPTION": "Wohl & Renard Bridge replacement over the metro tunnel. Sewer piping, manhole and detention basin install."
-}
-{
-  "ADDRESS": "4442-4 DR MARTIN LUTHER KING DR",
-  "PROJECTTYPE": "Alteration",
-  "STRUCTURETYPE": 34,
-  "APPLICATIONDATE": "May, 05 2026 00:00:00",
-  "ISSUEDATE": "May, 12 2026 00:00:00",
-  "DAYSTOISSUE": 7,
-  "ESTPROJECTCOST": 3000.0000,
-  "APPLICATIONDESCRIPTION": "EXT ALTS- (WALL)"
-}
-{
-  "ADDRESS": "4362 WEST PINE BLVD",
-  "PROJECTTYPE": "Addition",
-  "STRUCTURETYPE": 22,
-  "APPLICATIONDATE": "April, 28 2026 00:00:00",
-  "ISSUEDATE": "May, 12 2026 00:00:00",
-  "DAYSTOISSUE": 14,
-  "ESTPROJECTCOST": 2800.0000,
-  "APPLICATIONDESCRIPTION": "build metal fence around front yard, set back from side walk. Typical rod iron black characteristic of the era."
-}
-{
-  "ADDRESS": "4019-21 HYDRAULIC AV",
-  "PROJECTTYPE": "Alteration",
-  "STRUCTURETYPE": 34,
-  "APPLICATIONDATE": "April, 20 2026 00:00:00",
-  "ISSUEDATE": "May, 12 2026 00:00:00",
+  "APPLICATIONDATE": "May, 19 2026 00:00:00",
+  "ISSUEDATE": "June, 10 2026 00:00:00",
   "DAYSTOISSUE": 22,
-  "ESTPROJECTCOST": 100000.0000,
-  "APPLICATIONDESCRIPTION": "Update 4 existing apartments"
+  "ESTPROJECTCOST": 18000.0000,
+  "APPLICATIONDESCRIPTION": "install solar panels"
 }
 {
-  "ADDRESS": "2420 N TAYLOR AV",
+  "ADDRESS": "4553 WESTMINSTER PL",
   "PROJECTTYPE": "Alteration",
   "STRUCTURETYPE": 34,
-  "APPLICATIONDATE": "April, 03 2026 00:00:00",
-  "ISSUEDATE": "May, 12 2026 00:00:00",
-  "DAYSTOISSUE": 39,
-  "ESTPROJECTCOST": 42000.0000,
-  "APPLICATIONDESCRIPTION": "Removing and replacing asphalt shingles with like kind material.  Remove and replace ice and Water in eaves and valleys, Drip Edge around perimeter.  Removing all sheathing and replacing with 5/8\" plywood, using H-clips to ensure 1/8-inch expansion gap between panels and nail patterns per code."
+  "APPLICATIONDATE": "May, 07 2026 00:00:00",
+  "ISSUEDATE": "June, 10 2026 00:00:00",
+  "DAYSTOISSUE": 34,
+  "ESTPROJECTCOST": 12000.0000,
+  "APPLICATIONDESCRIPTION": "We will be replacing 2 front windows. I emailed Andrea questioning the the details. She had me to revise the grille pattern back to the original 3/2 pattern."
 }
 {
-  "ADDRESS": "2300-16 LOCUST ST",
-  "PROJECTTYPE": "Addition",
-  "STRUCTURETYPE": 26,
-  "APPLICATIONDATE": "April, 15 2026 00:00:00",
-  "ISSUEDATE": "May, 12 2026 00:00:00",
-  "DAYSTOISSUE": 27,
-  "ESTPROJECTCOST": 256000.0000,
-  "APPLICATIONDESCRIPTION": "Install Sprinkler System per plans"
-}
-{
-  "ADDRESS": "1004-10 PINE ST",
+  "ADDRESS": "4364 VISTA AV",
   "PROJECTTYPE": "Alteration",
-  "STRUCTURETYPE": 20,
-  "APPLICATIONDATE": "November, 21 2025 00:00:00",
-  "ISSUEDATE": "May, 12 2026 00:00:00",
-  "DAYSTOISSUE": 172,
-  "ESTPROJECTCOST": 900000.0000,
-  "APPLICATIONDESCRIPTION": "INTERIOR ALTERATIONS PR PLNS(BREAKROOM &RESTROOM FL 3,15&20)"
+  "STRUCTURETYPE": 34,
+  "APPLICATIONDATE": "June, 10 2026 00:00:00",
+  "ISSUEDATE": "June, 10 2026 00:00:00",
+  "DAYSTOISSUE": 0,
+  "ESTPROJECTCOST": 3000.0000,
+  "APPLICATIONDESCRIPTION": "CONSTRUCT REAR STAIRS"
+}
+{
+  "ADDRESS": "3920 MINNESOTA AV",
+  "PROJECTTYPE": "Alteration",
+  "STRUCTURETYPE": 34,
+  "APPLICATIONDATE": "June, 10 2026 00:00:00",
+  "ISSUEDATE": "June, 10 2026 00:00:00",
+  "DAYSTOISSUE": 0,
+  "ESTPROJECTCOST": 5000.0000,
+  "APPLICATIONDESCRIPTION": "EXT ALT"
+}
+{
+  "ADDRESS": "3909-49 WILMINGTON AV",
+  "PROJECTTYPE": "Alteration",
+  "STRUCTURETYPE": 34,
+  "APPLICATIONDATE": "April, 21 2026 00:00:00",
+  "ISSUEDATE": "June, 10 2026 00:00:00",
+  "DAYSTOISSUE": 50,
+  "ESTPROJECTCOST": 1000.0000,
+  "APPLICATIONDESCRIPTION": "INTERIOR ALTERATIONS"
+}
+{
+  "ADDRESS": "3872 LOUIS ST",
+  "PROJECTTYPE": "Addition",
+  "STRUCTURETYPE": 34,
+  "APPLICATIONDATE": "May, 01 2026 00:00:00",
+  "ISSUEDATE": "June, 10 2026 00:00:00",
+  "DAYSTOISSUE": 40,
+  "ESTPROJECTCOST": 14000.0000,
+  "APPLICATIONDESCRIPTION": "Solar Panel Install on Rooftop"
+}
+{
+  "ADDRESS": "1953 UTAH ST",
+  "PROJECTTYPE": "Alteration",
+  "STRUCTURETYPE": 34,
+  "APPLICATIONDATE": "February, 23 2026 00:00:00",
+  "ISSUEDATE": "June, 10 2026 00:00:00",
+  "DAYSTOISSUE": 107,
+  "ESTPROJECTCOST": 11000.0000,
+  "APPLICATIONDESCRIPTION": "Tear off old roof and replace with new roof"
+}
+{
+  "ADDRESS": "1121 N JEFFERSON AV",
+  "PROJECTTYPE": "Alteration",
+  "STRUCTURETYPE": 33,
+  "APPLICATIONDATE": "December, 12 2025 00:00:00",
+  "ISSUEDATE": "June, 10 2026 00:00:00",
+  "DAYSTOISSUE": 180,
+  "ESTPROJECTCOST": 45000.0000,
+  "APPLICATIONDESCRIPTION": "INSTALL 1 GROUND SIGN PR PLNS (ILLUMINATED)"
+}
+{
+  "ADDRESS": "1105 S 18TH ST",
+  "PROJECTTYPE": "Alteration",
+  "STRUCTURETYPE": 34,
+  "APPLICATIONDATE": "May, 19 2026 00:00:00",
+  "ISSUEDATE": "June, 10 2026 00:00:00",
+  "DAYSTOISSUE": 22,
+  "ESTPROJECTCOST": 17000.0000,
+  "APPLICATIONDESCRIPTION": "Remove and replace 4 flat roof sections with 60 mil TPO.<:Flat roof on top of home 15ft x 6ft to have a tapered system, and new metal surround installed before the TPO is fully adhered."
 }
 {
   "ADDRESS": "904-12 S VANDEVENTER AV",
@@ -2057,6 +2037,16 @@
   "DAYSTOISSUE": 4,
   "ESTPROJECTCOST": 2790.0000,
   "APPLICATIONDESCRIPTION": "6 foot privacy fence between existing chain link fence. From garage to approximate midway point between."
+}
+{
+  "ADDRESS": "6901 CHIPPEWA ST",
+  "PROJECTTYPE": "Addition",
+  "STRUCTURETYPE": 28,
+  "APPLICATIONDATE": "April, 16 2026 00:00:00",
+  "ISSUEDATE": "June, 09 2026 00:00:00",
+  "DAYSTOISSUE": 54,
+  "ESTPROJECTCOST": 5000.0000,
+  "APPLICATIONDESCRIPTION": "Front lit channel letters sign on a raceway QTY 2 - one of each side of frontage."
 }
 {
   "ADDRESS": "6105-13 DR MARTIN LUTHER KING DR",
