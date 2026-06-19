@@ -105,8 +105,8 @@
   "APPLICATIONDATE": "May, 29 2026 00:00:00",
   "ISSUEDATE": "May, 29 2026 00:00:00",
   "DAYSTOISSUE": 0,
-  "ESTPROJECTCOST": 50000.0000,
-  "APPLICATIONDESCRIPTION": "EXTERIOR ALTERATIONS"
+  "ESTPROJECTCOST": 4000.0000,
+  "APPLICATIONDESCRIPTION": "EXTERIOR ALTS"
 }
 {
   "ADDRESS": "4569 OAKLAND AV",
@@ -115,8 +115,8 @@
   "APPLICATIONDATE": "May, 29 2026 00:00:00",
   "ISSUEDATE": "May, 29 2026 00:00:00",
   "DAYSTOISSUE": 0,
-  "ESTPROJECTCOST": 4000.0000,
-  "APPLICATIONDESCRIPTION": "EXTERIOR ALTS"
+  "ESTPROJECTCOST": 50000.0000,
+  "APPLICATIONDESCRIPTION": "EXTERIOR ALTERATIONS"
 }
 {
   "ADDRESS": "4536-8 VIRGINIA AV",
@@ -1119,114 +1119,144 @@
   "APPLICATIONDESCRIPTION": "Temporary stage for Shakespeare in the Park"
 }
 {
-  "ADDRESS": "6823 WEST PARK AV",
+  "ADDRESS": "6924 FYLER AV",
   "PROJECTTYPE": "Alteration",
   "STRUCTURETYPE": 34,
-  "APPLICATIONDATE": "May, 19 2026 00:00:00",
-  "ISSUEDATE": "May, 19 2026 00:00:00",
-  "DAYSTOISSUE": 0,
-  "ESTPROJECTCOST": 23000.0000,
-  "APPLICATIONDESCRIPTION": "FOUNDATION REPAIR"
+  "APPLICATIONDATE": "May, 22 2026 00:00:00",
+  "ISSUEDATE": "June, 17 2026 00:00:00",
+  "DAYSTOISSUE": 26,
+  "ESTPROJECTCOST": 60000.0000,
+  "APPLICATIONDESCRIPTION": "Kitchen & bathroom remodel"
 }
 {
-  "ADDRESS": "5056 CHIPPEWA ST",
+  "ADDRESS": "6210 COLUMBIA AV",
   "PROJECTTYPE": "Addition",
-  "STRUCTURETYPE": 36,
-  "APPLICATIONDATE": "May, 19 2026 00:00:00",
-  "ISSUEDATE": "May, 19 2026 00:00:00",
-  "DAYSTOISSUE": 0,
-  "ESTPROJECTCOST": 11000.0000,
-  "APPLICATIONDESCRIPTION": "replace decks"
+  "STRUCTURETYPE": 34,
+  "APPLICATIONDATE": "April, 22 2026 00:00:00",
+  "ISSUEDATE": "June, 17 2026 00:00:00",
+  "DAYSTOISSUE": 56,
+  "ESTPROJECTCOST": 36000.0000,
+  "APPLICATIONDESCRIPTION": "INSTALL NEW SOLAR PANELS"
 }
 {
-  "ADDRESS": "4503 THOLOZAN AV",
-  "PROJECTTYPE": "Addition",
-  "STRUCTURETYPE": 22,
-  "APPLICATIONDATE": "May, 19 2026 00:00:00",
-  "ISSUEDATE": "May, 19 2026 00:00:00",
-  "DAYSTOISSUE": 0,
+  "ADDRESS": "6193-7 DELMAR BLVD",
+  "PROJECTTYPE": "Alteration",
+  "STRUCTURETYPE": 20,
+  "APPLICATIONDATE": "December, 03 2025 00:00:00",
+  "ISSUEDATE": "June, 17 2026 00:00:00",
+  "DAYSTOISSUE": 196,
   "ESTPROJECTCOST": 2500.0000,
-  "APPLICATIONDESCRIPTION": "Replace Fence w/6ft 'H Wood Privacy Fence Per Plans"
+  "APPLICATIONDESCRIPTION": "INSTALL 1 PROJECTING SIGN PR PLNS (NON ILLUMINATED)"
 }
 {
-  "ADDRESS": "4302-10 ARSENAL ST",
-  "PROJECTTYPE": "Addition",
-  "STRUCTURETYPE": 22,
-  "APPLICATIONDATE": "May, 19 2026 00:00:00",
-  "ISSUEDATE": "May, 19 2026 00:00:00",
-  "DAYSTOISSUE": 0,
-  "ESTPROJECTCOST": 10000.0000,
-  "APPLICATIONDESCRIPTION": "Addendum to permit # 583707 iss. dt.  2/18/25 -(int/ext alt)  per plans"
-}
-{
-  "ADDRESS": "3723-31 GRAVOIS AV",
-  "PROJECTTYPE": "Alteration",
-  "STRUCTURETYPE": 34,
-  "APPLICATIONDATE": "April, 13 2026 00:00:00",
-  "ISSUEDATE": "May, 19 2026 00:00:00",
-  "DAYSTOISSUE": 36,
-  "ESTPROJECTCOST": 55000.0000,
-  "APPLICATIONDESCRIPTION": "Interior Alteration due to Fire Damage per structural evaluation Report"
-}
-{
-  "ADDRESS": "3700 FOUNDRY WAY",
-  "PROJECTTYPE": "Alteration",
-  "STRUCTURETYPE": 35,
-  "APPLICATIONDATE": "December, 01 2025 00:00:00",
-  "ISSUEDATE": "May, 19 2026 00:00:00",
-  "DAYSTOISSUE": 169,
-  "ESTPROJECTCOST": 3500.0000,
-  "APPLICATIONDESCRIPTION": "INSTALL FIRE ALARM SYSTEM PR PLNS (SUITE 147)"
-}
-{
-  "ADDRESS": "3656 PAGE BLVD",
-  "PROJECTTYPE": "Alteration",
-  "STRUCTURETYPE": 34,
-  "APPLICATIONDATE": "April, 14 2026 00:00:00",
-  "ISSUEDATE": "May, 19 2026 00:00:00",
-  "DAYSTOISSUE": 35,
-  "ESTPROJECTCOST": 261000.0000,
-  "APPLICATIONDESCRIPTION": "Exchange the wood beams to steel beams"
-}
-{
-  "ADDRESS": "3601-13 N GRAND BLVD",
-  "PROJECTTYPE": "Alteration",
-  "STRUCTURETYPE": 34,
-  "APPLICATIONDATE": "May, 04 2026 00:00:00",
-  "ISSUEDATE": "May, 19 2026 00:00:00",
-  "DAYSTOISSUE": 15,
-  "ESTPROJECTCOST": 300000.0000,
-  "APPLICATIONDESCRIPTION": "This project was submitted to the building department prior to the online portal submission. The project was cancelled as the permit was not picked up within the 6 months time period. We asked that the permit be reinstated and were asked to upload the documents to the portal and reference the prior AB#. The prior number was AB#587756. The project was reviewed by staff and no comments were issued on the prior set, we are uploading the same set. We ask that the plan reviewers approve the drawings so that we may get started with the work."
-}
-{
-  "ADDRESS": "3035 BELL AV",
-  "PROJECTTYPE": "Alteration",
-  "STRUCTURETYPE": 34,
-  "APPLICATIONDATE": "February, 19 2026 00:00:00",
-  "ISSUEDATE": "May, 19 2026 00:00:00",
-  "DAYSTOISSUE": 89,
-  "ESTPROJECTCOST": 595000.0000,
-  "APPLICATIONDESCRIPTION": "Int/ext alterations"
-}
-{
-  "ADDRESS": "201 S 20TH ST",
+  "ADDRESS": "5716 N BROADWAY",
   "PROJECTTYPE": "Addition",
   "STRUCTURETYPE": 28,
-  "APPLICATIONDATE": "April, 09 2026 00:00:00",
-  "ISSUEDATE": "May, 19 2026 00:00:00",
-  "DAYSTOISSUE": 40,
-  "ESTPROJECTCOST": 15000.0000,
-  "APPLICATIONDESCRIPTION": "INSTALL 5 WALL SIGNS (ILLUM)"
+  "APPLICATIONDATE": "May, 07 2026 00:00:00",
+  "ISSUEDATE": "June, 17 2026 00:00:00",
+  "DAYSTOISSUE": 41,
+  "ESTPROJECTCOST": 250.0000,
+  "APPLICATIONDESCRIPTION": "install 1 wall signs (non-illum)"
 }
 {
-  "ADDRESS": "1348 N EUCLID AV",
+  "ADDRESS": "5501 CHIPPEWA ST",
+  "PROJECTTYPE": "Addition",
+  "STRUCTURETYPE": 28,
+  "APPLICATIONDATE": "March, 27 2026 00:00:00",
+  "ISSUEDATE": "June, 17 2026 00:00:00",
+  "DAYSTOISSUE": 82,
+  "ESTPROJECTCOST": 7995.0000,
+  "APPLICATIONDESCRIPTION": "Changing rebrand wall sign and adding monument"
+}
+{
+  "ADDRESS": "5348 WEST AV",
+  "PROJECTTYPE": "Addition",
+  "STRUCTURETYPE": 22,
+  "APPLICATIONDATE": "June, 05 2026 00:00:00",
+  "ISSUEDATE": "June, 17 2026 00:00:00",
+  "DAYSTOISSUE": 12,
+  "ESTPROJECTCOST": 12000.0000,
+  "APPLICATIONDESCRIPTION": "Entire Yard<:215 LF of Vinyl Flat Top - 6' White (Estate)<:2 ALL 6' high 4' Wide White Walk Gate<:2 Hard Digs for current tree stumps<:105 LF of Tear out/Haul of existing fence"
+}
+{
+  "ADDRESS": "4400-28 MCPHERSON AV",
   "PROJECTTYPE": "Alteration",
   "STRUCTURETYPE": 34,
-  "APPLICATIONDATE": "May, 19 2026 00:00:00",
-  "ISSUEDATE": "May, 19 2026 00:00:00",
+  "APPLICATIONDATE": "June, 17 2026 00:00:00",
+  "ISSUEDATE": "June, 17 2026 00:00:00",
   "DAYSTOISSUE": 0,
+  "ESTPROJECTCOST": 25000.0000,
+  "APPLICATIONDESCRIPTION": "Int Alt Per Plans"
+}
+{
+  "ADDRESS": "4393 GIBSON AV",
+  "PROJECTTYPE": "Alteration",
+  "STRUCTURETYPE": 34,
+  "APPLICATIONDATE": "June, 17 2026 00:00:00",
+  "ISSUEDATE": "June, 17 2026 00:00:00",
+  "DAYSTOISSUE": 0,
+  "ESTPROJECTCOST": 100000.0000,
+  "APPLICATIONDESCRIPTION": "EXT/ INT ALT"
+}
+{
+  "ADDRESS": "3834 EILER ST",
+  "PROJECTTYPE": "Alteration",
+  "STRUCTURETYPE": 34,
+  "APPLICATIONDATE": "June, 17 2026 00:00:00",
+  "ISSUEDATE": "June, 17 2026 00:00:00",
+  "DAYSTOISSUE": 0,
+  "ESTPROJECTCOST": 25000.0000,
+  "APPLICATIONDESCRIPTION": "INT/ EXT ALT AND FENCE"
+}
+{
+  "ADDRESS": "2927 HENRIETTA ST",
+  "PROJECTTYPE": "Alteration",
+  "STRUCTURETYPE": 34,
+  "APPLICATIONDATE": "June, 12 2026 00:00:00",
+  "ISSUEDATE": "June, 17 2026 00:00:00",
+  "DAYSTOISSUE": 5,
+  "ESTPROJECTCOST": 18000.0000,
+  "APPLICATIONDESCRIPTION": "TEAR DOWN & RELAY EXTERIOR FACE BRICK AT EAST ELEVATION AND RECONSTRUCT COLLAPSED MASONRY PARAPET AT WEST ELEVATION."
+}
+{
+  "ADDRESS": "2501 S KINGSHIGHWAY BLVD",
+  "PROJECTTYPE": "Addition",
+  "STRUCTURETYPE": 28,
+  "APPLICATIONDATE": "May, 07 2026 00:00:00",
+  "ISSUEDATE": "June, 17 2026 00:00:00",
+  "DAYSTOISSUE": 41,
+  "ESTPROJECTCOST": 4938.0000,
+  "APPLICATIONDESCRIPTION": "Install one double face illuminated blade sign."
+}
+{
+  "ADDRESS": "200 S BROADWAY",
+  "PROJECTTYPE": "Alteration",
+  "STRUCTURETYPE": 33,
+  "APPLICATIONDATE": "November, 19 2025 00:00:00",
+  "ISSUEDATE": "June, 17 2026 00:00:00",
+  "DAYSTOISSUE": 210,
+  "ESTPROJECTCOST": 133115.0000,
+  "APPLICATIONDESCRIPTION": "ERECT 7 SIGNS (NON ILLUM BANNERS) PER PLANS"
+}
+{
+  "ADDRESS": "1608-14 S BROADWAY",
+  "PROJECTTYPE": "Addition",
+  "STRUCTURETYPE": 28,
+  "APPLICATIONDATE": "April, 15 2026 00:00:00",
+  "ISSUEDATE": "June, 17 2026 00:00:00",
+  "DAYSTOISSUE": 63,
   "ESTPROJECTCOST": 7000.0000,
-  "APPLICATIONDESCRIPTION": "Replace Roof per plans - Storm Damage - All Fees waived"
+  "APPLICATIONDESCRIPTION": "INSTALL 2 WALL SIGNS WITH EXISTING SIGN WITH EXISTING ELECTRIC"
+}
+{
+  "ADDRESS": "1500-16 LAFAYETTE AV",
+  "PROJECTTYPE": "Addition",
+  "STRUCTURETYPE": 28,
+  "APPLICATIONDATE": "May, 19 2026 00:00:00",
+  "ISSUEDATE": "June, 17 2026 00:00:00",
+  "DAYSTOISSUE": 29,
+  "ESTPROJECTCOST": 8000.0000,
+  "APPLICATIONDESCRIPTION": "Install one illuminated wall sign on the exterior North elevation."
 }
 {
   "ADDRESS": "6818 SALZBURGER AV",
@@ -1237,6 +1267,16 @@
   "DAYSTOISSUE": 14,
   "ESTPROJECTCOST": 30000.0000,
   "APPLICATIONDESCRIPTION": "Interior and exterior renovations to the existing residence"
+}
+{
+  "ADDRESS": "6572 HOFFMAN AV",
+  "PROJECTTYPE": "Alteration",
+  "STRUCTURETYPE": 34,
+  "APPLICATIONDATE": "June, 07 2026 00:00:00",
+  "ISSUEDATE": "June, 16 2026 00:00:00",
+  "DAYSTOISSUE": 9,
+  "ESTPROJECTCOST": 50000.0000,
+  "APPLICATIONDESCRIPTION": "We currently have cabinets on the east side which will be replaced with new, but none on the west side of the kitchen. We will be adding upper and lower cabinets on the west side of the room.  The sink will be moved 2 feet from its current location into the corner and the dishwasher will move to the other side of the sink. The range will stay in its current location on the west side of the kitchen and the refrigerator will also stay in its current location.  The microwave will be built-in above the range. We are removing 4x4 gold tile and a faux brick wall.  We will have new flooring installed as well as new countertop and back splash. My electrician and plumber will be pulling permits for their work."
 }
 {
   "ADDRESS": "5909 PAGE BLVD",
