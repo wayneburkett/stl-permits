@@ -1,12 +1,232 @@
 {
-  "ADDRESS": "819 CHECKERBOARD SQUARE",
+  "ADDRESS": "920 BATES ST",
+  "PROJECTTYPE": "Alteration",
+  "STRUCTURETYPE": 34,
+  "APPLICATIONDATE": "June, 30 2026 00:00:00",
+  "ISSUEDATE": "June, 30 2026 00:00:00",
+  "DAYSTOISSUE": 0,
+  "ESTPROJECTCOST": 25000.0000,
+  "APPLICATIONDESCRIPTION": "INT ALTS (DEMO DRYWALL/MOLD REMOVAL)"
+}
+{
+  "ADDRESS": "6926 BLOW ST",
   "PROJECTTYPE": "Addition",
-  "STRUCTURETYPE": 26,
-  "APPLICATIONDATE": "June, 16 2026 00:00:00",
-  "ISSUEDATE": "June, 29 2026 00:00:00",
+  "STRUCTURETYPE": 22,
+  "APPLICATIONDATE": "June, 30 2026 00:00:00",
+  "ISSUEDATE": "June, 30 2026 00:00:00",
+  "DAYSTOISSUE": 0,
+  "ESTPROJECTCOST": 5000.0000,
+  "APPLICATIONDESCRIPTION": "INSTALL NEW FENCE"
+}
+{
+  "ADDRESS": "6817 WEST PARK AV",
+  "PROJECTTYPE": "Addition",
+  "STRUCTURETYPE": 22,
+  "APPLICATIONDATE": "June, 15 2026 00:00:00",
+  "ISSUEDATE": "June, 30 2026 00:00:00",
+  "DAYSTOISSUE": 15,
+  "ESTPROJECTCOST": 4000.0000,
+  "APPLICATIONDESCRIPTION": "Fence Install"
+}
+{
+  "ADDRESS": "6541 LINDENWOOD PL",
+  "PROJECTTYPE": "Alteration",
+  "STRUCTURETYPE": 34,
+  "APPLICATIONDATE": "June, 15 2026 00:00:00",
+  "ISSUEDATE": "June, 30 2026 00:00:00",
+  "DAYSTOISSUE": 15,
+  "ESTPROJECTCOST": 20000.0000,
+  "APPLICATIONDESCRIPTION": "Add work to permit PB-589522-26 to reframe basement walls and refinish basement. Demolition on permit permit PB-589522-26 included entire perimeter except bathroom area.  Bathroom was existing and remained intact (including wall on foundation perimeter).  Stairs were existing and remained intact.  Closets/storage were existing and remained partially intact (perimeter walls were removed). Closets/storage will be reframed if necessary.  Add one wall (non load bearing) to create an office with door opening.  Door will be hanging slide door.  Rerun electrical for lighting and outlets on wall.  <: <:Licensed electrician will be updating existing circuit breaker panels to new 200A panel.<:<:No changes planned to bathroom, water heater,  HVAC or washer/dryer locations.  If needed, additional permit may be required (e.g. move water lines).  No changes planned to main living space on first floor.<:<:Note: Understood that if homeowner is to do electrical work that passing an exam is required."
+}
+{
+  "ADDRESS": "6018 GUILFORD PL",
+  "PROJECTTYPE": "Alteration",
+  "STRUCTURETYPE": 34,
+  "APPLICATIONDATE": "June, 30 2026 00:00:00",
+  "ISSUEDATE": "June, 30 2026 00:00:00",
+  "DAYSTOISSUE": 0,
+  "ESTPROJECTCOST": 0.0000,
+  "APPLICATIONDESCRIPTION": "ADDENDUM/CLARIFICATION TO BP-1118-26"
+}
+{
+  "ADDRESS": "6017 HANCOCK AV",
+  "PROJECTTYPE": "Addition",
+  "STRUCTURETYPE": 22,
+  "APPLICATIONDATE": "June, 30 2026 00:00:00",
+  "ISSUEDATE": "June, 30 2026 00:00:00",
+  "DAYSTOISSUE": 0,
+  "ESTPROJECTCOST": 4000.0000,
+  "APPLICATIONDESCRIPTION": "INSTALL NEW 6' WOOD PRIVACY FENCE - SIDE TO FRONT"
+}
+{
+  "ADDRESS": "600-34 WASHINGTON AV",
+  "PROJECTTYPE": "Addition",
+  "STRUCTURETYPE": 28,
+  "APPLICATIONDATE": "April, 23 2026 00:00:00",
+  "ISSUEDATE": "June, 30 2026 00:00:00",
+  "DAYSTOISSUE": 68,
+  "ESTPROJECTCOST": 1000.0000,
+  "APPLICATIONDESCRIPTION": "addendum to permit 585735 issued 10-28-25"
+}
+{
+  "ADDRESS": "5621 ROSA AV",
+  "PROJECTTYPE": "Addition",
+  "STRUCTURETYPE": 22,
+  "APPLICATIONDATE": "June, 24 2026 00:00:00",
+  "ISSUEDATE": "June, 30 2026 00:00:00",
+  "DAYSTOISSUE": 6,
+  "ESTPROJECTCOST": 500.0000,
+  "APPLICATIONDESCRIPTION": "Replacing fence section that was removed for tree removal."
+}
+{
+  "ADDRESS": "5557 PERSHING AV",
+  "PROJECTTYPE": "Alteration",
+  "STRUCTURETYPE": 34,
+  "APPLICATIONDATE": "June, 25 2026 00:00:00",
+  "ISSUEDATE": "June, 30 2026 00:00:00",
+  "DAYSTOISSUE": 5,
+  "ESTPROJECTCOST": 49000.0000,
+  "APPLICATIONDESCRIPTION": "Remodel existing master bathroom.  Remove small half wall between toilet and vanity.  Replace tub, tile floor, tile surround, new cabinets and fixtures."
+}
+{
+  "ADDRESS": "5416 DELMAR PLACE CT",
+  "PROJECTTYPE": "New Const.",
+  "STRUCTURETYPE": 34,
+  "APPLICATIONDATE": "March, 30 2026 00:00:00",
+  "ISSUEDATE": "June, 30 2026 00:00:00",
+  "DAYSTOISSUE": 92,
+  "ESTPROJECTCOST": 175000.0000,
+  "APPLICATIONDESCRIPTION": "SINGLE FAMILY TOWNHOME"
+}
+{
+  "ADDRESS": "5414 DELMAR PLACE CT",
+  "PROJECTTYPE": "New Const.",
+  "STRUCTURETYPE": 34,
+  "APPLICATIONDATE": "March, 30 2026 00:00:00",
+  "ISSUEDATE": "June, 30 2026 00:00:00",
+  "DAYSTOISSUE": 92,
+  "ESTPROJECTCOST": 175000.0000,
+  "APPLICATIONDESCRIPTION": "SINGLE FAMILY TOWNHOME"
+}
+{
+  "ADDRESS": "5412 DELMAR PLACE CT",
+  "PROJECTTYPE": "New Const.",
+  "STRUCTURETYPE": 34,
+  "APPLICATIONDATE": "March, 30 2026 00:00:00",
+  "ISSUEDATE": "June, 30 2026 00:00:00",
+  "DAYSTOISSUE": 92,
+  "ESTPROJECTCOST": 175000.0000,
+  "APPLICATIONDESCRIPTION": "SINGLE FAMILY TOWNHOME"
+}
+{
+  "ADDRESS": "5410 DELMAR PLACE CT",
+  "PROJECTTYPE": "New Const.",
+  "STRUCTURETYPE": 34,
+  "APPLICATIONDATE": "March, 27 2026 00:00:00",
+  "ISSUEDATE": "June, 30 2026 00:00:00",
+  "DAYSTOISSUE": 95,
+  "ESTPROJECTCOST": 175000.0000,
+  "APPLICATIONDESCRIPTION": "SINGLE FAMILY TOWNHOME"
+}
+{
+  "ADDRESS": "4938 SCHOLLMEYER AV",
+  "PROJECTTYPE": "Addition",
+  "STRUCTURETYPE": 22,
+  "APPLICATIONDATE": "May, 10 2026 00:00:00",
+  "ISSUEDATE": "June, 30 2026 00:00:00",
+  "DAYSTOISSUE": 51,
+  "ESTPROJECTCOST": 3000.0000,
+  "APPLICATIONDESCRIPTION": "Replace existing chain link fence with new cedar/ redwood privacy fence."
+}
+{
+  "ADDRESS": "4927 WISE AV",
+  "PROJECTTYPE": "Addition",
+  "STRUCTURETYPE": 22,
+  "APPLICATIONDATE": "June, 24 2026 00:00:00",
+  "ISSUEDATE": "June, 30 2026 00:00:00",
+  "DAYSTOISSUE": 6,
+  "ESTPROJECTCOST": 2975.0000,
+  "APPLICATIONDESCRIPTION": "53 feet of 4'tall chain link fence"
+}
+{
+  "ADDRESS": "4513-5 RIDGEWOOD AV",
+  "PROJECTTYPE": "Alteration",
+  "STRUCTURETYPE": 34,
+  "APPLICATIONDATE": "March, 25 2026 00:00:00",
+  "ISSUEDATE": "June, 30 2026 00:00:00",
+  "DAYSTOISSUE": 97,
+  "ESTPROJECTCOST": 30000.0000,
+  "APPLICATIONDESCRIPTION": "convert storage to two residential units"
+}
+{
+  "ADDRESS": "4104 HUMPHREY ST",
+  "PROJECTTYPE": "Addition",
+  "STRUCTURETYPE": 22,
+  "APPLICATIONDATE": "June, 23 2026 00:00:00",
+  "ISSUEDATE": "June, 30 2026 00:00:00",
+  "DAYSTOISSUE": 7,
+  "ESTPROJECTCOST": 3000.0000,
+  "APPLICATIONDESCRIPTION": "Replacing back and front fence as well as the right side fence line (looking at the house from the front)"
+}
+{
+  "ADDRESS": "3500 WELLINGTON AV",
+  "PROJECTTYPE": "New Const.",
+  "STRUCTURETYPE": 34,
+  "APPLICATIONDATE": "June, 29 2026 00:00:00",
+  "ISSUEDATE": "June, 30 2026 00:00:00",
+  "DAYSTOISSUE": 1,
+  "ESTPROJECTCOST": 100000.0000,
+  "APPLICATIONDESCRIPTION": "Addendum-Stabilize slope and drainage. Addendum to Permit # is BP-428-26 the system does not find it! The system say there is no permits associated with the address."
+}
+{
+  "ADDRESS": "3445 BENT AV",
+  "PROJECTTYPE": "Addition",
+  "STRUCTURETYPE": 34,
+  "APPLICATIONDATE": "June, 17 2026 00:00:00",
+  "ISSUEDATE": "June, 30 2026 00:00:00",
   "DAYSTOISSUE": 13,
-  "ESTPROJECTCOST": 23000.0000,
-  "APPLICATIONDESCRIPTION": "REWORK EXISTING FIRE SPRINKLER SYSTEM (RESEARCH NORTH 4N MOLECULAR LAB)"
+  "ESTPROJECTCOST": 15000.0000,
+  "APPLICATIONDESCRIPTION": "GROUND SCOPE OF WORK: •REMOVE PAD, CABINETS AND OTHER ABANDONED EQUIPMENT IN NEW GENERATOR AREA •INSTALL (1) GENERAC  DIESEL GENERATOR •INSTALL (1) 9'-0\" X 4'-0\" PAD WITH CANOPY. NO changes to tower equipment."
+}
+{
+  "ADDRESS": "3182 ALFRED AV",
+  "PROJECTTYPE": "Addition",
+  "STRUCTURETYPE": 36,
+  "APPLICATIONDATE": "June, 23 2026 00:00:00",
+  "ISSUEDATE": "June, 30 2026 00:00:00",
+  "DAYSTOISSUE": 7,
+  "ESTPROJECTCOST": 5000.0000,
+  "APPLICATIONDESCRIPTION": "Remove existing and build new deck"
+}
+{
+  "ADDRESS": "2626-30 CHEROKEE ST",
+  "PROJECTTYPE": "Alteration",
+  "STRUCTURETYPE": 34,
+  "APPLICATIONDATE": "June, 26 2026 00:00:00",
+  "ISSUEDATE": "June, 30 2026 00:00:00",
+  "DAYSTOISSUE": 4,
+  "ESTPROJECTCOST": 6000.0000,
+  "APPLICATIONDESCRIPTION": "Install guardrail adjacent to existing ADA ramp at Clements Lock & Security"
+}
+{
+  "ADDRESS": "2101 S GRAND BLVD",
+  "PROJECTTYPE": "Addition",
+  "STRUCTURETYPE": 28,
+  "APPLICATIONDATE": "June, 11 2026 00:00:00",
+  "ISSUEDATE": "June, 30 2026 00:00:00",
+  "DAYSTOISSUE": 19,
+  "ESTPROJECTCOST": 1000.0000,
+  "APPLICATIONDESCRIPTION": "INSTALL 6 WALL SIGNS WITH 1 BANNER SIGN (NON-ILLUMINATED)"
+}
+{
+  "ADDRESS": "1401 LASALLE ST",
+  "PROJECTTYPE": "New Const.",
+  "STRUCTURETYPE": 2,
+  "APPLICATIONDATE": "September, 05 2025 00:00:00",
+  "ISSUEDATE": "June, 30 2026 00:00:00",
+  "DAYSTOISSUE": 298,
+  "ESTPROJECTCOST": 15900000.0000,
+  "APPLICATIONDESCRIPTION": "CONSTRUCT MULTI FAMILY PER PLANS"
 }
 {
   "ADDRESS": "816-26 OLIVE ST",
@@ -19,7 +239,7 @@
   "APPLICATIONDESCRIPTION": "Installation of a 2.67 ft x 5 ft, Double-Sided Dibond (ACM) with Printed Vinyl Sign Face on the existing black iron frames (projecting/blade Sign)"
 }
 {
-  "ADDRESS": "701-27 MARKET ST",
+  "ADDRESS": "700-30 CHESTNUT ST",
   "PROJECTTYPE": "Addition",
   "STRUCTURETYPE": 26,
   "APPLICATIONDATE": "June, 16 2026 00:00:00",
@@ -37,6 +257,16 @@
   "DAYSTOISSUE": 4,
   "ESTPROJECTCOST": 4000.0000,
   "APPLICATIONDESCRIPTION": "Installing 7 additional panels to the existing PV system"
+}
+{
+  "ADDRESS": "600 N KINGSHIGHWAY BLVD",
+  "PROJECTTYPE": "Addition",
+  "STRUCTURETYPE": 26,
+  "APPLICATIONDATE": "June, 11 2026 00:00:00",
+  "ISSUEDATE": "June, 29 2026 00:00:00",
+  "DAYSTOISSUE": 18,
+  "ESTPROJECTCOST": 71000.0000,
+  "APPLICATIONDESCRIPTION": "Modify existing wet system"
 }
 {
   "ADDRESS": "5924 MICHIGAN AV",
@@ -107,16 +337,6 @@
   "DAYSTOISSUE": 55,
   "ESTPROJECTCOST": 253000.0000,
   "APPLICATIONDESCRIPTION": "The scope of work consists of an interior tenant renovation within existing Suites 1320 and 1360 on the 13th floor of an existing high-rise office building at 500 North Broadway, St.?Louis, Missouri. Work includes selective interior demolition; construction of new and modified non-load-bearing partitions, interior glazing, and doors; reconfiguration and renovation of private offices, open office areas, conference and huddle rooms, IT and copy rooms, lunchroom/pantry, and a wellness restroom; installation of new finishes, casework, and countertops; and associated modifications to existing mechanical, electrical, plumbing, fire protection, fire alarm, lighting, ceiling, and data systems to support the new layout. Work also includes accessibility upgrades within the tenant area as shown. There is no change in occupancy classification, construction type, or means of egress, and all work will be fully sprinklered and performed in accordance with the 2021 IBC, applicable energy and accessibility codes, and City of St.?Louis ordinances."
-}
-{
-  "ADDRESS": "4953-69 WASHINGTON AV",
-  "PROJECTTYPE": "Addition",
-  "STRUCTURETYPE": 26,
-  "APPLICATIONDATE": "June, 11 2026 00:00:00",
-  "ISSUEDATE": "June, 29 2026 00:00:00",
-  "DAYSTOISSUE": 18,
-  "ESTPROJECTCOST": 71000.0000,
-  "APPLICATIONDESCRIPTION": "Modify existing wet system"
 }
 {
   "ADDRESS": "4451 FOREST PARK AV",
@@ -289,6 +509,16 @@
   "APPLICATIONDESCRIPTION": "CONSTRUCT GARAGE"
 }
 {
+  "ADDRESS": "1 CHECKERBOARD SQUARE",
+  "PROJECTTYPE": "Addition",
+  "STRUCTURETYPE": 26,
+  "APPLICATIONDATE": "June, 16 2026 00:00:00",
+  "ISSUEDATE": "June, 29 2026 00:00:00",
+  "DAYSTOISSUE": 13,
+  "ESTPROJECTCOST": 23000.0000,
+  "APPLICATIONDESCRIPTION": "REWORK EXISTING FIRE SPRINKLER SYSTEM (RESEARCH NORTH 4N MOLECULAR LAB)"
+}
+{
   "ADDRESS": "4739 MILENTZ AV",
   "PROJECTTYPE": "Alteration",
   "STRUCTURETYPE": 34,
@@ -409,16 +639,6 @@
   "APPLICATIONDESCRIPTION": "Installing a 8.8 kW roof mounted solar system w/ (1) Tesla Powerwall 3 Battery.  We will be combining the Garage Meter and House meter into a meter combo."
 }
 {
-  "ADDRESS": "301 S KINGSHIGHWAY BLVD",
-  "PROJECTTYPE": "Addition",
-  "STRUCTURETYPE": 34,
-  "APPLICATIONDATE": "June, 24 2026 00:00:00",
-  "ISSUEDATE": "June, 26 2026 00:00:00",
-  "DAYSTOISSUE": 2,
-  "ESTPROJECTCOST": 0.0000,
-  "APPLICATIONDESCRIPTION": "Erect (1) 40x60 tent at World's Fair Pavilion"
-}
-{
   "ADDRESS": "2928 HICKORY ST",
   "PROJECTTYPE": "Alteration",
   "STRUCTURETYPE": 34,
@@ -457,6 +677,16 @@
   "DAYSTOISSUE": 2,
   "ESTPROJECTCOST": 35000.0000,
   "APPLICATIONDESCRIPTION": "Demo existing deck and sunroom, replace with same size / footprint deck and four season room."
+}
+{
+  "ADDRESS": "1-199 N KINGSHIGHWAY BLVD",
+  "PROJECTTYPE": "Addition",
+  "STRUCTURETYPE": 34,
+  "APPLICATIONDATE": "June, 24 2026 00:00:00",
+  "ISSUEDATE": "June, 26 2026 00:00:00",
+  "DAYSTOISSUE": 2,
+  "ESTPROJECTCOST": 0.0000,
+  "APPLICATIONDESCRIPTION": "Erect (1) 40x60 tent at World's Fair Pavilion"
 }
 {
   "ADDRESS": "9215 RIVERVIEW DR",
@@ -1139,7 +1369,7 @@
   "APPLICATIONDESCRIPTION": "Interior bathroom remodel; new floors, tile tub surround, vanity and top. Plumbing locations to remain but tub, toilet, and fixtures will be updated. Electrical locations to remain, just update fixtures outlet, and switch."
 }
 {
-  "ADDRESS": "5930 DRURY LA",
+  "ADDRESS": "5935 VIVIAN AV",
   "PROJECTTYPE": "Addition",
   "STRUCTURETYPE": 22,
   "APPLICATIONDATE": "June, 15 2026 00:00:00",
@@ -2079,7 +2309,7 @@
   "APPLICATIONDESCRIPTION": "CONSTRUCT REAR COVERED PORCH"
 }
 {
-  "ADDRESS": "3826 ENRIGHT AV",
+  "ADDRESS": "3808-96 DELMAR BLVD",
   "PROJECTTYPE": "Alteration",
   "STRUCTURETYPE": 34,
   "APPLICATIONDATE": "April, 13 2026 00:00:00",
@@ -2159,7 +2389,7 @@
   "APPLICATIONDESCRIPTION": "Construct 6' H Wood Fence Per Plans"
 }
 {
-  "ADDRESS": "700 COLE ST",
+  "ADDRESS": "701 CONVENTION PLAZA",
   "PROJECTTYPE": "Alteration",
   "STRUCTURETYPE": 34,
   "APPLICATIONDATE": "March, 19 2026 00:00:00",
@@ -2179,7 +2409,7 @@
   "APPLICATIONDESCRIPTION": "ADDENDUM TO PERMIT BP-1009-26"
 }
 {
-  "ADDRESS": "521 DES PERES AV",
+  "ADDRESS": "6000 WASHINGTON AV",
   "PROJECTTYPE": "Addition",
   "STRUCTURETYPE": 34,
   "APPLICATIONDATE": "May, 19 2026 00:00:00",
@@ -2849,7 +3079,7 @@
   "APPLICATIONDESCRIPTION": "REPLACE FENCE"
 }
 {
-  "ADDRESS": "3333-5 CLARA AV",
+  "ADDRESS": "3337-51 CLARA AV",
   "PROJECTTYPE": "Alteration",
   "STRUCTURETYPE": 34,
   "APPLICATIONDATE": "June, 03 2026 00:00:00",
@@ -3139,172 +3369,162 @@
   "APPLICATIONDESCRIPTION": "Project consists of renovations to the first level office layout and renovations to the second level apartment."
 }
 {
-  "ADDRESS": "7525 ALASKA AV",
-  "PROJECTTYPE": "Addition",
-  "STRUCTURETYPE": 36,
-  "APPLICATIONDATE": "May, 22 2026 00:00:00",
-  "ISSUEDATE": "June, 02 2026 00:00:00",
-  "DAYSTOISSUE": 11,
-  "ESTPROJECTCOST": 9000.0000,
-  "APPLICATIONDESCRIPTION": "front porch 6ftx20ft"
-}
-{
-  "ADDRESS": "6743 WEST PARK AV",
-  "PROJECTTYPE": "New Const.",
-  "STRUCTURETYPE": 34,
-  "APPLICATIONDATE": "May, 07 2026 00:00:00",
-  "ISSUEDATE": "June, 02 2026 00:00:00",
-  "DAYSTOISSUE": 26,
-  "ESTPROJECTCOST": 135000.0000,
-  "APPLICATIONDESCRIPTION": "CONSTRUCT NEW SINGLE FAMILY HOME"
-}
-{
-  "ADDRESS": "6331 MARQUETTE AV",
-  "PROJECTTYPE": "Addition",
-  "STRUCTURETYPE": 36,
-  "APPLICATIONDATE": "May, 16 2026 00:00:00",
-  "ISSUEDATE": "June, 02 2026 00:00:00",
-  "DAYSTOISSUE": 17,
-  "ESTPROJECTCOST": 1000.0000,
-  "APPLICATIONDESCRIPTION": "Construction of an 8’ x 8’ wood deck addition at the rear entry of the existing single-family residence. The deck will provide a small exterior landing and access point to the backyard. The structure will be built in accordance with applicable City of St. Louis building codes and standards, including appropriate footings, framing, and guard/handrail requirements as applicable."
-}
-{
-  "ADDRESS": "5426 DAGGETT AV",
+  "ADDRESS": "9 ABERDEEN PL",
   "PROJECTTYPE": "Alteration",
   "STRUCTURETYPE": 34,
-  "APPLICATIONDATE": "May, 01 2026 00:00:00",
-  "ISSUEDATE": "June, 02 2026 00:00:00",
-  "DAYSTOISSUE": 32,
-  "ESTPROJECTCOST": 160000.0000,
-  "APPLICATIONDESCRIPTION": "house remodel and adding a shed dormer"
+  "APPLICATIONDATE": "June, 04 2026 00:00:00",
+  "ISSUEDATE": "July, 01 2026 00:00:00",
+  "DAYSTOISSUE": 27,
+  "ESTPROJECTCOST": 49000.0000,
+  "APPLICATIONDESCRIPTION": "• Remove existing roof to the deck on the main house and the detached building<:• Install new decking over the existing decking.<:• Install new ice and water shield.<:• Install Euroshield roofing system.<:• Install new flashing around the chimney<:• Install new “copper color” flashings<:• Install new pipe boots.<:• Install new “copper color” drip edge around the perimeter of the buildings.<:• Remove and replace “copper color” gutters.<:• Replace up to 64 LF of custom bent aluminum.<:• Interior work is not included in this contract. Interior funds will not be collected so RestoreMasters will not collect the deductible amount. Client will use the deductible amount towards the interior work."
 }
 {
-  "ADDRESS": "5158-60 KENSINGTON AV",
-  "PROJECTTYPE": "Alteration",
-  "STRUCTURETYPE": 34,
-  "APPLICATIONDATE": "June, 02 2026 00:00:00",
-  "ISSUEDATE": "June, 02 2026 00:00:00",
+  "ADDRESS": "7307 MINNESOTA AV",
+  "PROJECTTYPE": "Addition",
+  "STRUCTURETYPE": 36,
+  "APPLICATIONDATE": "July, 01 2026 00:00:00",
+  "ISSUEDATE": "July, 01 2026 00:00:00",
   "DAYSTOISSUE": 0,
-  "ESTPROJECTCOST": 1000.0000,
-  "APPLICATIONDESCRIPTION": "EXTERIOR ALTERATIONS (HEALTHY HOMES) 5158-5160 KESINGTON AVE"
+  "ESTPROJECTCOST": 7000.0000,
+  "APPLICATIONDESCRIPTION": "Construct Rear Deck Per Plans"
 }
 {
-  "ADDRESS": "4912-24 HAMPTON AV",
-  "PROJECTTYPE": "Addition",
-  "STRUCTURETYPE": 28,
-  "APPLICATIONDATE": "May, 19 2026 00:00:00",
-  "ISSUEDATE": "June, 02 2026 00:00:00",
-  "DAYSTOISSUE": 14,
-  "ESTPROJECTCOST": 600.0000,
-  "APPLICATIONDESCRIPTION": "Use of Existing power and sign dimensions of prior business- Basic name change with metal sign and use of existing junction box for a gooseneck light over each side. The building corners Hampton and Neosho- 2 existing signs replaced identical on both the Hampton facing side of the building and the Neosho facing side of the building."
-}
-{
-  "ADDRESS": "4545R OLEATHA AV",
-  "PROJECTTYPE": "Addition",
-  "STRUCTURETYPE": 35,
-  "APPLICATIONDATE": "May, 19 2026 00:00:00",
-  "ISSUEDATE": "June, 02 2026 00:00:00",
-  "DAYSTOISSUE": 14,
-  "ESTPROJECTCOST": 20000.0000,
-  "APPLICATIONDESCRIPTION": "MODIFY EXISTING FIRE ALARM PER PLANS FOR REMODEL."
-}
-{
-  "ADDRESS": "4140 FOREST PARK AV",
-  "PROJECTTYPE": "Addition",
-  "STRUCTURETYPE": 35,
-  "APPLICATIONDATE": "May, 18 2026 00:00:00",
-  "ISSUEDATE": "June, 02 2026 00:00:00",
-  "DAYSTOISSUE": 15,
-  "ESTPROJECTCOST": 113000.0000,
-  "APPLICATIONDESCRIPTION": "C2N Fire Alarm Geco Job 11737.700, FA Devices: 159"
-}
-{
-  "ADDRESS": "3800 S WHARF ST",
+  "ADDRESS": "6209 LEONA ST",
   "PROJECTTYPE": "Addition",
   "STRUCTURETYPE": 22,
-  "APPLICATIONDATE": "May, 28 2026 00:00:00",
-  "ISSUEDATE": "June, 02 2026 00:00:00",
-  "DAYSTOISSUE": 5,
-  "ESTPROJECTCOST": 6000.0000,
-  "APPLICATIONDESCRIPTION": "Install 82' of 6' tall galvanized chain link fence with 1-4' wide walk gate around transformers."
+  "APPLICATIONDATE": "June, 23 2026 00:00:00",
+  "ISSUEDATE": "July, 01 2026 00:00:00",
+  "DAYSTOISSUE": 8,
+  "ESTPROJECTCOST": 23000.0000,
+  "APPLICATIONDESCRIPTION": "196 LF of 5' Picket Fence"
 }
 {
-  "ADDRESS": "3144 S KINGSHIGHWAY BLVD",
+  "ADDRESS": "5129 WESTMINSTER PL",
   "PROJECTTYPE": "Addition",
-  "STRUCTURETYPE": 28,
-  "APPLICATIONDATE": "May, 18 2026 00:00:00",
-  "ISSUEDATE": "June, 02 2026 00:00:00",
-  "DAYSTOISSUE": 15,
-  "ESTPROJECTCOST": 8000.0000,
-  "APPLICATIONDESCRIPTION": "Install (1) LED illuminated wall sign & MANUFACTURE AND INSTALL (1) DOUBLE FACE LED ILLUMINATED BOX SIGN ON EXISTING BASE"
+  "STRUCTURETYPE": 24,
+  "APPLICATIONDATE": "April, 16 2026 00:00:00",
+  "ISSUEDATE": "July, 01 2026 00:00:00",
+  "DAYSTOISSUE": 76,
+  "ESTPROJECTCOST": 63000.0000,
+  "APPLICATIONDESCRIPTION": "In ground shotcrete pool"
 }
 {
-  "ADDRESS": "2810-28 BRANNON AV",
-  "PROJECTTYPE": "Addition",
-  "STRUCTURETYPE": 26,
-  "APPLICATIONDATE": "June, 01 2026 00:00:00",
-  "ISSUEDATE": "June, 02 2026 00:00:00",
-  "DAYSTOISSUE": 1,
-  "ESTPROJECTCOST": 10000.0000,
-  "APPLICATIONDESCRIPTION": "Install fire sprinkler system"
-}
-{
-  "ADDRESS": "2743 TAMM AV",
-  "PROJECTTYPE": "Addition",
-  "STRUCTURETYPE": 25,
-  "APPLICATIONDATE": "May, 28 2026 00:00:00",
-  "ISSUEDATE": "June, 02 2026 00:00:00",
-  "DAYSTOISSUE": 5,
-  "ESTPROJECTCOST": 4000.0000,
-  "APPLICATIONDESCRIPTION": "New modular concrete block retaining wall to hold back loose soil, L-shaped, 46 linear feet, maximum 33 inches in height"
-}
-{
-  "ADDRESS": "26-40 MARYLAND PLAZA",
-  "PROJECTTYPE": "Addition",
-  "STRUCTURETYPE": 35,
-  "APPLICATIONDATE": "June, 01 2026 00:00:00",
-  "ISSUEDATE": "June, 02 2026 00:00:00",
-  "DAYSTOISSUE": 1,
-  "ESTPROJECTCOST": 10000.0000,
-  "APPLICATIONDESCRIPTION": "Install (3) Horn Strobes and (2) Smokes."
-}
-{
-  "ADDRESS": "1615 PRATHER AV",
-  "PROJECTTYPE": "Addition",
-  "STRUCTURETYPE": 25,
-  "APPLICATIONDATE": "May, 21 2026 00:00:00",
-  "ISSUEDATE": "June, 02 2026 00:00:00",
-  "DAYSTOISSUE": 12,
-  "ESTPROJECTCOST": 30000.0000,
-  "APPLICATIONDESCRIPTION": "retaining wall"
-}
-{
-  "ADDRESS": "1464 CLARA AV",
+  "ADDRESS": "4961 ST LOUIS AV",
   "PROJECTTYPE": "Alteration",
   "STRUCTURETYPE": 34,
-  "APPLICATIONDATE": "May, 14 2026 00:00:00",
-  "ISSUEDATE": "June, 02 2026 00:00:00",
-  "DAYSTOISSUE": 19,
-  "ESTPROJECTCOST": 45000.0000,
-  "APPLICATIONDESCRIPTION": "Interior/Exterior Alterations- Fire Damage- Per plans"
-}
-{
-  "ADDRESS": "1443 MCCAUSLAND AV",
-  "PROJECTTYPE": "Addition",
-  "STRUCTURETYPE": 36,
-  "APPLICATIONDATE": "June, 02 2026 00:00:00",
-  "ISSUEDATE": "June, 02 2026 00:00:00",
+  "APPLICATIONDATE": "July, 01 2026 00:00:00",
+  "ISSUEDATE": "July, 01 2026 00:00:00",
   "DAYSTOISSUE": 0,
-  "ESTPROJECTCOST": 28000.0000,
-  "APPLICATIONDESCRIPTION": "Remove existing and build new deck"
+  "ESTPROJECTCOST": 5000.0000,
+  "APPLICATIONDESCRIPTION": "EXT ALTERATIONS (DEMO BACK PORCH & CHIMNEYS)"
 }
 {
-  "ADDRESS": "1413 HOWARD ST",
+  "ADDRESS": "4901 BARNES JEWISH HOSPITAL PLZ",
   "PROJECTTYPE": "Addition",
-  "STRUCTURETYPE": 35,
-  "APPLICATIONDATE": "May, 29 2026 00:00:00",
-  "ISSUEDATE": "June, 02 2026 00:00:00",
-  "DAYSTOISSUE": 4,
-  "ESTPROJECTCOST": 3000.0000,
-  "APPLICATIONDESCRIPTION": "Description: replacing fire panel and several devices"
+  "STRUCTURETYPE": 26,
+  "APPLICATIONDATE": "June, 11 2026 00:00:00",
+  "ISSUEDATE": "July, 01 2026 00:00:00",
+  "DAYSTOISSUE": 20,
+  "ESTPROJECTCOST": 25000.0000,
+  "APPLICATIONDESCRIPTION": "Fire Sprinkler System Modifications"
+}
+{
+  "ADDRESS": "3854 MCDONALD AV",
+  "PROJECTTYPE": "Addition",
+  "STRUCTURETYPE": 22,
+  "APPLICATIONDATE": "June, 23 2026 00:00:00",
+  "ISSUEDATE": "July, 01 2026 00:00:00",
+  "DAYSTOISSUE": 8,
+  "ESTPROJECTCOST": 7000.0000,
+  "APPLICATIONDESCRIPTION": "Install 80 LF of 6' privacy fence"
+}
+{
+  "ADDRESS": "3622 HEBERT ST",
+  "PROJECTTYPE": "Alteration",
+  "STRUCTURETYPE": 34,
+  "APPLICATIONDATE": "June, 22 2026 00:00:00",
+  "ISSUEDATE": "July, 01 2026 00:00:00",
+  "DAYSTOISSUE": 9,
+  "ESTPROJECTCOST": 250000.0000,
+  "APPLICATIONDESCRIPTION": "Convert 4 family to 3 family. Interior /Exterior Alterations Per Plans - (Fire Damage) - CFD- (9/11/25) Convert 4 Fam to 3 Fam"
+}
+{
+  "ADDRESS": "3424-6 CHEROKEE ST",
+  "PROJECTTYPE": "Alteration",
+  "STRUCTURETYPE": 34,
+  "APPLICATIONDATE": "June, 24 2026 00:00:00",
+  "ISSUEDATE": "July, 01 2026 00:00:00",
+  "DAYSTOISSUE": 7,
+  "ESTPROJECTCOST": 9000.0000,
+  "APPLICATIONDESCRIPTION": "TEAR DOWN & RELAY BULGED EXTERIOR FACE BRICK AT NORTH (FRONT) ELEVATION  SECOND LEVEL."
+}
+{
+  "ADDRESS": "216 S KINGSHIGHWAY BLVD",
+  "PROJECTTYPE": "Alteration",
+  "STRUCTURETYPE": 34,
+  "APPLICATIONDATE": "April, 02 2026 00:00:00",
+  "ISSUEDATE": "July, 01 2026 00:00:00",
+  "DAYSTOISSUE": 90,
+  "ESTPROJECTCOST": 323000.0000,
+  "APPLICATIONDESCRIPTION": "Interior renovation of Neurology Suite."
+}
+{
+  "ADDRESS": "2120 SIDNEY ST",
+  "PROJECTTYPE": "Alteration",
+  "STRUCTURETYPE": 34,
+  "APPLICATIONDATE": "June, 01 2026 00:00:00",
+  "ISSUEDATE": "July, 01 2026 00:00:00",
+  "DAYSTOISSUE": 30,
+  "ESTPROJECTCOST": 1144.0000,
+  "APPLICATIONDESCRIPTION": "Remove and replace burnt joist in basement, and a small section of subfloor due to a fire that occurred."
+}
+{
+  "ADDRESS": "2101 S GRAND BLVD",
+  "PROJECTTYPE": "Addition",
+  "STRUCTURETYPE": 28,
+  "APPLICATIONDATE": "May, 08 2026 00:00:00",
+  "ISSUEDATE": "July, 01 2026 00:00:00",
+  "DAYSTOISSUE": 54,
+  "ESTPROJECTCOST": 5998.5700,
+  "APPLICATIONDESCRIPTION": "Exterior Lighted Raceway Mounted Channel Letters"
+}
+{
+  "ADDRESS": "1916 ANNIE MALONE DR",
+  "PROJECTTYPE": "New Const.",
+  "STRUCTURETYPE": 34,
+  "APPLICATIONDATE": "June, 19 2026 00:00:00",
+  "ISSUEDATE": "July, 01 2026 00:00:00",
+  "DAYSTOISSUE": 12,
+  "ESTPROJECTCOST": 39000.0000,
+  "APPLICATIONDESCRIPTION": "\"FOUNDATION ONLY\"  2 Story single family home 3 bed, 2.5 bath, 1,750sq ft."
+}
+{
+  "ADDRESS": "1800 ANNIE MALONE DR",
+  "PROJECTTYPE": "Alteration",
+  "STRUCTURETYPE": 34,
+  "APPLICATIONDATE": "July, 01 2026 00:00:00",
+  "ISSUEDATE": "July, 01 2026 00:00:00",
+  "DAYSTOISSUE": 0,
+  "ESTPROJECTCOST": 15000.0000,
+  "APPLICATIONDESCRIPTION": "Int/ Alt Per Plans - Bathroom"
+}
+{
+  "ADDRESS": "1405-27 S 9TH ST",
+  "PROJECTTYPE": "Addition",
+  "STRUCTURETYPE": 28,
+  "APPLICATIONDATE": "April, 01 2026 00:00:00",
+  "ISSUEDATE": "July, 01 2026 00:00:00",
+  "DAYSTOISSUE": 91,
+  "ESTPROJECTCOST": 6000.0000,
+  "APPLICATIONDESCRIPTION": "INSTALL 1 WALL SIGN (ILLUMINATION)"
+}
+{
+  "ADDRESS": "1119-21 KENTUCKY AV",
+  "PROJECTTYPE": "Addition",
+  "STRUCTURETYPE": 22,
+  "APPLICATIONDATE": "June, 22 2026 00:00:00",
+  "ISSUEDATE": "July, 01 2026 00:00:00",
+  "DAYSTOISSUE": 9,
+  "ESTPROJECTCOST": 5000.0000,
+  "APPLICATIONDESCRIPTION": "Construction of a 6-foot-tall wooden privacy fence enclosing the rear yard and parking pad area of the property. The fence consists of pressure-treated wood posts, rails, and dog-ear pickets, with posts set in concrete footings. The design includes a gate for access from the parking pad/alley area and complies with the approved site plan and fence elevations."
 }
