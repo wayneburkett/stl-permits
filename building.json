@@ -482,21 +482,21 @@
   "ADDRESS": "100 N BROADWAY",
   "PROJECTTYPE": "Alteration",
   "STRUCTURETYPE": 34,
-  "APPLICATIONDATE": "May, 21 2026 00:00:00",
-  "ISSUEDATE": "June, 29 2026 00:00:00",
-  "DAYSTOISSUE": 39,
-  "ESTPROJECTCOST": 240000.0000,
-  "APPLICATIONDESCRIPTION": "Renovation of planned white box cafe space for Toastique franchise"
-}
-{
-  "ADDRESS": "100 N BROADWAY",
-  "PROJECTTYPE": "Alteration",
-  "STRUCTURETYPE": 34,
   "APPLICATIONDATE": "May, 01 2026 00:00:00",
   "ISSUEDATE": "June, 29 2026 00:00:00",
   "DAYSTOISSUE": 59,
   "ESTPROJECTCOST": 1580000.0000,
   "APPLICATIONDESCRIPTION": "Tenant improvement for Larson Financial headquarters on floor 21. Executive Amenity corporate event space floors 22-23"
+}
+{
+  "ADDRESS": "100 N BROADWAY",
+  "PROJECTTYPE": "Alteration",
+  "STRUCTURETYPE": 34,
+  "APPLICATIONDATE": "May, 21 2026 00:00:00",
+  "ISSUEDATE": "June, 29 2026 00:00:00",
+  "DAYSTOISSUE": 39,
+  "ESTPROJECTCOST": 240000.0000,
+  "APPLICATIONDESCRIPTION": "Renovation of planned white box cafe space for Toastique franchise"
 }
 {
   "ADDRESS": "10 PORTLAND PL",
@@ -2929,184 +2929,144 @@
   "APPLICATIONDESCRIPTION": "INTERIOR ALTERATIONS(KITCHEN & BATH)"
 }
 {
-  "ADDRESS": "919 BATES ST",
+  "ADDRESS": "2823 NEBRASKA AV",
   "PROJECTTYPE": "Alteration",
   "STRUCTURETYPE": 34,
-  "APPLICATIONDATE": "May, 26 2026 00:00:00",
-  "ISSUEDATE": "June, 04 2026 00:00:00",
-  "DAYSTOISSUE": 9,
-  "ESTPROJECTCOST": 40000.0000,
-  "APPLICATIONDESCRIPTION": "Update kitchen , Bathrooms and new floors"
+  "APPLICATIONDATE": "June, 23 2026 00:00:00",
+  "ISSUEDATE": "July, 03 2026 00:00:00",
+  "DAYSTOISSUE": 10,
+  "ESTPROJECTCOST": 100000.0000,
+  "APPLICATIONDESCRIPTION": "Interior remodel of an existing residential property, including kitchen and bathroom renovations, closet improvements, new interior finishes, and code-required life-safety upgrades (smoke and carbon monoxide detectors)."
 }
 {
-  "ADDRESS": "8500 CHURCH RD",
-  "PROJECTTYPE": "Alteration",
-  "STRUCTURETYPE": 34,
-  "APPLICATIONDATE": "June, 02 2026 00:00:00",
-  "ISSUEDATE": "June, 04 2026 00:00:00",
-  "DAYSTOISSUE": 2,
-  "ESTPROJECTCOST": 10000.0000,
-  "APPLICATIONDESCRIPTION": "Execute structural floor framing reinforcement and foundation masonry stabilization as detailed in the project blueprint. Major tasks include removing and replacing a failing segment of the main wood beam, setting 7 adjustable heavy-duty steel jack posts, sistering 16 floor joists, and applying polyurethane crack sealant and tuckpointing along the perimeter wall."
-}
-{
-  "ADDRESS": "7350 MORGAN FORD RD",
-  "PROJECTTYPE": "Addition",
-  "STRUCTURETYPE": 22,
-  "APPLICATIONDATE": "June, 03 2026 00:00:00",
-  "ISSUEDATE": "June, 04 2026 00:00:00",
-  "DAYSTOISSUE": 1,
-  "ESTPROJECTCOST": 10000.0000,
-  "APPLICATIONDESCRIPTION": "Remove old fence and install 176' of 6' tall white vinyl privacy fence in backyard and 8' of 4' tall white vinyl privacy fence in side yard."
-}
-{
-  "ADDRESS": "6025 ELIZABETH AV",
-  "PROJECTTYPE": "Alteration",
-  "STRUCTURETYPE": 34,
-  "APPLICATIONDATE": "June, 04 2026 00:00:00",
-  "ISSUEDATE": "June, 04 2026 00:00:00",
-  "DAYSTOISSUE": 0,
-  "ESTPROJECTCOST": 15000.0000,
-  "APPLICATIONDESCRIPTION": "FOUNDATION REPAIR"
-}
-{
-  "ADDRESS": "5829 ENRIGHT AV",
-  "PROJECTTYPE": "Alteration",
-  "STRUCTURETYPE": 34,
-  "APPLICATIONDATE": "June, 04 2026 00:00:00",
-  "ISSUEDATE": "June, 04 2026 00:00:00",
-  "DAYSTOISSUE": 0,
-  "ESTPROJECTCOST": 101000.0000,
-  "APPLICATIONDESCRIPTION": "REPAIR EXISTING DRYWALL &REPLACE FIXTURES (NO STRUCTURAL WORK, NO FRAMING)"
-}
-{
-  "ADDRESS": "5525 MILENTZ AV",
-  "PROJECTTYPE": "Alteration",
-  "STRUCTURETYPE": 34,
-  "APPLICATIONDATE": "June, 04 2026 00:00:00",
-  "ISSUEDATE": "June, 04 2026 00:00:00",
-  "DAYSTOISSUE": 0,
-  "ESTPROJECTCOST": 10000.0000,
-  "APPLICATIONDESCRIPTION": "FOUNDATION REPAIR"
-}
-{
-  "ADDRESS": "5427 MARDEL AV",
+  "ADDRESS": "6982 THOLOZAN AV",
   "PROJECTTYPE": "Addition",
   "STRUCTURETYPE": 36,
-  "APPLICATIONDATE": "June, 03 2026 00:00:00",
-  "ISSUEDATE": "June, 04 2026 00:00:00",
-  "DAYSTOISSUE": 1,
-  "ESTPROJECTCOST": 19000.0000,
-  "APPLICATIONDESCRIPTION": "Reframe 168 SF of deck, build 3 stairs,"
+  "APPLICATIONDATE": "June, 18 2026 00:00:00",
+  "ISSUEDATE": "July, 02 2026 00:00:00",
+  "DAYSTOISSUE": 14,
+  "ESTPROJECTCOST": 30000.0000,
+  "APPLICATIONDESCRIPTION": "Proposing a 17x 22 patio cover on a existing concrete pad 16x20 with new pier footings"
 }
 {
-  "ADDRESS": "5252 DEVONSHIRE AV",
-  "PROJECTTYPE": "Addition",
-  "STRUCTURETYPE": 22,
-  "APPLICATIONDATE": "June, 03 2026 00:00:00",
-  "ISSUEDATE": "June, 04 2026 00:00:00",
-  "DAYSTOISSUE": 1,
-  "ESTPROJECTCOST": 9000.0000,
-  "APPLICATIONDESCRIPTION": "Remove 79 linear ft of fence and <:install 195 linear ft of 6 ft tall, treated privacy fence with premium pickets with 2 4ft wide gates"
-}
-{
-  "ADDRESS": "5166 WATERMAN BLVD",
+  "ADDRESS": "6632-4 MCCUNE AV",
   "PROJECTTYPE": "Alteration",
   "STRUCTURETYPE": 34,
-  "APPLICATIONDATE": "June, 04 2026 00:00:00",
-  "ISSUEDATE": "June, 04 2026 00:00:00",
+  "APPLICATIONDATE": "June, 24 2026 00:00:00",
+  "ISSUEDATE": "July, 02 2026 00:00:00",
+  "DAYSTOISSUE": 8,
+  "ESTPROJECTCOST": 17000.0000,
+  "APPLICATIONDESCRIPTION": "Base Bid:<:60Mil Versico Adhered TPO Proposal:<:- Job site safety and setup.<:- Remove existing roofing system down to the deck and along the parapet walls;<:walls may need to be removed to allow for tuckpointing prior to roof<:replacement.<:- Inspect decking and clean roofing surface.*<:- Install new 1/2\" OSB board to entire roof surface.<:- Install Versico 60mil TPO membrane over entire field, adhered to the OSB deck;<:Color: White<:- Install Versico 60mil TPO membrane on parapet walls, adhered up and over<:walls with bonding adhesive; color to match field membrane.<:- Install edge metal at front elevation at architectural cornice; color: white<:- All TPO seams and penetration accessories to be heat welded with hot air and<:tested.<:- Properly flash all walls, curbs, pipe stacks and other protrusions in strict<:accordance with manufacture's specifications.<:- Staging area to be determined by owner<:- All dumpsters and equipment provided by Farha Roofing KC, LLC<:- Clean and haul off all roofing related debris on a daily basis."
+}
+{
+  "ADDRESS": "5754 OLEATHA AV",
+  "PROJECTTYPE": "Alteration",
+  "STRUCTURETYPE": 34,
+  "APPLICATIONDATE": "June, 23 2026 00:00:00",
+  "ISSUEDATE": "July, 02 2026 00:00:00",
+  "DAYSTOISSUE": 9,
+  "ESTPROJECTCOST": 200000.0000,
+  "APPLICATIONDESCRIPTION": "Kitchen and main floor remodel."
+}
+{
+  "ADDRESS": "5207 WILSON AV",
+  "PROJECTTYPE": "Alteration",
+  "STRUCTURETYPE": 34,
+  "APPLICATIONDATE": "July, 02 2026 00:00:00",
+  "ISSUEDATE": "July, 02 2026 00:00:00",
   "DAYSTOISSUE": 0,
-  "ESTPROJECTCOST": 24000.0000,
-  "APPLICATIONDESCRIPTION": "REMOVE WALL & INSTALL BATHROOM"
+  "ESTPROJECTCOST": 12000.0000,
+  "APPLICATIONDESCRIPTION": "EXT. REROOFING"
 }
 {
-  "ADDRESS": "5142 WATERMAN BLVD",
+  "ADDRESS": "5000-20 MANCHESTER AV",
   "PROJECTTYPE": "Alteration",
   "STRUCTURETYPE": 34,
-  "APPLICATIONDATE": "June, 04 2026 00:00:00",
-  "ISSUEDATE": "June, 04 2026 00:00:00",
+  "APPLICATIONDATE": "March, 20 2026 00:00:00",
+  "ISSUEDATE": "July, 02 2026 00:00:00",
+  "DAYSTOISSUE": 104,
+  "ESTPROJECTCOST": 90000.0000,
+  "APPLICATIONDESCRIPTION": "Equipment Replacement"
+}
+{
+  "ADDRESS": "4951 QUINCY ST",
+  "PROJECTTYPE": "Addition",
+  "STRUCTURETYPE": 36,
+  "APPLICATIONDATE": "June, 29 2026 00:00:00",
+  "ISSUEDATE": "July, 02 2026 00:00:00",
+  "DAYSTOISSUE": 3,
+  "ESTPROJECTCOST": 14000.0000,
+  "APPLICATIONDESCRIPTION": "Remove and replace deck flooring on 2nd story walk-out patio with Dec-Tec system. Remove and replace railing with Outlook Aluminum Railing"
+}
+{
+  "ADDRESS": "4629 MARGARETTA AV",
+  "PROJECTTYPE": "Addition",
+  "STRUCTURETYPE": 25,
+  "APPLICATIONDATE": "July, 02 2026 00:00:00",
+  "ISSUEDATE": "July, 02 2026 00:00:00",
   "DAYSTOISSUE": 0,
   "ESTPROJECTCOST": 6000.0000,
-  "APPLICATIONDESCRIPTION": "Roof Structure Repair Per Plans -Tornado Damage"
+  "APPLICATIONDESCRIPTION": "BRICK WALL REPAIR - STORM DAMAGE"
 }
 {
-  "ADDRESS": "5101-3 S BROADWAY",
-  "PROJECTTYPE": "Alteration",
-  "STRUCTURETYPE": 34,
-  "APPLICATIONDATE": "June, 04 2026 00:00:00",
-  "ISSUEDATE": "June, 04 2026 00:00:00",
-  "DAYSTOISSUE": 0,
-  "ESTPROJECTCOST": 2000.0000,
-  "APPLICATIONDESCRIPTION": "REPLACE FLOOR JOISTS"
-}
-{
-  "ADDRESS": "4545 HOLLY AV",
-  "PROJECTTYPE": "Alteration",
-  "STRUCTURETYPE": 34,
-  "APPLICATIONDATE": "June, 04 2026 00:00:00",
-  "ISSUEDATE": "June, 04 2026 00:00:00",
-  "DAYSTOISSUE": 0,
-  "ESTPROJECTCOST": 18000.0000,
-  "APPLICATIONDESCRIPTION": "Install Bathroom  and framing from Fire Damage Per Plans"
-}
-{
-  "ADDRESS": "4400-30 CLAYTON AV",
-  "PROJECTTYPE": "Addition",
-  "STRUCTURETYPE": 34,
-  "APPLICATIONDATE": "June, 03 2026 00:00:00",
-  "ISSUEDATE": "June, 04 2026 00:00:00",
-  "DAYSTOISSUE": 1,
-  "ESTPROJECTCOST": 0.0000,
-  "APPLICATIONDESCRIPTION": "2 - 20x40 Tents going up in the parking lot"
-}
-{
-  "ADDRESS": "4330 SWAN AV",
-  "PROJECTTYPE": "New Const.",
-  "STRUCTURETYPE": 34,
-  "APPLICATIONDATE": "May, 05 2026 00:00:00",
-  "ISSUEDATE": "June, 04 2026 00:00:00",
-  "DAYSTOISSUE": 30,
-  "ESTPROJECTCOST": 30000.0000,
-  "APPLICATIONDESCRIPTION": "Foundation Only"
-}
-{
-  "ADDRESS": "3439 WISCONSIN AV",
+  "ADDRESS": "4471 DEWEY AV",
   "PROJECTTYPE": "Addition",
   "STRUCTURETYPE": 22,
-  "APPLICATIONDATE": "June, 04 2026 00:00:00",
-  "ISSUEDATE": "June, 04 2026 00:00:00",
+  "APPLICATIONDATE": "July, 02 2026 00:00:00",
+  "ISSUEDATE": "July, 02 2026 00:00:00",
   "DAYSTOISSUE": 0,
-  "ESTPROJECTCOST": 1000.0000,
-  "APPLICATIONDESCRIPTION": "REPLACE FENCE"
+  "ESTPROJECTCOST": 2000.0000,
+  "APPLICATIONDESCRIPTION": "Install 6'H Wood Privacy Fence Per Plans"
 }
 {
-  "ADDRESS": "3337-51 CLARA AV",
+  "ADDRESS": "4230 BINGHAM AV",
   "PROJECTTYPE": "Alteration",
   "STRUCTURETYPE": 34,
-  "APPLICATIONDATE": "June, 03 2026 00:00:00",
-  "ISSUEDATE": "June, 04 2026 00:00:00",
-  "DAYSTOISSUE": 1,
-  "ESTPROJECTCOST": 22000.0000,
-  "APPLICATIONDESCRIPTION": "Foundation stabilization - installing 7 resistance piers to exterior of foundation"
-}
-{
-  "ADDRESS": "2920 TEXAS AV",
-  "PROJECTTYPE": "Addition",
-  "STRUCTURETYPE": 34,
-  "APPLICATIONDATE": "May, 12 2026 00:00:00",
-  "ISSUEDATE": "June, 04 2026 00:00:00",
-  "DAYSTOISSUE": 23,
-  "ESTPROJECTCOST": 5000.0000,
-  "APPLICATIONDESCRIPTION": "9.020 KW DC ROOF MOUNT<:SOLAR PV SYSTEM WITH<:22 Q CELLS Q.PEAK DUO BLK<:ML-G10.C1+/AC 410W<:PV MODULES WITH<:22 Q CELLS Q.MI.349B-G1<:MICROINVERTERS (240V)"
-}
-{
-  "ADDRESS": "2913 GASCONADE ST",
-  "PROJECTTYPE": "Addition",
-  "STRUCTURETYPE": 36,
-  "APPLICATIONDATE": "June, 04 2026 00:00:00",
-  "ISSUEDATE": "June, 04 2026 00:00:00",
+  "APPLICATIONDATE": "July, 02 2026 00:00:00",
+  "ISSUEDATE": "July, 02 2026 00:00:00",
   "DAYSTOISSUE": 0,
-  "ESTPROJECTCOST": 4000.0000,
-  "APPLICATIONDESCRIPTION": "INSTALL PORCH (REAR) ALREADY BUILT"
+  "ESTPROJECTCOST": 96000.0000,
+  "APPLICATIONDESCRIPTION": "INT ALTERATIONS / FIRE DAMAGE"
+}
+{
+  "ADDRESS": "3501 LEMP AV",
+  "PROJECTTYPE": "Alteration",
+  "STRUCTURETYPE": 34,
+  "APPLICATIONDATE": "June, 15 2026 00:00:00",
+  "ISSUEDATE": "July, 02 2026 00:00:00",
+  "DAYSTOISSUE": 17,
+  "ESTPROJECTCOST": 100000.0000,
+  "APPLICATIONDESCRIPTION": "Convert existing single-family residence into a two-family (duplex) dwelling unit, including interior renovation, selective exterior repairs, and creation of a new second-floor kitchen and third-floor bathroom. The project will maintain the existing building footprint with no major additions. All work will comply with applicable building, zoning, fire, and accessibility codes.<:<:Demo Notes:<:1. Remove existing partition wall. size new opening to receive existing door between foyer and living room<:2. Open existing fireplace and remove flooring to accommodate new hearth<:3. Remove and refurbish existing door and trim.<:4. Remove existing plumbing fixture<:5. Remove and refurbish existing trim when applicable to accommodate double layer of type ‘x’ drywall<:6. Remove all existing balusters at deck and rails, as necessary<:7. Remove existing drywall/plaster<:8. Remove existing partition wall<:9. Remove existing door<:<:Floor Plan Notes:<:1. new tile shower w/ 4” curb and glass enclosure<:2. new flooring per client selection<:3. new washstand w/ mirror<:4. new toilet<:5. shelving above<:6. toilet roll holder<:7. new threshold<:8. new 2x4 partition wall, or to match adjacent thickness<:9. (2) layers of type ‘x’ gyp. board at ceiling<:10. (2) layers of type ‘x’ gyp. at interior walls<:11. new sink<:12. new appliance per client selection<:13. new fire-rated door at entry to unit<:14. cased opening. trim per schedule<:15. new balusters and handrail as necessary<:16. reverse door swing<:17. new/repurposed door per schedule<:18. upper and lower cabinetry per client selection<:19. stacked washer/dryer unit w/ hookups<:20. new hearth<:21. 36” vanity w/ mirror<:22. new 2x8 partition wall<:23. fix existing door and remove hardware to make inoperable<:24. repair and refurbish existing windows and exterior doors as necessary"
+}
+{
+  "ADDRESS": "2930 MCNAIR AV",
+  "PROJECTTYPE": "Addition",
+  "STRUCTURETYPE": 22,
+  "APPLICATIONDATE": "July, 02 2026 00:00:00",
+  "ISSUEDATE": "July, 02 2026 00:00:00",
+  "DAYSTOISSUE": 0,
+  "ESTPROJECTCOST": 1000.0000,
+  "APPLICATIONDESCRIPTION": "INSTALL NEW 6' HT WOOD PRIVACY FENCE (REAR)"
+}
+{
+  "ADDRESS": "2741 THOMAS ST",
+  "PROJECTTYPE": "Addition",
+  "STRUCTURETYPE": 26,
+  "APPLICATIONDATE": "April, 06 2026 00:00:00",
+  "ISSUEDATE": "July, 02 2026 00:00:00",
+  "DAYSTOISSUE": 87,
+  "ESTPROJECTCOST": 13000.0000,
+  "APPLICATIONDESCRIPTION": "Install a Fire Suppression System per plans - (Public Safety Awareness Program Building)"
+}
+{
+  "ADDRESS": "216 S KINGSHIGHWAY BLVD",
+  "PROJECTTYPE": "Alteration",
+  "STRUCTURETYPE": 34,
+  "APPLICATIONDATE": "April, 24 2026 00:00:00",
+  "ISSUEDATE": "July, 02 2026 00:00:00",
+  "DAYSTOISSUE": 69,
+  "ESTPROJECTCOST": 200000.0000,
+  "APPLICATIONDESCRIPTION": "Equipment replacement of ERCP 2 procedure room."
 }
 {
   "ADDRESS": "9 ABERDEEN PL",
@@ -3177,6 +3137,16 @@
   "DAYSTOISSUE": 8,
   "ESTPROJECTCOST": 7000.0000,
   "APPLICATIONDESCRIPTION": "Install 80 LF of 6' privacy fence"
+}
+{
+  "ADDRESS": "3752 LOUGHBOROUGH AV",
+  "PROJECTTYPE": "Alteration",
+  "STRUCTURETYPE": 34,
+  "APPLICATIONDATE": "June, 06 2026 00:00:00",
+  "ISSUEDATE": "July, 01 2026 00:00:00",
+  "DAYSTOISSUE": 25,
+  "ESTPROJECTCOST": 6000.0000,
+  "APPLICATIONDESCRIPTION": "Removal of current wrought iron railings on the front and side porches, and replacing them with aluminum railings and bringing the front porch railing set-up up to code."
 }
 {
   "ADDRESS": "3622 HEBERT ST",
