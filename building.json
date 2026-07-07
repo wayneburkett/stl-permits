@@ -2709,26 +2709,6 @@
   "APPLICATIONDESCRIPTION": "INSTALL 6' HT WOOD PRIVACY FENCE (REAR)"
 }
 {
-  "ADDRESS": "6216 COLUMBIA AV",
-  "PROJECTTYPE": "Addition",
-  "STRUCTURETYPE": 36,
-  "APPLICATIONDATE": "June, 01 2026 00:00:00",
-  "ISSUEDATE": "June, 06 2026 00:00:00",
-  "DAYSTOISSUE": 5,
-  "ESTPROJECTCOST": 12000.0000,
-  "APPLICATIONDESCRIPTION": "Remove 10 x 10 deck and put up a new deck 10 x 10 and the exact same place"
-}
-{
-  "ADDRESS": "4624 PERSHING PL",
-  "PROJECTTYPE": "Alteration",
-  "STRUCTURETYPE": 34,
-  "APPLICATIONDATE": "April, 27 2026 00:00:00",
-  "ISSUEDATE": "June, 06 2026 00:00:00",
-  "DAYSTOISSUE": 40,
-  "ESTPROJECTCOST": 35000.0000,
-  "APPLICATIONDESCRIPTION": "Primary bath renovation, relocating toilet and shower. Building walk-in closet."
-}
-{
   "ADDRESS": "2823 NEBRASKA AV",
   "PROJECTTYPE": "Alteration",
   "STRUCTURETYPE": 34,
