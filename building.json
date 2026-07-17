@@ -1649,184 +1649,224 @@
   "APPLICATIONDESCRIPTION": "Erect 5 tents for Pride StL event from 6/26/26 thru 6/30/26"
 }
 {
-  "ADDRESS": "6818 SALZBURGER AV",
+  "ADDRESS": "8200-20 S BROADWAY",
+  "PROJECTTYPE": "Addition",
+  "STRUCTURETYPE": 20,
+  "APPLICATIONDATE": "January, 09 2026 00:00:00",
+  "ISSUEDATE": "July, 15 2026 00:00:00",
+  "DAYSTOISSUE": 187,
+  "ESTPROJECTCOST": 150000.0000,
+  "APPLICATIONDESCRIPTION": "CONSTRUCT CONVENIENCE STORE ADDITION"
+}
+{
+  "ADDRESS": "7305 CORONADO AV",
+  "PROJECTTYPE": "Alteration",
+  "STRUCTURETYPE": 34,
+  "APPLICATIONDATE": "July, 06 2026 00:00:00",
+  "ISSUEDATE": "July, 15 2026 00:00:00",
+  "DAYSTOISSUE": 9,
+  "ESTPROJECTCOST": 10000.0000,
+  "APPLICATIONDESCRIPTION": "Rework basement bathroom to make a full bathroom instead of half bathroom. <:Open one window and install new door"
+}
+{
+  "ADDRESS": "6246 DELOR ST",
+  "PROJECTTYPE": "Addition",
+  "STRUCTURETYPE": 22,
+  "APPLICATIONDATE": "July, 15 2026 00:00:00",
+  "ISSUEDATE": "July, 15 2026 00:00:00",
+  "DAYSTOISSUE": 0,
+  "ESTPROJECTCOST": 9000.0000,
+  "APPLICATIONDESCRIPTION": "INSTALL 6' HT VINYL FENCE (SIDE-REAR)"
+}
+{
+  "ADDRESS": "6057 SHULTE AV",
+  "PROJECTTYPE": "Alteration",
+  "STRUCTURETYPE": 34,
+  "APPLICATIONDATE": "July, 15 2026 00:00:00",
+  "ISSUEDATE": "July, 15 2026 00:00:00",
+  "DAYSTOISSUE": 0,
+  "ESTPROJECTCOST": 14000.0000,
+  "APPLICATIONDESCRIPTION": "Construct Rear Addition Per Plans"
+}
+{
+  "ADDRESS": "4905-39 CHILDRENS PL",
+  "PROJECTTYPE": "Alteration",
+  "STRUCTURETYPE": 34,
+  "APPLICATIONDATE": "June, 23 2026 00:00:00",
+  "ISSUEDATE": "July, 15 2026 00:00:00",
+  "DAYSTOISSUE": 22,
+  "ESTPROJECTCOST": 153114.0000,
+  "APPLICATIONDESCRIPTION": "The project will renovate approximately 2,900 square feet of existing research lab and office <:space on the eighth floor of the Clinical Sciences Research Building (CSRB) for the Department of <:Cardiology."
+}
+{
+  "ADDRESS": "4905-39 CHILDRENS PL",
+  "PROJECTTYPE": "Alteration",
+  "STRUCTURETYPE": 34,
+  "APPLICATIONDATE": "June, 23 2026 00:00:00",
+  "ISSUEDATE": "July, 15 2026 00:00:00",
+  "DAYSTOISSUE": 22,
+  "ESTPROJECTCOST": 161000.0000,
+  "APPLICATIONDESCRIPTION": "Interior Renovation of Tissure Culture Lab and Physician offices."
+}
+{
+  "ADDRESS": "4633 MINNESOTA AV",
+  "PROJECTTYPE": "Addition",
+  "STRUCTURETYPE": 25,
+  "APPLICATIONDATE": "July, 15 2026 00:00:00",
+  "ISSUEDATE": "July, 15 2026 00:00:00",
+  "DAYSTOISSUE": 0,
+  "ESTPROJECTCOST": 4000.0000,
+  "APPLICATIONDESCRIPTION": "CONSTRUCT RETAINING WALL"
+}
+{
+  "ADDRESS": "4525 LINDELL BLVD",
   "PROJECTTYPE": "Alteration",
   "STRUCTURETYPE": 34,
   "APPLICATIONDATE": "June, 02 2026 00:00:00",
-  "ISSUEDATE": "June, 16 2026 00:00:00",
-  "DAYSTOISSUE": 14,
-  "ESTPROJECTCOST": 30000.0000,
-  "APPLICATIONDESCRIPTION": "Interior and exterior renovations to the existing residence"
+  "ISSUEDATE": "July, 15 2026 00:00:00",
+  "DAYSTOISSUE": 43,
+  "ESTPROJECTCOST": 3850000.0000,
+  "APPLICATIONDESCRIPTION": "Int Ext Alt Per Plans"
 }
 {
-  "ADDRESS": "6572 HOFFMAN AV",
+  "ADDRESS": "4515 LINDELL BLVD",
   "PROJECTTYPE": "Alteration",
   "STRUCTURETYPE": 34,
-  "APPLICATIONDATE": "June, 07 2026 00:00:00",
-  "ISSUEDATE": "June, 16 2026 00:00:00",
-  "DAYSTOISSUE": 9,
+  "APPLICATIONDATE": "June, 02 2026 00:00:00",
+  "ISSUEDATE": "July, 15 2026 00:00:00",
+  "DAYSTOISSUE": 43,
+  "ESTPROJECTCOST": 3850000.0000,
+  "APPLICATIONDESCRIPTION": "Int Ext Alt Per Plans"
+}
+{
+  "ADDRESS": "4436 WALLACE ST",
+  "PROJECTTYPE": "Alteration",
+  "STRUCTURETYPE": 34,
+  "APPLICATIONDATE": "July, 15 2026 00:00:00",
+  "ISSUEDATE": "July, 15 2026 00:00:00",
+  "DAYSTOISSUE": 0,
+  "ESTPROJECTCOST": 3000.0000,
+  "APPLICATIONDESCRIPTION": "REPAIR GARAGE ROOF"
+}
+{
+  "ADDRESS": "4139 RUSSELL BLVD",
+  "PROJECTTYPE": "Alteration",
+  "STRUCTURETYPE": 34,
+  "APPLICATIONDATE": "June, 04 2026 00:00:00",
+  "ISSUEDATE": "July, 15 2026 00:00:00",
+  "DAYSTOISSUE": 41,
   "ESTPROJECTCOST": 50000.0000,
-  "APPLICATIONDESCRIPTION": "We currently have cabinets on the east side which will be replaced with new, but none on the west side of the kitchen. We will be adding upper and lower cabinets on the west side of the room.  The sink will be moved 2 feet from its current location into the corner and the dishwasher will move to the other side of the sink. The range will stay in its current location on the west side of the kitchen and the refrigerator will also stay in its current location.  The microwave will be built-in above the range. We are removing 4x4 gold tile and a faux brick wall.  We will have new flooring installed as well as new countertop and back splash. My electrician and plumber will be pulling permits for their work."
+  "APPLICATIONDESCRIPTION": "Removing a load Bearing wall and renovating the kitchen. New layout for cabinets."
 }
 {
-  "ADDRESS": "5909 PAGE BLVD",
-  "PROJECTTYPE": "Alteration",
-  "STRUCTURETYPE": 34,
-  "APPLICATIONDATE": "June, 09 2026 00:00:00",
-  "ISSUEDATE": "June, 16 2026 00:00:00",
-  "DAYSTOISSUE": 7,
-  "ESTPROJECTCOST": 20000.0000,
-  "APPLICATIONDESCRIPTION": "The existing building has two units on each floor.  There are two floors and an unfinished basement.  Project involves the interior renovation of one of the units.  No exterior work is part of the permit."
-}
-{
-  "ADDRESS": "5802 COLUMBIA AV",
-  "PROJECTTYPE": "Alteration",
-  "STRUCTURETYPE": 34,
-  "APPLICATIONDATE": "June, 16 2026 00:00:00",
-  "ISSUEDATE": "June, 16 2026 00:00:00",
-  "DAYSTOISSUE": 0,
-  "ESTPROJECTCOST": 5000.0000,
-  "APPLICATIONDESCRIPTION": "CONSTRUCT PERGOLA"
-}
-{
-  "ADDRESS": "5614-6 ETZEL AV",
-  "PROJECTTYPE": "Alteration",
-  "STRUCTURETYPE": 34,
-  "APPLICATIONDATE": "June, 16 2026 00:00:00",
-  "ISSUEDATE": "June, 16 2026 00:00:00",
-  "DAYSTOISSUE": 0,
-  "ESTPROJECTCOST": 36000.0000,
-  "APPLICATIONDESCRIPTION": "FOUNDATION REPAIR"
-}
-{
-  "ADDRESS": "5519 DEVONSHIRE AV",
-  "PROJECTTYPE": "Alteration",
-  "STRUCTURETYPE": 34,
-  "APPLICATIONDATE": "June, 10 2026 00:00:00",
-  "ISSUEDATE": "June, 16 2026 00:00:00",
-  "DAYSTOISSUE": 6,
-  "ESTPROJECTCOST": 17000.0000,
-  "APPLICATIONDESCRIPTION": "1 – All plumbing & electrical work to be performed by licensed <:contractors<:<:2 – Demo Shower & vanity cabinet<:<:3 – Remove drywall needed for plumbing & electrical work<:<:4 – Fire block & insulate as needed<:<:5 – Drywall with appropriate drywall, mudd & tape<:<:6 – Install new vanity cabinet per plan, W/new Onyx top<:<:7 – Install new 60”x30” Onyx shower base<:<:8 – Install ceramic tile in shower to soffit over ½” cement board<:<:9 – Install tempered shower doors<:<:10 – Bring smoke & carbon monoxide detectors up to code<:<:(All interconnected) <:<:(Tub Stays, No floor work)"
-}
-{
-  "ADDRESS": "4842 SACRAMENTO AV",
+  "ADDRESS": "4084-92 BINGHAM AV",
   "PROJECTTYPE": "Addition",
-  "STRUCTURETYPE": 36,
-  "APPLICATIONDATE": "June, 16 2026 00:00:00",
-  "ISSUEDATE": "June, 16 2026 00:00:00",
-  "DAYSTOISSUE": 0,
-  "ESTPROJECTCOST": 5000.0000,
-  "APPLICATIONDESCRIPTION": "REPAIR DECK"
-}
-{
-  "ADDRESS": "4624 PERSHING PL",
-  "PROJECTTYPE": "Alteration",
-  "STRUCTURETYPE": 34,
-  "APPLICATIONDATE": "May, 26 2026 00:00:00",
-  "ISSUEDATE": "June, 16 2026 00:00:00",
-  "DAYSTOISSUE": 21,
-  "ESTPROJECTCOST": 13000.0000,
-  "APPLICATIONDESCRIPTION": "REPLACE AWNING & 4 WINDOWS"
-}
-{
-  "ADDRESS": "4406 ARSENAL ST",
-  "PROJECTTYPE": "Addition",
-  "STRUCTURETYPE": 36,
-  "APPLICATIONDATE": "June, 16 2026 00:00:00",
-  "ISSUEDATE": "June, 16 2026 00:00:00",
-  "DAYSTOISSUE": 0,
-  "ESTPROJECTCOST": 30000.0000,
-  "APPLICATIONDESCRIPTION": "REPLACE DECK"
-}
-{
-  "ADDRESS": "4157 MCREE AV",
-  "PROJECTTYPE": "Alteration",
-  "STRUCTURETYPE": 34,
-  "APPLICATIONDATE": "May, 28 2026 00:00:00",
-  "ISSUEDATE": "June, 16 2026 00:00:00",
-  "DAYSTOISSUE": 19,
-  "ESTPROJECTCOST": 43000.0000,
-  "APPLICATIONDESCRIPTION": "outlets and switches as needed. all new fixtures throughout <:<:upstairs all new light and fixtures<:<:Drywall Replacement as needed<:<:Kitchen Renovation<:<:Bathroom Renovation<:<:Replace Flooring Throughout<:<:Interior Doors and Trim<:<:water lines <:<:drains and stacks<:<:Certify or replace water heaters"
-}
-{
-  "ADDRESS": "3970 DOVER PL",
-  "PROJECTTYPE": "Addition",
-  "STRUCTURETYPE": 22,
-  "APPLICATIONDATE": "June, 16 2026 00:00:00",
-  "ISSUEDATE": "June, 16 2026 00:00:00",
-  "DAYSTOISSUE": 0,
-  "ESTPROJECTCOST": 6000.0000,
-  "APPLICATIONDESCRIPTION": "REPLACE 6' HT WOOD FENCE (SIDE/REAR)"
-}
-{
-  "ADDRESS": "3848 S UTAH PL",
-  "PROJECTTYPE": "Alteration",
-  "STRUCTURETYPE": 34,
-  "APPLICATIONDATE": "June, 11 2026 00:00:00",
-  "ISSUEDATE": "June, 16 2026 00:00:00",
-  "DAYSTOISSUE": 5,
-  "ESTPROJECTCOST": 100000.0000,
-  "APPLICATIONDESCRIPTION": "Interior renovation of existing kitchen."
-}
-{
-  "ADDRESS": "3744 LOUISIANA AV",
-  "PROJECTTYPE": "Addition",
-  "STRUCTURETYPE": 22,
-  "APPLICATIONDATE": "June, 16 2026 00:00:00",
-  "ISSUEDATE": "June, 16 2026 00:00:00",
-  "DAYSTOISSUE": 0,
-  "ESTPROJECTCOST": 2000.0000,
-  "APPLICATIONDESCRIPTION": "INSTALL NEW 6' WOOD PRIVACY FENCE"
-}
-{
-  "ADDRESS": "2933 S KINGSHIGHWAY BLVD",
-  "PROJECTTYPE": "Alteration",
-  "STRUCTURETYPE": 34,
-  "APPLICATIONDATE": "June, 16 2026 00:00:00",
-  "ISSUEDATE": "June, 16 2026 00:00:00",
-  "DAYSTOISSUE": 0,
-  "ESTPROJECTCOST": 55000.0000,
-  "APPLICATIONDESCRIPTION": "ADDENDUM TO PERMIT BP-742-26/ DEMOLISH EXISTING CANOPY"
-}
-{
-  "ADDRESS": "2630 ACCOMAC ST",
-  "PROJECTTYPE": "Alteration",
-  "STRUCTURETYPE": 34,
-  "APPLICATIONDATE": "June, 03 2026 00:00:00",
-  "ISSUEDATE": "June, 16 2026 00:00:00",
-  "DAYSTOISSUE": 13,
-  "ESTPROJECTCOST": 100000.0000,
-  "APPLICATIONDESCRIPTION": "interior renovations and new detached garage"
-}
-{
-  "ADDRESS": "2353 S 11TH ST",
-  "PROJECTTYPE": "Addition",
-  "STRUCTURETYPE": 23,
-  "APPLICATIONDATE": "May, 22 2026 00:00:00",
-  "ISSUEDATE": "June, 16 2026 00:00:00",
-  "DAYSTOISSUE": 25,
-  "ESTPROJECTCOST": 0.0000,
-  "APPLICATIONDESCRIPTION": "Meant to be an addendum to Permit #855.  Fee for this scope of work was included in the original permit application."
-}
-{
-  "ADDRESS": "219 WOODBOURNE DR",
-  "PROJECTTYPE": "Alteration",
-  "STRUCTURETYPE": 34,
+  "STRUCTURETYPE": 26,
   "APPLICATIONDATE": "April, 28 2026 00:00:00",
-  "ISSUEDATE": "June, 16 2026 00:00:00",
-  "DAYSTOISSUE": 49,
-  "ESTPROJECTCOST": 315000.0000,
-  "APPLICATIONDESCRIPTION": "Screen porch, new mudroom & terrace"
+  "ISSUEDATE": "July, 15 2026 00:00:00",
+  "DAYSTOISSUE": 78,
+  "ESTPROJECTCOST": 84000.0000,
+  "APPLICATIONDESCRIPTION": "provide an extension of the existing wet pipe fire sprinkler system for the phase 2  of the stray rescue project"
 }
 {
-  "ADDRESS": "1515 N BROADWAY",
+  "ADDRESS": "4015 FLAD AV",
   "PROJECTTYPE": "Alteration",
   "STRUCTURETYPE": 34,
-  "APPLICATIONDATE": "April, 22 2026 00:00:00",
-  "ISSUEDATE": "June, 16 2026 00:00:00",
-  "DAYSTOISSUE": 55,
-  "ESTPROJECTCOST": 23000.0000,
-  "APPLICATIONDESCRIPTION": "The current ceiling in their 2nd floor office area is exposed. We plan to install a new 2x2 ACT Ceiling, demo existing surface mounted lighting, install new 2x4 flat panel LED lighting, and move all existing surface mounted devices down into the new ACT Ceiling."
+  "APPLICATIONDATE": "July, 15 2026 00:00:00",
+  "ISSUEDATE": "July, 15 2026 00:00:00",
+  "DAYSTOISSUE": 0,
+  "ESTPROJECTCOST": 4000.0000,
+  "APPLICATIONDESCRIPTION": "REPLACE FRONT STAIR & RAIL"
+}
+{
+  "ADDRESS": "3936 PENNSYLVANIA AV",
+  "PROJECTTYPE": "Alteration",
+  "STRUCTURETYPE": 34,
+  "APPLICATIONDATE": "March, 06 2026 00:00:00",
+  "ISSUEDATE": "July, 15 2026 00:00:00",
+  "DAYSTOISSUE": 131,
+  "ESTPROJECTCOST": 140000.0000,
+  "APPLICATIONDESCRIPTION": "INT/EXT ALTS (CONVERT 2 FAMILY TO SINGLE FAMILY)"
+}
+{
+  "ADDRESS": "3835 CLEVELAND AV",
+  "PROJECTTYPE": "Addition",
+  "STRUCTURETYPE": 24,
+  "APPLICATIONDATE": "May, 25 2026 00:00:00",
+  "ISSUEDATE": "July, 15 2026 00:00:00",
+  "DAYSTOISSUE": 51,
+  "ESTPROJECTCOST": 69000.0000,
+  "APPLICATIONDESCRIPTION": "Inground Pool"
+}
+{
+  "ADDRESS": "3640 RUSSELL BLVD",
+  "PROJECTTYPE": "Alteration",
+  "STRUCTURETYPE": 34,
+  "APPLICATIONDATE": "July, 06 2026 00:00:00",
+  "ISSUEDATE": "July, 15 2026 00:00:00",
+  "DAYSTOISSUE": 9,
+  "ESTPROJECTCOST": 39000.0000,
+  "APPLICATIONDESCRIPTION": "We will be rebuilding the chimney and tuck point, after that we will be replacing the shingled roof and the back of the home TPO roof as well."
+}
+{
+  "ADDRESS": "3512 HALLIDAY AV",
+  "PROJECTTYPE": "Alteration",
+  "STRUCTURETYPE": 34,
+  "APPLICATIONDATE": "July, 15 2026 00:00:00",
+  "ISSUEDATE": "July, 15 2026 00:00:00",
+  "DAYSTOISSUE": 0,
+  "ESTPROJECTCOST": 175000.0000,
+  "APPLICATIONDESCRIPTION": "INTERIOR & EXTERIOR ALTERATIONS"
+}
+{
+  "ADDRESS": "3460-70 HAMPTON AV",
+  "PROJECTTYPE": "Addition",
+  "STRUCTURETYPE": 35,
+  "APPLICATIONDATE": "July, 10 2026 00:00:00",
+  "ISSUEDATE": "July, 15 2026 00:00:00",
+  "DAYSTOISSUE": 5,
+  "ESTPROJECTCOST": 10000.0000,
+  "APPLICATIONDESCRIPTION": "New fire alarm in a newly renovated building"
+}
+{
+  "ADDRESS": "3319-25 LEMP AV",
+  "PROJECTTYPE": "Alteration",
+  "STRUCTURETYPE": 34,
+  "APPLICATIONDATE": "July, 12 2026 00:00:00",
+  "ISSUEDATE": "July, 15 2026 00:00:00",
+  "DAYSTOISSUE": 3,
+  "ESTPROJECTCOST": 5000.0000,
+  "APPLICATIONDESCRIPTION": "Enlargement of an existing window to accomodate a new wood storefront and entry door."
+}
+{
+  "ADDRESS": "3141-3 MERAMEC ST",
+  "PROJECTTYPE": "Alteration",
+  "STRUCTURETYPE": 34,
+  "APPLICATIONDATE": "March, 06 2026 00:00:00",
+  "ISSUEDATE": "July, 15 2026 00:00:00",
+  "DAYSTOISSUE": 131,
+  "ESTPROJECTCOST": 150000.0000,
+  "APPLICATIONDESCRIPTION": "INT ALTS (1F,2F,3F)"
+}
+{
+  "ADDRESS": "2401 S 12TH ST",
+  "PROJECTTYPE": "Addition",
+  "STRUCTURETYPE": 28,
+  "APPLICATIONDATE": "June, 17 2026 00:00:00",
+  "ISSUEDATE": "July, 15 2026 00:00:00",
+  "DAYSTOISSUE": 28,
+  "ESTPROJECTCOST": 1252.0000,
+  "APPLICATIONDESCRIPTION": "Recover awning with signage"
+}
+{
+  "ADDRESS": "1119-21 KENTUCKY AV",
+  "PROJECTTYPE": "Addition",
+  "STRUCTURETYPE": 22,
+  "APPLICATIONDATE": "June, 22 2026 00:00:00",
+  "ISSUEDATE": "July, 15 2026 00:00:00",
+  "DAYSTOISSUE": 23,
+  "ESTPROJECTCOST": 5000.0000,
+  "APPLICATIONDESCRIPTION": "Construction of a 6-foot-tall wooden privacy fence around the rear yard and parking pad area. The fence is to be built using pressure-treated lumber, concrete-set posts, and wood privacy pickets, including a gate for access. The permit includes the site layout, fence plan, and elevation details for the installation."
 }
 {
   "ADDRESS": "925 IRON ST",
